@@ -1,2 +1,2 @@
-# BCFeather.github.io
-A personal blog platform of Caozhe Bao from Chizhou, Anhui, China.
+# FMLSmiles.com
+Share the school life of Class 911 of No. 10 Middle School, Chizhou.
