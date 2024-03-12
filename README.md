@@ -1,2 +1,2 @@
-# BCFeather.GitHub.io
+# BlogFeather
 Records life, records happiness.
