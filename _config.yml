@@ -1,1 +1,12 @@
-theme: Cayman
+theme: "Cayman"
+name: "BlogFeather"
+discription: "Share live stories."
+footer-links: 
+    zhihu: BCfeather
+    email: baocz2008@outlook.com
+    twitter: CaozheB72170
+gitalk:
+    clientID: 
+    clientSecret: 
+    repo: BCFeather.github.io
+    owner: BCFeather    
