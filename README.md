@@ -1,2 +1,2 @@
 # BlogFeather
-Records life, records happiness.
+Recording life, recording happiness.
