@@ -1,4 +1,4 @@
-theme: "Chirpy"
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.6.0
 name: "BlogFeather"
 discription: "Your view also matters."
 footer-links: 
@@ -9,4 +9,4 @@ gitalk:
     clientID: Iv1.2886b3c78d59f28f
     clientSecret: a5af94f0e0aabf878256ce37395d8071bfb78859
     repo: BCFeather.github.io
-    owner: BCFeather    
+    owner: BCFeather
