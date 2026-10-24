@@ -21,4 +21,12 @@ In February this year Qiu's group published a paper in Nature describing preclin
 
 The medical school's statement said it attached great importance to the reports and firmly opposed medical research conducted in breach of ethics and regulation. Mei's parents said they were willing to help the investigation and provide whatever information was needed.
 
-The case has sharpened a debate that has followed gene editing since it first moved from the laboratory to the clinic. The technology offers real hope for children with severe, progressive conditions that have no treatment. It is now being tested on rare diseases one patient at a time, sometimes with the family's own money and without the scrutiny the stakes demand. A child's death that went unmentioned for more than a year suggests the safeguards on paper did not catch this one. The investigation will decide who was responsible and whether rules were broken. What it cannot settle is the harder question: whether the systems meant to protect the next child will be any stronger than the ones that failed this time.
+## A personal view
+
+I found one detail harder to shake than the rest. Mei's parents paid more than eight hundred thousand dollars towards a treatment that no regulator, in the ordinary sense, had cleared. They were not investors and they were not sponsors. They were parents who had been told there might be a way to fix their child, and they reached for it with everything they had. I am not going to call that decision foolish, because I am not in their position, and neither is anyone who is judging it from outside.
+
+What the money reveals is more uncomfortable. When a family has to fund the research that might save their child, the usual checks fall away. The family has every reason to want the treatment to happen, and the team has every reason to try it. The distance that is supposed to exist between a patient and a researcher, the careful disagreement about whether the risk is worth taking, largely disappears. A trial built on shared hope has already lost part of its judgement.
+
+I do not think this case is an argument against gene editing. The field is young, the promise is real, and the world will keep needing it. The case is an argument about who watches the people who build these treatments. A child died in March 2025 and the fact stayed hidden for sixteen months. That tells you something about the pressure to be first, and about how little pressure exists to stop and ask whether a trial should be happening at all.
+
+I hope the investigation is thorough and its findings are published in full. The family deserves that much, and so does every family who will one day be handed the same impossible choice.
