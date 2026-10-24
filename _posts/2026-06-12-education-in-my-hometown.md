@@ -10,7 +10,7 @@ Everyone in China talks about education reform. You hear it on the evening news,
 
 In the elite private schools of Shanghai, reform sounds like a suggestion. A soft-spoken consultant mentions 'holistic growth' or 'global perspectives.' It is a gentle nudge. The kids wear uniforms that don't fit because they spend more time in debate clubs than in morning exercises. They worry about their personal statements and whether their volunteer trip to Kenya will look good on their Ivy League applications. To them the system is a concierge service that opens doors before you ask.
 
-In Haidian, Beijing, it is a different beast. There is no suggestion, only a mandate. It is the white noise of rote memorisation, the frantic tapping of mechanical pencils, thousands of hearts beating in sync under the pressure of a clock. Education there has dropped any pretence of learning. It is a sorting mechanism running at full speed, dividing students into winners and losers. The rooms smell of printer toner and sweat. The kids don't read for pleasure; they decode for survival.
+In Haidian, Beijing, it is a different beast. There is no suggestion, only a mandate. It is the white noise of rote memorization, the frantic tapping of mechanical pencils, thousands of hearts beating in sync under the pressure of a clock. Education there has dropped any pretence of learning. It is a sorting mechanism running at full speed, dividing students into winners and losers. The rooms smell of printer toner and sweat. The kids don't read for pleasure; they decode for survival.
 
 Then you come home, back to Anhui. Here that call for change sounds like a question, and a quiet one.
 
