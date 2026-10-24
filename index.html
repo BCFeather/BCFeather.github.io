@@ -26,6 +26,16 @@ ref: home
   .home-readmore{ display:flex; justify-content:center; margin-top:1.9rem; }
   .home-readmore .btn{ display:inline-block; padding:.6rem 1.9rem; border-radius:999px; font-weight:600; text-decoration:none; border:1px solid var(--link-color,#0056b2); color:var(--link-color,#0056b2); background:transparent; transition:background .2s, color .2s; }
   .home-readmore .btn:hover{ background:var(--link-color,#0056b2); color:#fff; }
+  .home-carousel{ position:relative; margin:0 1rem 2.4rem; }
+  .home-featured-card.carousel-slide{ display:none; margin-bottom:0; }
+  .home-featured-card.carousel-slide.active{ display:block; }
+  .carousel-btn{ position:absolute; top:50%; transform:translateY(-50%); width:2.5rem; height:2.5rem; border-radius:50%; border:1px solid var(--main-border-color,#e9ecef); background:var(--card-bg,#fff); color:var(--heading-color,#2a2a2a); cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.15rem; line-height:1; box-shadow:0 2px 6px rgba(0,0,0,.08); z-index:2; padding:0; }
+  .carousel-btn:hover{ background:var(--link-color,#0056b2); border-color:var(--link-color,#0056b2); color:#fff; }
+  .carousel-btn.prev{ left:-1.1rem; }
+  .carousel-btn.next{ right:-1.1rem; }
+  .carousel-dots{ display:flex; justify-content:center; gap:.55rem; margin-top:1rem; }
+  .carousel-dots .dot{ width:.6rem; height:.6rem; border-radius:50%; border:none; padding:0; background:var(--main-border-color,#e9ecef); cursor:pointer; transition:background .2s; }
+  .carousel-dots .dot.active{ background:var(--link-color,#0056b2); }
   @media (max-width:576px){ .home-hero{padding:2.3rem 1.2rem;} .home-hero h1{font-size:2.3rem;} .home-post{flex-direction:column; gap:.3rem;} .home-post .date{flex:none;} }
   @media (prefers-color-scheme: dark){
     .home-hero{ background:#1c1f26; border-color:#2d313a; }
@@ -33,6 +43,9 @@ ref: home
     .home-hero h1, .home-section-title, .home-featured-card h3, .home-post h3{ color:#e6e6e6; }
     .home-hero .intro, .home-featured-card .desc, .home-post .desc{ color:#c3c6cc; }
     .home-featured-card .meta, .home-post .date{ color:#8a8f98; }
+    .carousel-btn{ background:#1c1f26; border-color:#2d313a; color:#e6e6e6; box-shadow:0 2px 6px rgba(0,0,0,.4); }
+    .carousel-btn:hover{ background:#7fb2ff; border-color:#7fb2ff; color:#1c1f26; }
+    .carousel-dots .dot{ background:#2d313a; }
     .home-hero .tagline{ color:#7fb2ff; }
   }
 </style>
@@ -47,17 +60,47 @@ ref: home
   </div>
 </div>
 
-{% assign featured = site.posts | first %}
-{% if featured %}
+{% assign featured_posts = site.posts | limit:5 %}
+{% if featured_posts.size > 0 %}
 <section>
   <h2 class="home-section-title">Featured</h2>
-  <a class="home-featured-card" href="{{ featured.url | relative_url }}">
-    <div class="meta">Featured &middot; {{ featured.date | date: "%-d %b %Y" }}</div>
-    <h3>{{ featured.title }}</h3>
-    {% if featured.description %}<p class="desc">{{ featured.description }}</p>{% endif %}
-  </a>
+  <div class="home-carousel" id="featuredCarousel">
+    {% for post in featured_posts %}
+    <a class="home-featured-card carousel-slide{% if forloop.first %} active{% endif %}" href="{{ post.url | relative_url }}">
+      <div class="meta">Featured &middot; {{ post.date | date: "%-d %b %Y" }}</div>
+      <h3>{{ post.title }}</h3>
+      {% if post.description %}<p class="desc">{{ post.description }}</p>{% endif %}
+    </a>
+    {% endfor %}
+    <button class="carousel-btn prev" type="button" aria-label="Previous featured post">&#10094;</button>
+    <button class="carousel-btn next" type="button" aria-label="Next featured post">&#10095;</button>
+    <div class="carousel-dots" aria-label="Featured post selection">
+      {% for post in featured_posts %}
+      <button class="dot{% if forloop.first %} active{% endif %}" type="button" aria-label="Featured post {{ forloop.index }}"></button>
+      {% endfor %}
+    </div>
+  </div>
 </section>
 {% endif %}
+
+<script>
+(function () {
+  var wrap = document.getElementById('featuredCarousel');
+  if (!wrap) { return; }
+  var slides = Array.prototype.slice.call(wrap.querySelectorAll('.carousel-slide'));
+  var dots = Array.prototype.slice.call(wrap.querySelectorAll('.dot'));
+  var idx = 0;
+  function show(i) {
+    idx = (i + slides.length) % slides.length;
+    slides.forEach(function (s, k) { s.classList.toggle('active', k === idx); });
+    dots.forEach(function (d, k) { d.classList.toggle('active', k === idx); });
+  }
+  wrap.querySelector('.carousel-btn.prev').addEventListener('click', function () { show(idx - 1); });
+  wrap.querySelector('.carousel-btn.next').addEventListener('click', function () { show(idx + 1); });
+  dots.forEach(function (d, i) { d.addEventListener('click', function () { show(i); }); });
+  show(0);
+})();
+</script>
 
 <section>
   <h2 class="home-section-title">Latest posts</h2>
