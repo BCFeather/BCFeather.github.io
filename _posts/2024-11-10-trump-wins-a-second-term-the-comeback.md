@@ -9,7 +9,7 @@ On 5 November 2024, Donald Trump won a second term in the White House, beating V
 
 The scale of the victory surprised many. Trump took the Electoral College by a projected 312 to 226 and, for the first time for a Republican since 2004, won the national popular vote. Republicans also won control of the Senate and held the House, which gave the incoming administration control of Washington for at least two years.
 
-Harris conceded the next day and urged her supporters to accept the result. Trump, speaking to a crowd in Florida, called the night "the greatest political comeback in history" and promised that a "golden age" for America was beginning.
+Harris conceded the next day and urged her supporters to accept the result. Trump, speaking to a crowd in Florida, called the night 'the greatest political comeback in history' and promised that a 'golden age' for America was beginning.
 
 The exit polls told a fairly consistent story. Voters ranked inflation and the cost of living at the top of their concerns, and a majority said the country was heading in the wrong direction. Trump gained ground across nearly every demographic compared with 2020, and the shift was especially pronounced among working-class voters and Latino voters, groups that had been drifting away from the Democratic coalition for years. Harris carried the affluent suburbs and did well with college-educated voters, but the Electoral College rewarded the rural and blue-collar counties that swung back to Trump.
 
