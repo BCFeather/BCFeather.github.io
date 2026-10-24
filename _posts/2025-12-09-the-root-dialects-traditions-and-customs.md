@@ -34,7 +34,7 @@ China's strength was never uniformity. It is its vastness, its capacity to hold 
 
 Consider the students from underdeveloped places, the ones waiting for opportunities. Their value isn't just their potential to become standardised cogs in the national economy. A student who grew up listening to Huaiguo opera in the north has a different sense of rhythm and narrative than a student raised on classical poetry in Hefei. The student who helped harvest tea leaves in the misty mountains of Huangshan understands patience and the relationship between labour and reward in a way no textbook can replicate.
 
-Discussions about 'education reform' or 'bridging the gap' often focus on giving these students the same textbooks, the same exams, the same chances to become 'standard.' But what if the goal shouldn't be standardisation? What if the real opportunity is to bring these non-standard experiences into the centre of the conversation?
+Discussions about 'education reform' or 'bridging the gap' often focus on giving these students the same textbooks, the same exams, the same chances to become 'standard.' But what if the goal shouldn't be standardization? What if the real opportunity is to bring these non-standard experiences into the centre of the conversation?
 
 In natural language processing, one of the biggest challenges is context, sarcasm, cultural nuance. A machine can translate 'It's raining cats and dogs' literally and miss the point. It can read a Chinese poem about missing home and fail to grasp the visceral homesickness that hits a migrant worker from Anhui when he hears his village dialect over a crackly phone line. These systems have something to learn from a background rooted in dialect and custom.
 
