@@ -1,0 +1,18 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+article .content {
+  font-family: Georgia, "Times New Roman", "Songti SC", "Noto Serif SC", SimSun, serif;
+}
