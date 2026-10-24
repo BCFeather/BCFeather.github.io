@@ -1,6 +1,6 @@
 ---
 title: "One year of Takaichi: defence first, and the support that fell away"
-date: 2026-10-21 21:08:00 +0800
+date: 2026-10-06 21:08:00 +0800
 tags: [japan, politics, defence, commentary]
 description: A year after Takaichi Sanae became Japan's first female prime minister, her defence agenda is unmistakable and her approval rating is sliding. A review of what the year has shown.
 ---
