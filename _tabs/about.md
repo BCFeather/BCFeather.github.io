@@ -11,4 +11,4 @@ My perspective carries the mark of two places: the rooted, subtle sensibilities 
 
 Some may argue that, as a STEM student, I shouldn't put too much effort into thinking about social issues and technological fields that aren't my major. However, I believe breakthroughs in AI and the life sciences never exist in a vacuum. Every technical choice carries social weight; every new tool reshapes norms, power structures and ordinary people’s lives. Separating technical knowledge from its human context only gives us an incomplete, narrow understanding of progress. This blog is where I bridge those domains to think across boundaries, ask hard questions, and observe how science, technology and society constantly shape one another.
 
-All views expressed are my personal reflections, separate from any institutional stance. If you find resonance, disagreement, or questions within these pages, you are welcome to get in touch.
+All views expressed are my personal reflections, separate from any institutional stance. If you find resonance, disagreement, or questions within these pages, you are welcome to comment below or to get in touch.
