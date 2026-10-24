@@ -1,6 +1,7 @@
 ---
 layout: page
 title: License
+permalink: /license/
 ---
 
 The open-source software I publish, and the building blocks this website depends on, are covered by the licences below.
