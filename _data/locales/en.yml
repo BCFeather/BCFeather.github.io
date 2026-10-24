@@ -1,6 +1,7 @@
 # The layout text of site
 # ----- Commons label -----
 layout:
+  default: homepage
   post: Post
   category: Category
   tag: Tag
