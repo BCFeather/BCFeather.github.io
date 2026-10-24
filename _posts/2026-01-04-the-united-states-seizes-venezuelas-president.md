@@ -7,7 +7,7 @@ description: In the early hours of 3 January 2026, US forces raided Caracas and 
 
 In the early hours of 3 January 2026, United States special operations forces carried out a raid on Caracas and took Nicolás Maduro, Venezuela's president, along with his wife Cilia Flores, out of the country. Hours later they appeared in federal court in New York, facing charges of drug trafficking and related offences. Maduro said he was innocent.
 
-The operation was unusually open about its own details. President Trump said he gave the order at 10:46 p.m. on 2 January. The chairman of the Joint Chiefs described an effort involving more than 150 aircraft, with the couple brought aboard a US warship at 3:29 a.m. on the 3rd. Trump announced the capture at a press conference at Mar-a-Lago the same morning, saying the United States would "manage" Venezuela until a "secure" transition could be arranged.
+The operation was unusually open about its own details. President Trump said he gave the order at 10:46 p.m. on 2 January. The chairman of the Joint Chiefs described an effort involving more than 150 aircraft, with the couple brought aboard a US warship at 3:29 a.m. on the 3rd. Trump announced the capture at a press conference at Mar-a-Lago the same morning, saying the United States would 'manage' Venezuela until a 'secure' transition could be arranged.
 
 Maduro and his wife made their first appearance before a judge in the Southern District of New York on 5 January, where they rejected the charges. They are being held at the Metropolitan Detention Center in Brooklyn.
 
