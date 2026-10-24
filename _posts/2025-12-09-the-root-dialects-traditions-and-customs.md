@@ -1,6 +1,6 @@
 ---
 title: "The root: dialects, traditions and customs"
-date: 2025-12-09 00:00:00 +0800
+date: 2025-12-09 09:21:00 +0800
 tags: [Dialects, Culture, Anhui, Language]
 categories: [Culture, Language]
 description: "Anhui is a mosaic of dialects, traditions and customs. Why protecting them matters — not as resistance to progress, but as a guarantee that when we arrive at the future, we do not arrive alone."
