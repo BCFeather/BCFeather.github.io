@@ -44,4 +44,4 @@ But we have to leave room for the sounds that don't fit the broadcast standard.
 
 *Sometimes the most important things are not said in perfect Mandarin.* They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer reads the weather from the shape of a cloud, in the way a community repairs a bridge after a storm. These habits are what have kept civilisations alive through famine, war, and revolution.
 
-Let the dialects live, and let the customs breathe. The 'embarrassing provinces' have something to say.
+Let the dialects live, and let the customs breathe. The 'embarrassed provinces' have something to say.
