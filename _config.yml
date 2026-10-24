@@ -1,12 +1,19 @@
-remote_theme: cotes2020/jekyll-theme-chirpy@v7.6.0
-name: "BlogFeather"
-discription: "Your view also matters."
-footer-links: 
-    zhihu: BCfeather
-    email: baocz2008@outlook.com
-    twitter: CaozheB72170
-gitalk:
-    clientID: Iv1.2886b3c78d59f28f
-    clientSecret: a5af94f0e0aabf878256ce37395d8071bfb78859
-    repo: BCFeather.github.io
-    owner: BCFeather
+theme: jekyll-theme-chirpy
+lang: en
+timezone: Asia/Shanghai
+title: BlogFeather
+tagline: Your view also matters.
+description: Your view also matters.
+url: "https://bcfeather.github.io"
+baseurl: ""
+github:
+  username: BCFeather
+twitter:
+  username: CaozheB72170
+social:
+  name: BCFeather
+  email: baocz2008@outlook.com
+  links:
+    - https://twitter.com/CaozheB72170
+    - https://github.com/BCFeather
+paginate: 10
