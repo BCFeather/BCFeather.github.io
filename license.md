@@ -33,7 +33,7 @@ This website is built on open-source software and is hosted by [GitHub Pages](ht
 | [Jekyll](https://jekyllrb.com) | Static site generator | MIT |
 | [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) | Site theme | MIT |
 | [Bootstrap](https://getbootstrap.com) | CSS framework | MIT |
-| [Lato](https://fonts.google.com/specimen/Lato) · [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3) | Web fonts | SIL Open Font License 1.1 |
+| [Lato](https://fonts.google.com/specimen/Lato), [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3) | Web fonts | SIL Open Font License 1.1 |
 | [Font Awesome](https://fontawesome.com) | Icons | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
 | [tocbot](https://tscanlin.github.io/tocbot/) | Table of contents | MIT |
 | [Glightbox](https://biati-digital.github.io/glightbox/) | Lightbox | MIT |
