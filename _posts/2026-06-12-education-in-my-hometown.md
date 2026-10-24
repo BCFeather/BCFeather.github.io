@@ -1,6 +1,6 @@
 ---
 title: "Education in my hometown"
-date: 2025-05-12 15:48:00 +0800
+date: 2026-06-12 15:48:00 +0800
 tags: [Education, China, Anhui]
 categories: [Life, Education]
 description: "Growing up in Anhui, a province caught between China's coastal prosperity and its forgotten heartland, and why the call for education reform sounds different depending on where you stand."
