@@ -3,8 +3,7 @@ layout: default
 ref: home
 ---
 <style>
-  .home-hero{ background:linear-gradient(160deg,#f7f9fb 0%,#eef3f9 100%); border:1px solid var(--main-border-color,#e9ecef); border-radius:18px; padding:3.4rem 2.5rem 3rem; text-align:center; margin:0 0 2.6rem; }
-  .home-hero .eyebrow{ text-transform:uppercase; letter-spacing:.18em; font-size:.78rem; color:var(--text-muted-color,#757575); margin-bottom:.7rem; }
+  .home-hero{ border:1px solid var(--main-border-color,#e9ecef); border-radius:18px; padding:3.4rem 2.5rem 3rem; text-align:center; margin:0 0 2.6rem; }
   .home-hero h1{ font-size:3rem; font-weight:700; margin:0 0 .4rem; color:var(--heading-color,#2a2a2a); letter-spacing:-.01em; }
   .home-hero .tagline{ font-size:1.3rem; color:var(--link-color,#0056b2); font-weight:600; margin:0 0 1rem; }
   .home-hero .intro{ max-width:640px; margin:0 auto 1.7rem; color:var(--main-text-color,#34343c); line-height:1.8; }
@@ -26,17 +25,16 @@ ref: home
   .home-post .desc{ margin:0; font-size:.95rem; color:var(--main-text-color,#34343c); line-height:1.65; }
   @media (max-width:576px){ .home-hero{padding:2.3rem 1.2rem;} .home-hero h1{font-size:2.3rem;} .home-post{flex-direction:column; gap:.3rem;} .home-post .date{flex:none;} }
   @media (prefers-color-scheme: dark){
-    .home-hero{ background:linear-gradient(160deg,#1c1f26 0%,#14161a 100%); border-color:#2d313a; }
+    .home-hero{ background:#1c1f26; border-color:#2d313a; }
     .home-featured-card{ background:#1c1f26; border-color:#2d313a; box-shadow:0 2px 6px rgba(0,0,0,.4); }
     .home-hero h1, .home-section-title, .home-featured-card h3, .home-post h3{ color:#e6e6e6; }
     .home-hero .intro, .home-featured-card .desc, .home-post .desc{ color:#c3c6cc; }
-    .home-hero .eyebrow, .home-featured-card .meta, .home-post .date{ color:#8a8f98; }
+    .home-featured-card .meta, .home-post .date{ color:#8a8f98; }
     .home-hero .tagline{ color:#7fb2ff; }
   }
 </style>
 
 <div class="home-hero">
-  <div class="eyebrow">A personal blog by Caozhe Bao</div>
   <h1>BlogFeather</h1>
   <p class="tagline">Your view also matters.</p>
   <p class="intro">Observing the world, reflecting on current affairs and social phenomena, and sharing recent advances in STEM with a dose of rational thought.</p>
