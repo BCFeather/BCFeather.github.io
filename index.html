@@ -26,9 +26,10 @@ ref: home
   .home-readmore{ display:flex; justify-content:center; margin-top:1.9rem; }
   .home-readmore .btn{ display:inline-block; padding:.6rem 1.9rem; border-radius:999px; font-weight:600; text-decoration:none; border:1px solid var(--link-color,#0056b2); color:var(--link-color,#0056b2); background:transparent; transition:background .2s, color .2s; }
   .home-readmore .btn:hover{ background:var(--link-color,#0056b2); color:#fff; }
-  .home-carousel{ position:relative; height:12.5rem; margin:0 1rem 2.4rem; }
-  .home-featured-card.carousel-slide{ position:absolute; top:0; left:0; width:100%; height:100%; margin-bottom:0; display:none; overflow:hidden; }
-  .home-featured-card.carousel-slide.active{ display:flex; flex-direction:column; justify-content:center; }
+  .home-carousel{ position:relative; margin:0 1rem 2.4rem; }
+  .carousel-viewport{ overflow:hidden; border-radius:14px; }
+  .carousel-track{ display:flex; height:12.5rem; transition:transform .55s ease; }
+  .home-featured-card.carousel-slide{ flex:0 0 100%; height:100%; margin:0; display:flex; flex-direction:column; justify-content:center; }
   .carousel-btn{ position:absolute; top:50%; transform:translateY(-50%); width:2.5rem; height:2.5rem; border-radius:50%; border:1px solid var(--main-border-color,#e9ecef); background:var(--card-bg,#fff); color:var(--heading-color,#2a2a2a); cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.15rem; line-height:1; box-shadow:0 2px 6px rgba(0,0,0,.08); z-index:2; padding:0; }
   .carousel-btn:hover{ background:var(--link-color,#0056b2); border-color:var(--link-color,#0056b2); color:#fff; }
   .carousel-btn.prev{ left:-1.1rem; }
@@ -69,13 +70,17 @@ ref: home
 <section>
   <h2 class="home-section-title">Featured</h2>
   <div class="home-carousel" id="featuredCarousel">
-    {% for post in featured_posts %}
-    <a class="home-featured-card carousel-slide{% if forloop.first %} active{% endif %}" href="{{ post.url | relative_url }}">
-      <div class="meta">Featured &middot; {{ post.date | date: "%-d %b %Y" }}</div>
-      <h3>{{ post.title }}</h3>
-      {% if post.description %}<p class="desc">{{ post.description }}</p>{% endif %}
-    </a>
-    {% endfor %}
+    <div class="carousel-viewport">
+      <div class="carousel-track">
+        {% for post in featured_posts %}
+        <a class="home-featured-card carousel-slide" href="{{ post.url | relative_url }}">
+          <div class="meta">Featured &middot; {{ post.date | date: "%-d %b %Y" }}</div>
+          <h3>{{ post.title }}</h3>
+          {% if post.description %}<p class="desc">{{ post.description }}</p>{% endif %}
+        </a>
+        {% endfor %}
+      </div>
+    </div>
     <button class="carousel-btn prev" type="button" aria-label="Previous featured post">&#10094;</button>
     <button class="carousel-btn next" type="button" aria-label="Next featured post">&#10095;</button>
     <div class="carousel-dots" aria-label="Featured post selection">
@@ -91,28 +96,29 @@ ref: home
 (function () {
   var wrap = document.getElementById('featuredCarousel');
   if (!wrap) { return; }
-  var slides = Array.prototype.slice.call(wrap.querySelectorAll('.carousel-slide'));
+  var track = wrap.querySelector('.carousel-track');
   var dots = Array.prototype.slice.call(wrap.querySelectorAll('.dot'));
   var prevBtn = wrap.querySelector('.carousel-btn.prev');
   var nextBtn = wrap.querySelector('.carousel-btn.next');
+  var count = track.children.length;
   var idx = 0;
   var timer = null;
   var AUTO_MS = 5000;
 
   function render() {
-    slides.forEach(function (s, k) { s.classList.toggle('active', k === idx); });
+    track.style.transform = 'translateX(-' + (idx * 100) + '%)';
     dots.forEach(function (d, k) { d.classList.toggle('active', k === idx); });
     prevBtn.disabled = (idx === 0);
-    nextBtn.disabled = (idx === slides.length - 1);
+    nextBtn.disabled = (idx === count - 1);
   }
   function go(i) {
-    idx = Math.max(0, Math.min(slides.length - 1, i));
+    idx = Math.max(0, Math.min(count - 1, i));
     render();
   }
   function startAuto() {
     stopAuto();
     timer = setInterval(function () {
-      idx = (idx + 1) % slides.length;
+      idx = (idx + 1) % count;
       render();
     }, AUTO_MS);
   }
@@ -131,7 +137,7 @@ ref: home
   });
   wrap.addEventListener('mouseenter', stopAuto);
   wrap.addEventListener('mouseleave', startAuto);
-  go(0);
+  render();
   startAuto();
 })();
 </script>
