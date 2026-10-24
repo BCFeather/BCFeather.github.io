@@ -1,5 +1,5 @@
 ---
-title: "722 papers in one night"
+title: "722 papers in one night: is OpenAI harming mathematics?"
 date: 2026-10-10 10:24:00 +0800
 tags: [AI, Mathematics, OpenAI, Research]
 categories: [Technology, Mathematics]
