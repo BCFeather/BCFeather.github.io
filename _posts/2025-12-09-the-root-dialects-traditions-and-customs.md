@@ -3,7 +3,7 @@ title: "The root: dialects, traditions and customs"
 date: 2025-12-09 09:21:00 +0800
 tags: [Dialects, Culture, Anhui, Language]
 categories: [Culture, Language]
-description: "Anhui is a mosaic of dialects, traditions and customs. Why protecting them matters, and what they stand to lose in an age of standardisation."
+description: "Anhui is a mosaic of dialects, traditions and customs. Why protecting them matters, and what they stand to lose in an age of standardization."
 ---
 
 Anhui is a mosaic of dialects. The range is wide: Zhongyuan Mandarin, Jianghuai Mandarin, Gan, Wu, and Hui across the province, with Min, Hakka, and Shehua surviving in isolated pockets. To outsiders it sounds like a chaotic mess of accents. Linguists might call it a living record of the region's history. To me it is simply the sound of home.
@@ -24,7 +24,7 @@ In these villages the customs are subtle and tied to the land. The tradition of 
 
 Then there is the food, the fullest expression of cultural identity. Anhui cuisine ranks among the Eight Great Cuisines of China, yet it is the least understood. It is about fire and time: slow cooking, careful seasoning, and the patience that a mountainous, humid climate demands. Dishes like Li Hongzhang Hotchpotch or Stewed Soft-shelled Turtle with Ham came out of the need to preserve food. Smoking, salting, and braising were techniques passed down through families, taught not from Mandarin cookbooks but in kitchens, through the spoken word, through the dialect.
 
-The tragedy of modern development is forgetting the old while learning the new. In the age of artificial intelligence we train machines to understand hundreds of languages while we let human tongues fall silent. If an algorithm can recognise Cantonese, Wu, or Shehua, surely a society can let its people speak them without shame.
+The tragedy of modern development is forgetting the old while learning the new. In the age of artificial intelligence we train machines to understand hundreds of languages while we let human tongues fall silent. If an algorithm can recognize Cantonese, Wu, or Shehua, surely a society can let its people speak them without shame.
 
 That brings us to artificial intelligence. We live in an era obsessed with optimisation, efficiency, and standardisation. We train AI models to write essays, diagnose diseases, and drive cars. But look at what we feed these machines. Mostly English, sometimes Mandarin, generally the narratives of the global north and coastal elites. The dataset for a farmer's dialect in Fuyang is missing. The folk songs of the She people are absent from the training sets. No algorithm understands why a village in Anhui points its houses toward a specific direction.
 
