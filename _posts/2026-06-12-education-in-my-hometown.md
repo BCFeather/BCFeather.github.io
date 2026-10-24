@@ -30,7 +30,7 @@ The world sells us a story: success means leaving. Leave Anhui for Shanghai, the
 
 That 'embarrassment' of being from nowhere, of having no background, is my edge. Having nothing taught me how to hustle. Being invisible showed me how the system cheats people. Climbing the ladder isn't enough. I want to kick the whole thing over and build a wider one. I want to be the one who designs the new ladder.
 
-Change doesn't start with a government policy or a new curriculum. It starts with a kid in a dark room, scratching notes onto scrap paper because he ran out of notebooks. It starts with the realisation that 'ordinary' is a trick they play to keep you quiet, to keep you in your place.
+Change doesn't start with a government policy or a new curriculum. It starts with a kid in a dark room, scratching notes onto scrap paper because he ran out of notebooks. It starts with the realization that 'ordinary' is a trick they play to keep you quiet, to keep you in your place.
 
 I don't need sympathy. I don't want pity. I want a chair at the table. I want to prove that the smartest kids in the country aren't all in Beijing or Shanghai. They're in the places you forgot to look: in the internet cafés, in the fields, in the back rows of underfunded classrooms, waiting for someone to just throw them the ball.
 
