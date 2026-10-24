@@ -1,6 +1,6 @@
 ---
 title: "Are we pushing ourselves too hard?"
-date: 2026-10-24 00:00:00 +0800
+date: 2026-10-24 20:05:00 +0800
 tags: [East Asia, Competition, Involution, Society]
 categories: [Society, Life]
 description: "East Asia's population-driven competition is exhausting — but the root of involution is not population size, it is the saturation of a single development track. A reflection on finding a more diverse, rational competitive ecology."
