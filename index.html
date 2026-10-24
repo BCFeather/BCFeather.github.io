@@ -138,7 +138,7 @@ ref: home
 
 <section>
   <h2 class="home-section-title">Latest posts</h2>
-  {% for post in site.posts offset:1 limit:5 %}
+  {% for post in site.posts limit:5 %}
   <article class="home-post">
     <div class="date">{{ post.date | date: "%-d %b %Y" }}</div>
     <div>
