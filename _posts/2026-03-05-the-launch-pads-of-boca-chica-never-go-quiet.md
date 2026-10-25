@@ -1,0 +1,19 @@
+---
+title: "The launch pads of Boca Chica never go quiet"
+date: 2026-03-05 09:14:00 +0800
+tags: [space, spacex, rockets, technology]
+categories: [technology]
+description: "In the first week of March, SpaceX flew Starship for the eleventh time in twelve months, and the pace has stopped being news. What was once a spectacle is now a production line, and that quiet normalisation may be the most consequential thing about it."
+---
+
+In the first week of March, SpaceX flew Starship for the eleventh time in twelve months, and the strangest part is how little attention it drew. A decade ago a rocket of this size would have stopped traffic. Now the launch window comes, the pad goes quiet for half an hour, the boosters come home to the tower, and Boca Chica goes back to work. The spectacle has become a schedule, and the schedule is the story.
+
+What has changed is not the hardware so much as the relationship between hardware and time. The original Starship programme treated each flight as an experiment, with long pauses between attempts while engineers argued about what had gone wrong. The current programme treats the flight itself as the experiment. If a prototype has a problem, you find out by flying it, and you fix it on the next build rather than on the drawing board. That approach looks reckless until you notice how many consecutive flights have now landed the booster back on the mechanical arms, which at this point is close to routine.
+
+The economics of this matter more than the theatrics. A launch site that can turn around in days rather than months changes the cost assumptions of everything downstream, from satellite deployment to orbital fuel transfer to the Mars cargo plan that SpaceX keeps describing in the same matter-of-fact tone it used for the tower. I keep coming back to a line an engineer gave a trade magazine in February, that 'the best way to predict the future is to make the launch cadence boring', and it is the most honest sentence about commercial spaceflight I have read in years.
+
+None of this is without its costs, and I do not want to romanticize the place. Boca Chica is a stretch of Texas coast that has been reshaped by a private company with an unusual amount of local patience, and the relationship between the two has had its difficult years. The environmental reviews, the beach closures, the noise complaints and the occasional debris have all been part of the price, and the company has not always been graceful about paying it. My own view is that a community should not have to absorb that indefinitely without a clearer share of the benefit, and Texas has so far chosen to be generous with this particular experiment.
+
+Yet the cadence is worth defending as an idea. Government space programmes in the past bought reliability with paperwork and rare, expensive launches. The commercial approach buys reliability with repetition, and the two philosophies answer different questions. One asks how to make every launch count; the other asks how many launches you can afford to learn from. For a destination as far away and as unforgiving as Mars, I suspect the second question is the one that has to be answered first.
+
+The month ahead will tell more. Starship is scheduled to fly again before April, and the company has said it wants to attempt an uncrewed landing on Mars by the end of the year, a claim I take with a full spoon of salt but no longer a full barrel. Ten years of watching this programme has taught me to stop predicting exactly when these things happen, and to start paying attention to what the repetition itself is producing: a workforce, a supply chain, a body of flight data, and a set of pads that are never quiet for very long. The single flights were the miracle. The schedule is the infrastructure, and infrastructure is what actually carries people to other worlds.

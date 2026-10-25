@@ -1,0 +1,17 @@
+---
+title: "The rate cuts arrive sooner than the Fed wanted"
+date: 2026-04-18 20:11:00 +0800
+tags: [economy, federal-reserve, inflation, news]
+categories: [news]
+description: "The Federal Reserve cut its benchmark rate by a quarter point on 15 April, six weeks earlier than the path its own projections had implied, citing softer employment and a trade shock that is landing faster than expected. The cut was the right call and a worrying one at the same time, which is the state of central banking in 2026."
+---
+
+The Federal Reserve cut its benchmark rate by a quarter point on 15 April, and the timing told its own story. Six weeks earlier the same committee had published projections that implied no move until the middle of the year; the minutes of that meeting used the word 'patient' four times. What changed was not the data so much as the speed of the data: employment softened faster than the models expected, and the tariff-driven price shock that everyone had planned for arrived with a different shape, hitting goods inflation early and services later. Faced with a choice between patience and the labour market, the committee chose the labour market, and I think it was right to.
+
+The uncomfortable part is what the choice reveals about the room the Fed actually has. The old playbook said that a central bank with credibility could look through supply shocks, wait for inflation to pass, and spare the economy the worst of both directions. That playbook assumed that inflation expectations would hold if the bank held its line. The last three years have chipped away at that assumption, and this decision is a quiet admission that the Fed no longer trusts the economy to wait for it. Cutting into a tariff shock is exactly what the textbooks warn against, and the committee did it anyway, because the alternative, watching unemployment drift while waiting for a price spike to fade, was politically and humanly untenable.
+
+The market's reaction was instructive in a way that the press releases were not. Equities rose, bonds rallied, and the dollar fell, which is the classic response to a central bank that has revealed its hand. The dollar move is the part worth watching, because the Fed has just made itself the most dovish of the major central banks at a moment when its currency carries the world's reserve burden. Every basis point of this divergence is a nudge toward the kind of global repricing that finance ministers spend their weekends worrying about.
+
+I am not going to pretend to know where inflation lands next year; nobody does, and the honest ones say so. What I do think is worth saying is that the Federal Reserve has now crossed a line that will be hard to uncross. It has shown that it will prioritize the labour market over its own published path when forced to choose, and every future projection will be read against that precedent. Credibility is not lost in a single cut; it is lost in the pattern of cuts, and the pattern here is a central bank that responds faster than it plans.
+
+The deeper question is whether the Fed's framework still fits the economy it is steering. A world of fragmented supply chains, regional wars and politically directed trade is not the world for which the inflation-targeting consensus was designed, and the tools are showing it. The cut of 15 April was the right medicine for the patient on the table; the worry is that the table itself is changing shape, and no interest rate, however well timed, can stabilize an economy that is being reshaped by politics as much as by prices.

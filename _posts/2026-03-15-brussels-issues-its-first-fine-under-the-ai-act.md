@@ -1,0 +1,17 @@
+---
+title: "Brussels issues its first fine under the AI Act"
+date: 2026-03-15 16:02:00 +0800
+tags: [ai, europe, regulation, law]
+categories: [technology]
+description: "On 13 March the European Commission fined a recruitment platform €1.2 million for running an unregistered high-risk hiring model, the first penalty handed down under the AI Act. The sum is small; the precedent is not, and it reveals how the world's strictest AI regime intends to enforce itself."
+---
+
+On 13 March the European Commission fined a recruitment platform €1.2 million for operating a high-risk hiring model that had never been registered with the EU database, the first penalty under the AI Act. The company, which is based in Dublin and trades across the single market, did not dispute the facts; it had simply treated the registration requirement as paperwork. Brussels treated it as the load-bearing wall of the entire regime, and the fine, modest as it is, is the first real test of whether the world's strictest AI law can be made to bite.
+
+The choice of target was deliberate, and I think the signal is worth reading carefully. Brussels did not fine a frontier lab over a safety question, which would have been a political battle with the biggest companies in the world. It fined a mid-sized firm over an administrative duty, which is precisely the kind of case that establishes the principle that the regime applies to everyone, not just to the firms that dominate the headlines. Regulation is built case by case, and this is the case that the Commission wants future ones to resemble: small, clear, and impossible to argue with.
+
+The sum itself tells a more complicated story. €1.2 million is large enough to sting a company of that size and small enough to be absorbed by the largest players without noticing. The AI Act's maximum penalties scale with revenue, and the structure suggests that the Commission intends to save its heavy artillery for the companies that can actually break the rules at scale. That is a rational enforcement strategy, but it leaves a gap at the middle, where a firm can quietly decide that the expected cost of compliance is higher than the expected cost of the fine, and the math of this first case does not entirely discourage that calculation.
+
+My own view is that the enforcement design matters more than the headline number, and here the Act has two features worth watching. The first is the registration database, which is public, searchable and already becoming a due-diligence tool for buyers and insurers; reputational exposure may end up policing more than the fines do. The second is the requirement that high-risk systems undergo a conformity assessment before deployment, which shifts the burden of proof onto the developer. Neither mechanism is glamorous, but together they are the difference between a law that is occasionally enforced and a law that shapes behaviour before anything goes wrong.
+
+Whether the approach scales remains open. The Act covers everything from recruitment to medical devices, and a Commission with limited staff cannot personally audit every deployment. The reasonable bet is that Brussels will use the first year to make an example of a handful of cases, publish guidance, and let the market discipline the rest. If that bet pays off, the AI Act will have done what most regulators only hope to do: make its own existence routine. The fine is the first chapter, and by the standards of European regulation, it is a surprisingly well-written one.

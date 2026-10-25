@@ -1,0 +1,17 @@
+---
+title: "The implant that learned to listen"
+date: 2026-04-08 18:05:00 +0800
+tags: [neuralink, neuroscience, health, technology]
+categories: [technology]
+description: "Neuralink's third human participant, implanted in February, has reached a decoding rate of more than a hundred words per minute with a new high-density electrode array. The technical progress is real; the harder questions, about who gets this technology and what it is for, have not changed at all."
+---
+
+Neuralink's third human participant, a woman in her forties who lost the use of her arms in an accident, has been typing by thought at a rate that the company says has passed a hundred words per minute, using a new high-density array with more than twice the electrodes of the first two implants. The figures were published in a technical update rather than a press release, which is a small sign of maturity in a company not famous for it. The progress is genuine, and it deserves to be taken seriously on the same terms as any other neurotechnology.
+
+What is actually new here is worth being precise about. Brain-computer interfaces did not begin with this company; people with locked-in syndrome have been moving cursors with their thoughts for over a decade, in university labs with equipment that looked nothing like the polished consumer device in Neuralink's videos. What the new array changes is density and durability: more electrodes, less tissue damage, a wireless system that lets the participant use it at home rather than in a lab. The result is a device that behaves less like a research instrument and more like a tool someone can live with, and that difference, not the word count, is the real frontier.
+
+The word count matters for a different reason. Typing at a hundred words per minute by thought is faster than many people type by hand, and it crosses the threshold where communication stops being the bottleneck for someone with severe paralysis. That is a life-changing number for a small population, and the technology deserves to be celebrated for exactly that, no more and no less. My caution is about the frames that surround it. The same week the update appeared, a dozen companies used the announcement to talk about 'enhancing' healthy brains, as if the implant that helps a paralysed woman communicate were a step toward a consumer accessory, and I find that framing actively unhelpful.
+
+The ethics of this field have not caught up with its engineering, and that gap is growing. The trial questions are the easy ones, consent, safety, long-term stability, and they are being asked. The hard questions are about access and dependence: who pays for an implant that must be maintained for decades, what happens to a person whose ability to communicate depends on a company's continued existence, and how the data stream of a mind-instrument interface is protected from misuse. Those questions are not solved by faster decoding, and they will not be solved by the market.
+
+My own position has settled into something like this. The technology should be pushed as hard as possible for the people who need it, with trial designs that measure quality of life and not just words per minute. It should be regulated as a medical device, which it is, and resisted as a lifestyle product, which it is not. The third participant's achievement is a genuine scientific step, and the best tribute to it is to keep the conversation anchored to the people it helps, and to the obligations it creates, rather than to the stock chart of the company that built it.
