@@ -1,7 +1,8 @@
 ---
 title: "The fall of Assad: a regime that dissolved before it fought"
 date: 2024-12-11 09:40:00 +0800
-tags: [syria, middle-east, assad, geopolitics, commentary]
+tags: [syria, middle-east, assad, geopolitics]
+categories: [geopolitics]
 description: "A lightning rebel offensive ended six decades of Baath rule in Damascus in a fortnight, and the suddenness of the collapse is the point."
 ---
 
