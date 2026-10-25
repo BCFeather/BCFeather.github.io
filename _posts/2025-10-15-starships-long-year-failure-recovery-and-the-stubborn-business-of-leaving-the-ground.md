@@ -1,7 +1,8 @@
 ---
 title: "Starship's long year: failure, recovery and the stubborn business of leaving the ground"
 date: 2025-10-15 16:10:00 +0800
-tags: [space, starship, spacex, technology, commentary]
+tags: [space, starship, spacex, technology]
+categories: [space]
 description: "The most powerful rocket ever built spent 2025 alternating between spectacular destruction and remarkable recovery. A year that shows how hard heavy rocketry really is."
 ---
 
