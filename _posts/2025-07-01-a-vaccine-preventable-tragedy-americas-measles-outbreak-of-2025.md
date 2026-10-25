@@ -1,7 +1,8 @@
 ---
 title: "A vaccine-preventable tragedy: America's measles outbreak of 2025"
 date: 2025-07-01 18:05:00 +0800
-tags: [public-health, measles, vaccines, united-states, commentary]
+tags: [public-health, measles, vaccines, united-states]
+categories: [health]
 description: "A preventable disease swept across American states in 2025, killing children and exposing the cost of falling vaccination rates. The outbreak was a policy failure as much as a medical one."
 ---
 
