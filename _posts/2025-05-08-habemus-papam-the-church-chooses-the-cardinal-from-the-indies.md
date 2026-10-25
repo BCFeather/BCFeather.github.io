@@ -1,5 +1,5 @@
 ---
-title: "Habemus papam and the church’s turn toward Asia"
+title: "Habemus papam and the church’s turn towards Asia"
 date: 2025-05-08 22:05:00 +0800
 tags: [vatican, pope, news]
 categories: [news]
