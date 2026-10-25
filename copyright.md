@@ -20,6 +20,6 @@ Code and configuration files released under the name BCFeather are covered by th
 
 ## Quoting and sharing
 
-Quotations from this site are welcome. For a short excerpt, a link and attribution are all that is asked; for a substantial reproduction, please follow the terms of the CC BY 4.0 licence described above.
+Quotations from this site are welcome. For a short excerpt, a link and attribution are all that is asked; for a substantial reproduction, please follow the terms of the CC BY 4.0 licence described above. All rights reserved.
 
 The copyright in this site, its name, its structure and its content, unless otherwise noted, belongs to Caozhe Bao. Copyright © 2024-2026, and continuing.
