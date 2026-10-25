@@ -1,12 +1,12 @@
 ---
 title: "The night martial law came to Seoul: six hours that unmade a president"
-date: 2024-12-04 09:36:00 +0800
-tags: [korea, politics, news]
+date: 2024-12-04 19:36:00 +0800
+tags: [korea, politics, news,yoon-suk-yeol]
 categories: [news]
-description: "On the night of December 3, President Yoon Suk-yeol declared emergency martial law for the first time in South Korea's democratic era; by four in the morning the National Assembly had voted it down and he had lifted it. Six hours changed the course of the country's politics, and the change was the kind that does not reverse."
+description: "On the night of 3 December, President Yoon Suk-yeol declared emergency martial law for the first time in South Korea's democratic era; by four in the morning the National Assembly had voted it down and he had lifted it. Six hours changed the course of the country's politics, and the change was the kind that does not reverse."
 ---
 
-The night that South Korea will date its politics from began at twenty-two twenty-five on December 3, when President Yoon Suk-yeol appeared on television to declare emergency martial law. The announcement was the first of its kind since the country's democratic transition, and it came with the vocabulary of the past: the opposition accused of paralysing the state, the assembly accused of harbouring sympathisers of the North, the armed forces ordered to secure the institutions. The president's own party leaders called the decision a mistake; the markets opened the next morning to a country that had to ask what the declaration meant.
+The night that South Korea will date its politics from began at 22:25 on 3 December, when President Yoon Suk-yeol appeared on television to declare emergency martial law. The announcement was the first of its kind since the country's democratic transition, and it came with the vocabulary of the past: the opposition accused of paralysing the state, the assembly accused of harbouring sympathisers of the North, the armed forces ordered to secure the institutions. The president's own party leaders called the decision a mistake; the markets opened the next morning to a country that had to ask what the declaration meant.
 
 The assembly's answer came within hours. Lawmakers were blocked from the building, troops were reported at the gates, and helicopters circled over the National Assembly, but the members found their way to the chamber, and the chamber voted unanimously, one hundred and ninety votes with everyone present in favour, to demand the lifting of the order. The speaker declared the martial law invalid; the crowds that had gathered outside the gates chanted against the president; and at four twenty-seven in the morning, roughly six hours after the declaration, Yoon returned to the screen to accept the assembly's demand. The state council approved the lifting before dawn.
 
@@ -16,4 +16,4 @@ The aftermath began immediately, and the aftermath is where the political accoun
 
 The deeper meaning of the night lies in what it revealed about the country's equilibrium. South Korea has weathered impeachments, protests and elections that ended in court rulings, and each time the institutions absorbed the shock; this time the shock came from the presidency itself, which made the test sharper. The presidency's authority will now be weighed against the assembly's majority and the court's calendar, and the weighing is the work of the weeks ahead.
 
-The night martial law came to Seoul, it lasted six hours, and the country that woke on December 4 was not the one that had gone to sleep. The reversal was the democracy's answer, and the answer, delivered unanimously and before dawn, is the reason the episode will be studied as the moment when the institutions held. The president survived the night in office, but the night left him with the country's question hanging over him, and the question is one that no speech can answer.
+The night martial law came to Seoul, it lasted six hours, and the country that woke on 4 December was not the one that had gone to sleep. The reversal was the democracy's answer, and the answer, delivered unanimously and before dawn, is the reason the episode will be studied as the moment when the institutions held. The president survived the night in office, but the night left him with the country's question hanging over him, and the question is one that no speech can answer.
