@@ -1,7 +1,8 @@
 ---
 title: "The Wuhan University library case: an accusation and the slow work of institutions"
 date: 2025-09-21 19:05:00 +0800
-tags: [china, education, society, commentary]
+tags: [china, education, society]
+categories: [society]
 description: The dispute between two students at Wuhan University became one of the most argued-about stories of the summer. After the courts and the university finished their work, the record turned out to be more complicated than anything that went viral.
 ---
 
