@@ -1,7 +1,7 @@
 ---
 title: "From martial law to the dock: a president's year on trial"
 date: 2025-11-28 18:20:00 +0800
-tags: [politics, south-korea, rule-of-law]
+tags: [politics, south-korea, rule-of-law, yoon-suk-yeol]
 categories: [politics]
 description: Six hours of martial law in December 2024 led to impeachment, arrest, removal and a criminal trial that is still running. How South Korea has handled the accusation against Yoon Suk Yeol, and why the slow part matters.
 ---
