@@ -1,0 +1,19 @@
+---
+title: "The long way home for Spring Festival"
+date: 2026-02-11 10:54:00 +0800
+tags: [essay, spring-festival, home, china]
+categories: [essay]
+description: "A week before the new year, the city I grew up in puts on its annual dress rehearsal for reunion. A short essay on Spring Festival in Chizhou, and what the holiday asks of a family that is about to send its only child away to university."
+---
+
+A week before the new year, my hometown puts on its annual dress rehearsal. The streets of Chizhou fill with red lanterns earlier than the calendar strictly requires. The supermarket plays the same ten songs on a loop, the ones everyone pretends to be tired of and nobody actually is. My parents bring home the year's groceries in instalments, salted meat, oranges, nuts, the things that will fill the dishes on the table. The city is doing what it does every February: turning itself, for two weeks, into the idea of home that the whole country is travelling toward.
+
+This year the holiday sits at an odd angle in our house. I am in my last year of high school, and the winter break is shorter than it used to be, a sliver of rest between the mock exams and the countdown that begins again in March. My parents have decided, without announcing it, that this Spring Festival should be quieter than usual. The big banquets with the distant relatives have been scaled down. The evenings are shorter. Nobody says why, but the reason hangs in the apartment: this is the last new year before the exam, and the last one before the household changes shape.
+
+The reunion dinner is still the reunion dinner. My grandmother presides, my aunts arrive with dishes, my cousins, the ones my age, talk about their own exams and universities, and for one evening the year's anxieties are put in their places. I have noticed, in the last few years, that I listen to the adults differently. The stories they tell at the table, about the year that passed, the work, the prices, the health of the old, used to be background noise. Now they are a syllabus. I am learning, from the conversation itself, what kind of adulthood I am about to enter, and the lessons are not in any textbook.
+
+The Spring Festival that the country celebrates is partly a performance, and the performance matters. The trains are full, the fireworks are loud, the greetings are exchanged, and the whole machinery exists to make one point: that a person can go far and still come back. In my parents' generation the going and coming was built into the rhythm of the year. In mine, the distances are longer, and the exam at the end of this year will decide, more than any calendar, where the coming decade happens. I do not know yet whether the rhythm of return can survive the distance it is about to face.
+
+The fireworks this year will be quieter than the ones I remember from childhood, the city has tightened its rules, and the smell of powder is shorter-lived. I notice the change without regretting it. What remains is the part no rule touches: the meal, the table, the people. I am old enough now to see that the festival is a device, a carefully maintained machine for making the family assemble, and old enough to be grateful for it. In a few months I will be sitting an exam that is supposed to determine the next four years. On this table, for these few days, I am just the youngest son of the house, and the machine is doing its job.
+
+The new year arrives, as it always does, in the small hours, with the first of the dumplings and the first phone calls. I will spend the next day, as every year, walking the riverfront with my father, past the old docks and the new buildings, while he tells me, in his way, what he hopes for the coming year. This year I will listen harder. The long way home, the one the whole country travels, begins and ends at tables like this one. Next February I will make the journey from wherever the exam has sent me, and the table will be waiting.
