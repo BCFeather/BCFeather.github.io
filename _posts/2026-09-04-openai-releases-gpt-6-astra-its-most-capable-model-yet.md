@@ -2,6 +2,7 @@
 title: "OpenAI releases GPT-6 Astra, its most capable model yet"
 date: 2026-09-04 09:15:00 +0800
 tags: [ai, openai, gpt, technology]
+categories: [technology]
 description: On 3 September 2026 OpenAI introduced GPT-6 Astra, describing it as its strongest model, with a larger context window, stronger tool use and, for the first time, capabilities at the company's highest level of cybersecurity.
 ---
 
