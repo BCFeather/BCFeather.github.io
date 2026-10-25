@@ -8,7 +8,7 @@ The open-source software I publish, and the building blocks this website depends
 
 ## Software by Caozhe Bao
 
-Code that I release under the name **BCFeather** is licensed under the MIT License unless a specific project ships with its own licence file, in which case that file takes precedence.
+Code that I release under the name **BCFeather** and / or **Caozhe Bao** is licensed under the MIT License unless a specific project ships with its own licence file, in which case that file takes precedence.
 
 ### MIT License
 
