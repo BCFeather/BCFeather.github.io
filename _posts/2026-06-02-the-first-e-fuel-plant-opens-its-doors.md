@@ -1,5 +1,5 @@
 ---
-title: "The first e-fuel plant opens its doors"
+title: "First e-fuel plant opens its doors"
 date: 2026-06-02 18:55:00 +0800
 tags: [energy, climate, technology, transport]
 categories: [technology]

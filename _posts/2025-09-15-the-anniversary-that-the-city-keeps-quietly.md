@@ -1,5 +1,5 @@
 ---
-title: "The anniversary that the city keeps quietly"
+title: "Anniversary that the city keeps quietly"
 date: 2025-09-15 07:48:00 +0800
 tags: [culture, essay, remembrance]
 categories: [culture]

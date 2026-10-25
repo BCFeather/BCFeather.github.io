@@ -1,5 +1,5 @@
 ---
-title: "The 2026 Nobels: celebrating light, language and the long game"
+title: "2026 Nobels: celebrating light, language and the long game"
 date: 2026-10-13 18:45:00 +0800
 tags: [nobel, science, literature, awards]
 categories: [science]

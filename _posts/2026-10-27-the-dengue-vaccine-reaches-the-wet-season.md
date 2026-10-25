@@ -1,5 +1,5 @@
 ---
-title: "The dengue vaccine reaches the wet season"
+title: "Dengue vaccine reaches the wet season"
 date: 2026-10-27 14:58:00 +0800
 tags: [health, vaccine, tropical-disease, news]
 categories: [news]

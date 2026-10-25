@@ -1,5 +1,5 @@
 ---
-title: "The European-American talks reach their decisive stage"
+title: "European-American talks reach their decisive stage"
 date: 2025-06-27 15:23:00 +0800
 tags: [trade, europe, tariffs, news]
 categories: [news]

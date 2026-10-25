@@ -1,5 +1,5 @@
 ---
-title: "The pandemic treaty finally has teeth"
+title: "Pandemic treaty finally has teeth"
 date: 2026-05-13 08:19:00 +0800
 tags: [health, who, pandemic, policy]
 categories: [news]

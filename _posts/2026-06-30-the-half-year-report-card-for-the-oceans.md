@@ -1,5 +1,5 @@
 ---
-title: "The half-year report card for the oceans"
+title: "Half-year report card for the oceans"
 date: 2026-06-30 12:08:00 +0800
 tags: [oceans, climate, science, news]
 categories: [science]

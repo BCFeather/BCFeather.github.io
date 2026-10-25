@@ -1,5 +1,5 @@
 ---
-title: "The fire, the vow, the reopening: Notre-Dame returns"
+title: "Fire, vow, reopening: Notre-Dame returns"
 date: 2024-12-08 16:35:00 +0800
 tags: [france, notre-dame, heritage, restoration]
 categories: [culture]

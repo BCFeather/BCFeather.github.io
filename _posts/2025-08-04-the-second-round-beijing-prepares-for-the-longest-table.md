@@ -1,5 +1,5 @@
 ---
-title: "The second round: Beijing prepares for the longest table"
+title: "Second round: Beijing prepares for the longest table"
 date: 2025-08-04 11:07:00 +0800
 tags: [trade, china, tariffs, news]
 categories: [news]

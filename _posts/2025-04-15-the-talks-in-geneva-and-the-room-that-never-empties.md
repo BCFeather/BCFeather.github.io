@@ -1,5 +1,5 @@
 ---
-title: "The talks in Geneva and the room that never empties"
+title: "Talks in Geneva and the room that never empties"
 date: 2025-04-15 18:34:00 +0800
 tags: [trade, diplomacy, geneva, news]
 categories: [news]

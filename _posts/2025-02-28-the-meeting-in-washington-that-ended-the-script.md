@@ -1,5 +1,5 @@
 ---
-title: "The meeting in Washington that ended the script"
+title: "Meeting in Washington that ended the script"
 date: 2025-02-28 23:15:00 +0800
 tags: [ukraine, united-states, diplomacy, news]
 categories: [news]

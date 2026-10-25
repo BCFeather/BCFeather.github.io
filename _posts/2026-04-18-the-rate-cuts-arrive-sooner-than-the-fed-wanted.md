@@ -1,5 +1,5 @@
 ---
-title: "The rate cuts arrive sooner than the Fed wanted"
+title: "Rate cuts arrive sooner than the Fed wanted"
 date: 2026-04-18 20:11:00 +0800
 tags: [economy, federal-reserve, inflation, news]
 categories: [news]

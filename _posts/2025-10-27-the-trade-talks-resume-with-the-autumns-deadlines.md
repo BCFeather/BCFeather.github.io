@@ -1,5 +1,5 @@
 ---
-title: "The trade talks resume with the autumn's deadlines"
+title: "Trade talks resume with the autumn’s deadlines"
 date: 2025-10-27 16:42:00 +0800
 tags: [trade, tariffs, economy, news]
 categories: [news]

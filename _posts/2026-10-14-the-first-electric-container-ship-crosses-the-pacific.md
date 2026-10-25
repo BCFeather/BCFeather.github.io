@@ -1,5 +1,5 @@
 ---
-title: "The first electric container ship crosses the Pacific"
+title: "First electric container ship crosses the Pacific"
 date: 2026-10-14 09:12:00 +0800
 tags: [shipping, energy, technology, news]
 categories: [technology]

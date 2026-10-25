@@ -1,5 +1,5 @@
 ---
-title: "The sea came inland at Valencia"
+title: "Sea came inland at Valencia"
 date: 2024-10-31 11:07:00 +0800
 tags: [spain, weather, climate, news]
 categories: [news]

@@ -1,5 +1,5 @@
 ---
-title: "The flu season that quietly disappeared"
+title: "Flu season that quietly disappeared"
 date: 2026-01-25 08:35:00 +0800
 tags: [health, flu, vaccine, news]
 categories: [news]

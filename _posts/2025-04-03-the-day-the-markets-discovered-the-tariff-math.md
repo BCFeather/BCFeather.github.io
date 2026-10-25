@@ -1,5 +1,5 @@
 ---
-title: "The day the markets discovered the tariff math"
+title: "Day the markets discovered the tariff math"
 date: 2025-04-03 21:47:00 +0800
 tags: [markets, tariffs, economy, news]
 categories: [news]

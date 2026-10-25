@@ -1,5 +1,5 @@
 ---
-title: "The Wuhan University library case: an accusation and the slow work of institutions"
+title: "Wuhan University library case: an accusation and the slow work of institutions"
 date: 2025-09-21 19:05:00 +0800
 tags: [china, education, society]
 categories: [society]

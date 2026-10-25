@@ -1,5 +1,5 @@
 ---
-title: "The monsoon arrives late and makes up for it"
+title: "Monsoon arrives late and makes up for it"
 date: 2026-07-17 07:41:00 +0800
 tags: [climate, india, agriculture, news]
 categories: [news]

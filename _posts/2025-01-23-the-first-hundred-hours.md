@@ -1,5 +1,5 @@
 ---
-title: "The first hundred hours"
+title: "First hundred hours"
 date: 2025-01-23 14:16:00 +0800
 tags: [politics, united-states, trump, news]
 categories: [news]

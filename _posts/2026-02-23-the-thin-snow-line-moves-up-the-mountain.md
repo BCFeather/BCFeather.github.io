@@ -1,5 +1,5 @@
 ---
-title: "The thin snow line moves up the mountain"
+title: "Thin snow line moves up the mountain"
 date: 2026-02-23 09:15:00 +0800
 tags: [climate, tourism, mountains, news]
 categories: [news]

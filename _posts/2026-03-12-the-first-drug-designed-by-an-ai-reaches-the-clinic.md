@@ -1,5 +1,5 @@
 ---
-title: "The first drug designed by an AI reaches the clinic"
+title: "First drug designed by an AI reaches the clinic"
 date: 2026-03-12 21:36:00 +0800
 tags: [ai, medicine, health, technology]
 categories: [technology]

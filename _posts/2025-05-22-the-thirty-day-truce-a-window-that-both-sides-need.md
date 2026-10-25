@@ -1,5 +1,5 @@
 ---
-title: "The thirty-day truce: a window that both sides need"
+title: "Thirty-day truce: a window that both sides need"
 date: 2025-05-22 20:26:00 +0800
 tags: [trade, tariffs, china, news]
 categories: [news]

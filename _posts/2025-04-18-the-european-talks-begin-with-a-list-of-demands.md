@@ -1,5 +1,5 @@
 ---
-title: "The European talks begin with a list of demands: the mandate the member states set"
+title: "European talks begin with a list of demands: the mandate the member states set"
 date: 2025-04-18 10:44:00 +0800
 tags: [europe, trade, tariffs, news]
 categories: [news]

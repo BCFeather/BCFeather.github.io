@@ -1,5 +1,5 @@
 ---
-title: "The phone call that could stop the war: the leaders’ arithmetic"
+title: "Phone call that could stop the war: the leaders’ arithmetic"
 date: 2025-07-11 20:19:00 +0800
 tags: [russia, ukraine, diplomacy, news]
 categories: [news]

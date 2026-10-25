@@ -1,5 +1,5 @@
 ---
-title: "The tower caught the rocket"
+title: "Tower caught the rocket"
 date: 2024-10-14 06:52:00 +0800
 tags: [spacex, space, technology, news]
 categories: [news]

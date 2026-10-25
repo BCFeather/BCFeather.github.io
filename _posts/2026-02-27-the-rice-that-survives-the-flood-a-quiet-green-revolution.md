@@ -1,5 +1,5 @@
 ---
-title: "The rice that survives the flood: a quiet Green Revolution"
+title: "Rice that survives the flood: a quiet Green Revolution"
 date: 2026-02-27 16:49:00 +0800
 tags: [agriculture, science, climate, food]
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-title: "The climate leadership that left an empty chair"
+title: "Climate leadership that left an empty chair"
 date: 2025-03-21 08:47:00 +0800
 tags: [climate, politics, cop, news]
 categories: [news]

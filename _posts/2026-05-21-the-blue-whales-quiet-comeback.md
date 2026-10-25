@@ -1,5 +1,5 @@
 ---
-title: "The blue whale's quiet comeback"
+title: "Blue whale’s quiet comeback"
 date: 2026-05-21 15:37:00 +0800
 tags: [oceans, wildlife, science, news]
 categories: [science]

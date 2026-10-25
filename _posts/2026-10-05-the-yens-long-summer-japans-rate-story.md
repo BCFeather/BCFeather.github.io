@@ -1,5 +1,5 @@
 ---
-title: "The yen's long summer: Japan's rate story"
+title: "Yen’s long summer: Japan’s rate story"
 date: 2026-10-05 18:33:00 +0800
 tags: [japan, economy, yen, news]
 categories: [news]

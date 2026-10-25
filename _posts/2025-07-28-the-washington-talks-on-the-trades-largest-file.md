@@ -1,5 +1,5 @@
 ---
-title: "The Washington talks on the trade's largest file"
+title: "Washington talks on the trade’s largest file"
 date: 2025-07-28 17:31:00 +0800
 tags: [trade, china, tariffs, news]
 categories: [news]

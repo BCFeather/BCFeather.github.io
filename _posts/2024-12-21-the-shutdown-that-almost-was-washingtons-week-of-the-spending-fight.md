@@ -1,5 +1,5 @@
 ---
-title: "The shutdown that almost was: Washington's week of the spending fight"
+title: "Shutdown that almost was: Washington’s week of the spending fight"
 date: 2024-12-21 13:05:00 +0800
 tags: [us, politics, economy, news]
 categories: [news]

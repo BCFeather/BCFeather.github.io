@@ -1,5 +1,5 @@
 ---
-title: "The telescope that traced fast radio bursts to binary stars"
+title: "Telescope that traced fast radio bursts to binary stars"
 date: 2026-01-19 14:32:00 +0800
 tags: [astronomy, space, science, china]
 categories: [science]

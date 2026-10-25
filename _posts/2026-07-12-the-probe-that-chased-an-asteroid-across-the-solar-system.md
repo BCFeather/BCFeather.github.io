@@ -1,5 +1,5 @@
 ---
-title: "The probe that chased an asteroid across the solar system"
+title: "Probe that chased an asteroid across the solar system"
 date: 2026-07-12 09:52:00 +0800
 tags: [space, science, china, asteroids]
 categories: [space]

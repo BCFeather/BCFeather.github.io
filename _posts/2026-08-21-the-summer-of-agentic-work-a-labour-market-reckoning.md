@@ -1,5 +1,5 @@
 ---
-title: "The summer of agentic work: a labour market reckoning"
+title: "Summer of agentic work: a labour market reckoning"
 date: 2026-08-21 16:44:00 +0800
 tags: [ai, labour, economy, technology]
 categories: [technology]

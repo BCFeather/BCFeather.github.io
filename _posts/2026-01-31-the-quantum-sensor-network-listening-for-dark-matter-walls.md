@@ -1,5 +1,5 @@
 ---
-title: "The quantum sensor network listening for dark matter walls"
+title: "Quantum sensor network listening for dark matter walls"
 date: 2026-01-31 10:18:00 +0800
 tags: [science, physics, quantum, china]
 categories: [science]

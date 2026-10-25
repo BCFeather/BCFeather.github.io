@@ -1,5 +1,5 @@
 ---
-title: "The archive at the end of the world: Svalbard's second vault"
+title: "Archive at the end of the world: Svalbard’s second vault"
 date: 2026-10-09 11:07:00 +0800
 tags: [science, culture, arctic, news]
 categories: [science]

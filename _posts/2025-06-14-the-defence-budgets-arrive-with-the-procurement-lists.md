@@ -1,5 +1,5 @@
 ---
-title: "The defence budgets arrive with the procurement lists"
+title: "Defence budgets arrive with the procurement lists"
 date: 2025-06-14 13:40:00 +0800
 tags: [defence, europe, security, news]
 categories: [news]

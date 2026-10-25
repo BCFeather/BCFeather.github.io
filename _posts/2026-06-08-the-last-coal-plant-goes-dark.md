@@ -1,5 +1,5 @@
 ---
-title: "The last coal plant goes dark"
+title: "Last coal plant goes dark"
 date: 2026-06-08 19:44:00 +0800
 tags: [energy, climate, coal, news]
 categories: [news]

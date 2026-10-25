@@ -1,5 +1,5 @@
 ---
-title: "The road to Belém: a year of climate politics in review"
+title: "Road to Belém: a year of climate politics in review"
 date: 2025-11-06 09:47:00 +0800
 tags: [climate, cop, news]
 categories: [news]

@@ -1,5 +1,5 @@
 ---
-title: "The spring that the markets learned to price"
+title: "Spring that the markets learned to price"
 date: 2025-03-25 16:58:00 +0800
 tags: [markets, economy, tariffs, news]
 categories: [news]

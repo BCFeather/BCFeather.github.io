@@ -1,5 +1,5 @@
 ---
-title: "The shrinking Olympic roster: a sport that almost vanished"
+title: "Shrinking Olympic roster: a sport that almost vanished"
 date: 2026-04-21 20:36:00 +0800
 tags: [sport, olympics, policy, news]
 categories: [sport]

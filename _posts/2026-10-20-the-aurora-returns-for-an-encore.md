@@ -1,5 +1,5 @@
 ---
-title: "The aurora returns for an encore"
+title: "Aurora returns for an encore"
 date: 2026-10-20 20:05:00 +0800
 tags: [space, aurora, science, news]
 categories: [science]

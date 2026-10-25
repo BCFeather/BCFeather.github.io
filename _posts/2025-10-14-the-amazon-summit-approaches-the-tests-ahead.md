@@ -1,5 +1,5 @@
 ---
-title: "The Amazon summit approaches: the tests ahead"
+title: "Amazon summit approaches: the tests ahead"
 date: 2025-10-14 18:19:00 +0800
 tags: [climate, cop, news]
 categories: [news]

@@ -1,5 +1,5 @@
 ---
-title: "The cold snap that broke a grid"
+title: "Cold snap that broke a grid"
 date: 2026-02-02 07:48:00 +0800
 tags: [energy, climate, europe, news]
 categories: [news]

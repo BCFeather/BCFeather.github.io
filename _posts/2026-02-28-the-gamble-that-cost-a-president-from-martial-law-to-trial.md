@@ -1,5 +1,5 @@
 ---
-title: "The gamble that cost a president: from martial law to trial in South Korea"
+title: "Gamble that cost a president: from martial law to trial in South Korea"
 date: 2026-02-28 19:42:00 +0800
 tags: [south-korea, yoon-suk-yeol, politics, rule-of-law]
 categories: [politics]

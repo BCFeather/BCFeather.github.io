@@ -1,5 +1,5 @@
 ---
-title: "The Lima meeting and the careful resumption of the two capitals' dialogue"
+title: "Lima meeting and the careful resumption of the two capitals’ dialogue"
 date: 2024-11-17 04:38:00 +0800
 tags: [china, us, diplomacy, news]
 categories: [news]

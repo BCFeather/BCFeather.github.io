@@ -1,5 +1,5 @@
 ---
-title: "The Kazan summit and the geometry of the new world"
+title: "Kazan summit and the geometry of the new world"
 date: 2024-10-23 20:44:00 +0800
 tags: [brics, russia, china, diplomacy, news]
 categories: [news]

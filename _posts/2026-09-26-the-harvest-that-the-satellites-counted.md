@@ -1,5 +1,5 @@
 ---
-title: "The harvest that the satellites counted"
+title: "Harvest that the satellites counted"
 date: 2026-09-26 10:52:00 +0800
 tags: [agriculture, satellites, science, food]
 categories: [science]

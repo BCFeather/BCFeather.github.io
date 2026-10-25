@@ -1,5 +1,5 @@
 ---
-title: "The hurricane season and the summer's warnings"
+title: "Hurricane season and the summer’s warnings"
 date: 2025-08-23 14:48:00 +0800
 tags: [climate, weather, news]
 categories: [news]

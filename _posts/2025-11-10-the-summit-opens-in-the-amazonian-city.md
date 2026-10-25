@@ -1,5 +1,5 @@
 ---
-title: "The summit opens in the Amazonian city"
+title: "Summit opens in the Amazonian city"
 date: 2025-11-10 21:35:00 +0800
 tags: [climate, cop, news]
 categories: [news]

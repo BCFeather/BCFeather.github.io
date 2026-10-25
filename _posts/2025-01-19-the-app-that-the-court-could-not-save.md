@@ -1,5 +1,5 @@
 ---
-title: "The app that the court could not save"
+title: "App that the court could not save"
 date: 2025-01-19 20:05:00 +0800
 tags: [technology, law, tiktok, united-states]
 categories: [technology]

@@ -1,5 +1,5 @@
 ---
-title: "The ceasefire that took shape in a week: Lebanon and the diplomacy of exhaustion"
+title: "Ceasefire that took shape in a week: Lebanon and the diplomacy of exhaustion"
 date: 2024-11-27 08:45:00 +0800
 tags: [israel, lebanon, middle-east, news]
 categories: [news]

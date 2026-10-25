@@ -1,5 +1,5 @@
 ---
-title: "The launch pads of Boca Chica never go quiet"
+title: "Launch pads of Boca Chica never go quiet"
 date: 2026-03-05 09:14:00 +0800
 tags: [space, spacex, rockets, technology]
 categories: [technology]

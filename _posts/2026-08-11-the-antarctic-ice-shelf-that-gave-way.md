@@ -1,5 +1,5 @@
 ---
-title: "The Antarctic ice shelf that gave way"
+title: "Antarctic ice shelf that gave way"
 date: 2026-08-11 14:26:00 +0800
 tags: [antarctica, climate, science, news]
 categories: [science]

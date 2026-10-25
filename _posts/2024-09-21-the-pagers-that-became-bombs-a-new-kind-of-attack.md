@@ -1,5 +1,5 @@
 ---
-title: "The pagers that became bombs: a new kind of attack"
+title: "Pagers that became bombs: a new kind of attack"
 date: 2024-09-21 10:31:00 +0800
 tags: [lebanon, israel, technology, news]
 categories: [news]

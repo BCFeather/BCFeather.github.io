@@ -1,5 +1,5 @@
 ---
-title: "The banking year starts with a balance sheet warning"
+title: "Banking year starts with a balance sheet warning"
 date: 2026-01-30 14:12:00 +0800
 tags: [economy, banks, finance, news]
 categories: [news]

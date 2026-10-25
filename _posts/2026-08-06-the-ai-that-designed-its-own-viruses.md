@@ -1,5 +1,5 @@
 ---
-title: "The AI that designed its own viruses"
+title: "AI that designed its own viruses"
 date: 2026-08-06 14:05:00 +0800
 tags: [ai, biology, science, biosecurity]
 categories: [science]

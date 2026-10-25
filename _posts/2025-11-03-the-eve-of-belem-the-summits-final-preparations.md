@@ -1,5 +1,5 @@
 ---
-title: "The eve of Belém and the summit’s final preparations"
+title: "Eve of Belém and the summit’s final preparations"
 date: 2025-11-03 14:22:00 +0800
 tags: [climate, cop, news]
 categories: [news]

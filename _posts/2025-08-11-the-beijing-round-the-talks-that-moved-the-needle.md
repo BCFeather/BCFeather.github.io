@@ -1,5 +1,5 @@
 ---
-title: "The Beijing round: the talks that moved the needle"
+title: "Beijing round: the talks that moved the needle"
 date: 2025-08-11 20:15:00 +0800
 tags: [trade, china, tariffs, news]
 categories: [news]

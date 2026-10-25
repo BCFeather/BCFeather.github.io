@@ -1,5 +1,5 @@
 ---
-title: "The nuclear talks return to Vienna with a new cast"
+title: "Nuclear talks return to Vienna with a new cast"
 date: 2025-06-25 16:51:00 +0800
 tags: [iran, diplomacy, nuclear, news]
 categories: [news]

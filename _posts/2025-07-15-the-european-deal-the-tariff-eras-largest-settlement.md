@@ -1,5 +1,5 @@
 ---
-title: "The European deal and the tariff era’s largest settlement"
+title: "European deal and the tariff era’s largest settlement"
 date: 2025-07-15 22:13:00 +0800
 tags: [trade, europe, tariffs, news]
 categories: [news]

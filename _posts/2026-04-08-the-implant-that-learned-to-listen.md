@@ -1,5 +1,5 @@
 ---
-title: "The implant that learned to listen"
+title: "Implant that learned to listen"
 date: 2026-04-08 18:05:00 +0800
 tags: [neuralink, neuroscience, health, technology]
 categories: [technology]

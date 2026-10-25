@@ -1,5 +1,5 @@
 ---
-title: "The AI race enters the summer with a new phase"
+title: "AI race enters the summer with a new phase"
 date: 2025-06-18 19:36:00 +0800
 tags: [technology, ai, news]
 categories: [news]

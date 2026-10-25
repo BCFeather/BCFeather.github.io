@@ -1,5 +1,5 @@
 ---
-title: "The typhoon season opens with a faster alarm"
+title: "Typhoon season opens with a faster alarm"
 date: 2026-05-06 10:53:00 +0800
 tags: [climate, weather, disaster, news]
 categories: [news]

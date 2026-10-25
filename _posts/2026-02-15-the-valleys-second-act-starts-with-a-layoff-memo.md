@@ -1,5 +1,5 @@
 ---
-title: "The valley's second act starts with a layoff memo"
+title: "Valley’s second act starts with a layoff memo"
 date: 2026-02-15 10:44:00 +0800
 tags: [technology, economy, silicon-valley, news]
 categories: [news]

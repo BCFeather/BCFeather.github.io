@@ -1,5 +1,5 @@
 ---
-title: "The climate machinery grinds toward Belém"
+title: "Climate machinery grinds toward Belém"
 date: 2025-05-30 09:02:00 +0800
 tags: [climate, cop, news]
 categories: [news]

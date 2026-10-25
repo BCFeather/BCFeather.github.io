@@ -1,5 +1,5 @@
 ---
-title: "The conclave convenes: the cardinals enter the chapel"
+title: "Conclave convenes: the cardinals enter the chapel"
 date: 2025-05-03 09:48:00 +0800
 tags: [vatican, pope, conclave, news]
 categories: [news]

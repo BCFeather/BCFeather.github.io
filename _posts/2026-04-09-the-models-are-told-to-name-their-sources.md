@@ -1,5 +1,5 @@
 ---
-title: "The models are told to name their sources"
+title: "Models are told to name their sources"
 date: 2026-04-09 13:27:00 +0800
 tags: [ai, copyright, law, technology]
 categories: [technology]

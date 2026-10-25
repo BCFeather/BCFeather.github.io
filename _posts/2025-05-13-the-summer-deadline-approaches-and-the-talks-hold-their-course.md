@@ -1,5 +1,5 @@
 ---
-title: "The summer deadline approaches and the talks hold their course"
+title: "Summer deadline approaches and the talks hold their course"
 date: 2025-05-13 11:15:00 +0800
 tags: [trade, negotiations, economy, news]
 categories: [news]

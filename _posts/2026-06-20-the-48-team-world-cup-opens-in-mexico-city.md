@@ -1,5 +1,5 @@
 ---
-title: "The 48-team World Cup opens in Mexico City"
+title: "48-team World Cup opens in Mexico City"
 date: 2026-06-20 21:08:00 +0800
 tags: [football, sport, world-cup-2026, north-america]
 categories: [sport]

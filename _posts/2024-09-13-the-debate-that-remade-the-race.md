@@ -1,5 +1,5 @@
 ---
-title: "The debate that remade the race"
+title: "Debate that remade the race"
 date: 2024-09-13 19:37:00 +0800
 tags: [usa, election, politics, news]
 categories: [news]
