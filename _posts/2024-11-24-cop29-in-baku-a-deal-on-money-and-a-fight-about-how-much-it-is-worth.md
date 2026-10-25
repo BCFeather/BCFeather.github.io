@@ -1,7 +1,8 @@
 ---
 title: "COP29 in Baku: a deal on money, and a fight about how much it is worth"
 date: 2024-11-24 17:05:00 +0800
-tags: [climate, cop29, finance, negotiations, commentary]
+tags: [climate, cop29, finance, negotiations]
+categories: [environment]
 description: "The Baku summit ended with a pledge to raise climate finance to three hundred billion dollars a year. The agreement was real; so were the doubts about whether it answers the need."
 ---
 
