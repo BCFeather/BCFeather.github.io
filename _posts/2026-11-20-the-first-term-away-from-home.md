@@ -1,12 +1,12 @@
 ---
 title: "The first term away from home"
-date: 2026-11-20 17:36:00 +0800
+date: 2026-10-20 17:36:00 +0800
 tags: [essay, university, youth]
 categories: [essay]
 description: "Three months into my first term at Sichuan University in Chengdu, the novelty has worn off and the ordinary days have begun. A short essay on dormitories, dialects, and the slow realisation of what leaving Chizhou actually is."
 ---
 
-Three months into my first term at Sichuan University, Chengdu has stopped being an event and become a place where I live. The famous landmarks no longer make me look up every time I pass. The metro map is no longer a maze, just a set of lines I have memorized by need. I know which canteen window serves food I can afford and which corner of the library stays quiet in the afternoon. The novelty has worn off, and in its place something more honest has arrived: routine, homesickness and the first evidence of the person I am becoming here.
+Nearly three months into my first term at Sichuan University, Chengdu has stopped being an event and become a place where I live. The famous landmarks no longer make me look up every time I pass. The metro map is no longer a maze, just a set of lines I have memorized by need. I know which canteen window serves food I can afford and which corner of the library stays quiet in the afternoon. The novelty has worn off, and in its place something more honest has arrived: routine, homesickness and the first evidence of the person I am becoming here.
 
 The dormitory is where much of the education happens, and it is not on the syllabus. Four boys from four provinces in one room, with accents, bedtimes and standards of cleanliness that took weeks to reconcile. The first month was a careful diplomacy of boundaries, who uses the desk, who keeps the light on, who talks to their family at night. By now we have settled into the kind of peace that comes from knowing each other's habits well enough to stop noticing them. I have learned more about the geography of China from my roommates than from any atlas, and most of it is about food.
 
