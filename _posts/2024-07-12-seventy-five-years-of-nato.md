@@ -1,0 +1,17 @@
+---
+title: "Seventy-five years of NATO"
+date: 2024-07-12 19:15:00 +0800
+tags: [nato, ukraine, washington, defence]
+categories: [news]
+description: "NATO marked its 75th anniversary in Washington from 9 to 11 July, and used the birthday summit to harden its line on Ukraine: an irreversible path to membership, a pledged 40 billion euros in aid over the next year, and a new NATO presence in Kyiv."
+---
+
+From 9 to 11 July the leaders of the member states gathered in Washington, the city where the alliance was born seventy-five years ago, to mark a birthday and to settle the hardest business on the agenda: Ukraine. The 75th anniversary, with speeches on the National Mall and a retrospective of the pact since 1949, was the occasion; the war in Ukraine was the reason the meeting mattered. Alongside the European and North American delegations sat guests from Japan, South Korea, Australia and New Zealand, the Asia-Pacific partners who have come to treat a European security treaty as their own.
+
+The headline outcome on Ukraine was language rather than membership. For the third summit running, the allies stopped short of inviting Kyiv into the club, but they hardened the wording around the path that leads there. In the Washington declaration they described Ukraine's future as irreversible, on what the statement called its irreversible path to full Euro-Atlantic integration, and the secretary general, Jens Stoltenberg, framed the new arrangements as a bridge between now and the day a membership invitation is actually issued. Ukraine is not being given a timetable. What it is being given is a commitment, written into the communique, that the door is open and will not be closed again.
+
+Alongside the words came the money. The allies pledged a minimum baseline of 40 billion euros in military aid to Ukraine over the next year, channelled through the alliance itself rather than country by country, so that the support becomes a standing commitment instead of a series of national announcements. NATO also said it would reinforce its presence in Kyiv: a NATO representation to Ukraine, headed by a senior representative resident in the capital, to coordinate training, donations and the repair of equipment. It is the closest the alliance has come to a standing mission inside a country at war, and a quiet answer to the argument that European support for Ukraine is discretionary.
+
+The other long discussion was about money of a different kind: how much each ally spends on its own armed forces. The two-per-cent-of-GDP guideline, once treated as a distant target, was reaffirmed as a floor, and the allies noted that more than two-thirds of them now meet it. European allies and Canada had raised their defence spending by about 18 per cent this year, the steepest rise in decades, and the closing statements pointed to further increases to come rather than any let-up. The impatience from Washington has done what years of private nagging could not: it has moved European governments to order more ammunition, more air defence and more ships.
+
+Summits that end with a declaration tend to be judged by what is in the declaration, and this one gave Ukraine a clearer line on membership than it had before, a firmer financial guarantee, and a NATO office on its own soil. It did not end the war, and it did not set a date. But seventy-five years after the treaty was signed across the Potomac, the alliance used its birthday to restate, in the plainest language it manages, that it is still in the business of deterring the power doing the shooting.

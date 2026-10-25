@@ -1,0 +1,17 @@
+---
+title: "Football on a summer night"
+date: 2024-07-16 21:26:00 +0800
+tags: [chizhou, summer, football, euro-2024]
+categories: [essay]
+description: "A quiet essay about watching the European Championship final on a hot July night in Chizhou, where the cicadas, the river and the dark outside matter as much as the match itself."
+---
+
+The European Championship ended on a Sunday night, and in Chizhou the end of it arrived at five in the morning. We watched the final on a laptop in a downstairs room, the curtains drawn against the morning that had not yet begun, and when Spain's late goal went in the four of us who had stayed up long enough to see it made a noise the walls were not built for. Then it was over, and we sat in the grey light and listened to the cicadas, as if nothing had happened at all.
+
+That is the way summer football comes to a city on the Yangtze. The matches in Germany are played in the evening there, which is our deep night, and so for a month the whole tournament has been watched past midnight, one eye on the score and the other on the clock. The group games, at three in the morning, were too much; I watched those the next morning, reading the result on my phone before I had even opened my eyes. But the knockout rounds, at their reasonable eleven o'clock slot, were worth staying up for, and by the time the final came around, staying up had stopped being a choice and had become the summer's habit.
+
+The heat is the other half of it. July in Chizhou is not weather but a condition: the air sits on the city like a warm wet cloth, and by evening the buildings have given back all the heat they took in during the day. The fan in my bedroom has run at full speed for a month and has moved the air around without cooling it. I sit on the wooden chair by the window with a glass of tea that goes warm within half an hour, and outside the cicadas keep up their continuous, metallic noise, so that the television seems quiet by comparison. The pavement still holds the afternoon long after the sun has gone, and you can feel the warmth through the soles of your shoes.
+
+There is something about watching a match at this hour that changes it. The room is small, the light is the screen, and the rest of the city is asleep, so that the noise of the crowd in Berlin arrives alone, with nothing local to argue with it. When Spain scored the first goal, early in the second half, it was almost too quiet to celebrate; we looked at one another in the blue light and grinned, and then England equalised and the grin died. By the time Oyarzabal scored, near the end, the sky outside had already begun to lighten, the cicadas had started their dawn set, and the goal landed in the middle of a morning that did not care either way.
+
+Sometimes, after the late matches, we walk down to the riverside. The embankment is empty except for the fishermen who have been there all night with their rods resting on the stone, and the river moves past, slow and dark, carrying nothing you can name. Above Pingtian Lake, the old pagoda is just a darker shape against a paler sky. The summer stretches out ahead of us, long and unstructured, and for a month now it has been measured in matches: which game, which night, which goal decided it. When the tournament ends there is nothing left to stay up for, and the cicadas, who do not follow football, will keep on regardless, through the heat and the long evenings, until the river brings the autumn down.

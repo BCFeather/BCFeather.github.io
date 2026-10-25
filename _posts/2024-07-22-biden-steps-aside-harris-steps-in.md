@@ -1,0 +1,17 @@
+---
+title: "Biden steps aside, Harris steps in"
+date: 2024-07-22 09:48:00 +0800
+tags: [usa, election, biden, harris]
+categories: [news]
+description: "On 21 July Joe Biden withdrew from the 2024 race, ending his re-election bid three months before polling day and immediately endorsing Kamala Harris, after a disastrous June debate turned Democratic opinion firmly against him."
+---
+
+On 21 July, a Sunday, Joe Biden ended his campaign for a second term. In a letter posted on social media, the 81-year-old president wrote that, although it had been his intention to run again, he had concluded that staying in the race was not in the best interest of his party or of the country, and that he would instead devote his remaining months in office to the duties of the presidency. Minutes later, in a second post, he threw his weight behind Vice-President Kamala Harris, calling on Democrats to unite behind her as the nominee. The withdrawal came just over three months before election day, and it rewrote a campaign that had been set in stone for two years.
+
+The proximate cause was a debate. On 27 June, in Atlanta, Mr Biden faced Donald Trump on stage for ninety minutes and delivered a performance that alarmed his own side. His voice trailed off at moments, he lost his thread more than once, and the images of that hour were replayed on news channels for a month. Pollsters found that a large share of Democratic voters doubted whether he was up to another four years. Party elders, donors and newspapers began to say, in public and in private, what most had been whispering: that the candidate at the top of the ticket was the party's biggest liability. For weeks Mr Biden insisted he would press on. The letter on Sunday said he had heard the argument at last.
+
+The swiftness of what followed was its own story. By the evening of 21 July, endorsements of Ms Harris were arriving from every corner of the party. The Congressional Black Caucus, a pivotal bloc, came out for her. Governors, among them Gavin Newsom of California and Josh Shapiro of Pennsylvania, declared their support rather than mounting campaigns of their own. Major Democratic donors and the leading super PACs moved into her camp. Within days she had locked up the backing of enough delegates to be the nominee, and the messy contested convention that everyone had feared dissolved before it could properly form.
+
+The race now pivots to a different contest. Ms Harris, 59, the daughter of an Indian mother and a Jamaican-American father and a former prosecutor from California, would be the first woman, the first black person and the first Asian-American to top a Democratic ticket. On the Republican side Mr Trump, 78, turned the news into campaign material within hours, posting on his social network that his new opponent made the race easier for him. The general election remains a contest on the same ground it was on a week ago, the economy, the border, the courts and the character of the candidates, but the face on the Democratic posters has changed.
+
+Mr Biden will finish the year in the White House and will campaign, in the autumn, for a ticket he did not expect to lead. His departure was a relief to a party that wanted a candidate it could feel good about; it was also an admission, unusual in modern politics, that a president could read the room and walk away. Whether Ms Harris can convert the enthusiasm of the party establishment into a majority in the industrial Midwest and the suburbs is the question the hundred days to come will answer.

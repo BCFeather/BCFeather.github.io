@@ -1,0 +1,17 @@
+---
+title: "Plum rain over the Yangtze"
+date: 2024-06-21 17:36:00 +0800
+tags: [chizhou, yangtze, plum-rain]
+categories: [essay]
+description: "A quiet essay about the plum rain in Chizhou, a small city on the Yangtze, where the late-June drizzle turns the streets grey, the river rises, and a school year ends."
+---
+
+Somewhere in the middle of June the sky forgets how to be blue. The rain arrives not as weather but as a season: a fine, patient drizzle that starts sometime before dawn and continues in the same key for days, so that you stop noticing the change and notice only the sameness. The plum rain, we call it, because it comes when the plums ripen, though nobody I know eats the plums. We measure the season by other things. The towels that never dry. The chalk that crumbles in the hand. The pages of the textbook that wave softly at the edges, swollen with the air.
+
+Chizhou is a small city on the south bank of the Yangtze, and in June the river is the loudest thing in it. From the embankment you can watch the water climb the stone steps day by day, brown and heavy and patient, carrying whole trees past the city on its way to the sea. The barges ride higher than usual, and the ferry, which in winter crosses with a calm that seems almost lazy, pushes against the current with an audible strain. The old men who fish off the wharf say the fish come up with the flood, and it is easier to agree than to check. Everything downstream of the sky is wet, including the arguments.
+
+The school buildings hold the damp longest. Between classes we stand under the eaves of the bicycle shed, which makes a different sound from the rest of the rain: tin, not tile, a percussion that belongs to the end of term. The last examinations of the first year of high school are coming, and the rain has arranged itself as the perfect background for revision: too grey to go out, too loud to sleep. So we stay, forty of us, bent over past papers while the water runs off the roof and the classroom smells of wet cotton and drying ink.
+
+Pingtian Lake, east of the city, is the same grey as the sky, and in this light you cannot tell where one ends and the other begins; the flat water and the flat clouds have agreed to look identical. On the hill above the lake stands the old pagoda, five storeys of brick that have watched a hundred such Junes, and from its top, the old men say, you can see the river bend and the city roofs and, on a clear day, all the way to the mountains. There are no clear days in June. The pagoda waits, like the rest of us, for July.
+
+What will stay with me about this year's rain is not the rain itself but the particular silence of it — the way the whole city lowered its voice for two weeks, the way the streets emptied of people and filled with umbrellas, the way the river kept rising while the school year quietly came to an end. My generation will measure this summer by what came after: the exams, the long vacation, the first year of high school closed like a book left in the damp. But the rain that soaked that closing is worth its own sentence. The plum rain came, as it always does, and it went, as it always does, and between the coming and the going the river rose and fell and carried the city's grey weather downstream to the sea. In a week the sky will remember how to be blue, and the plums — the plums that gave the season its name — will be the only thing about it that nobody eats.

@@ -1,0 +1,17 @@
+---
+title: "Macron dissolves the National Assembly"
+date: 2024-06-10 21:48:00 +0800
+tags: [france, macron, european-elections]
+categories: [news]
+description: "On 9 June, after a heavy far-right win in the European vote, Emmanuel Macron dissolved the National Assembly and called snap legislative elections for 30 June and 7 July, turning a European defeat into a high-stakes gamble on his own majority."
+---
+
+On the evening of 9 June, minutes after the first projections came through, Emmanuel Macron went on television from the Élysée and did what no French president had done in such circumstances for more than a quarter of a century: he dissolved the National Assembly and called early legislative elections. The first round would be held on 30 June and the second on 7 July. The move was a direct answer to a single number.
+
+In the European elections that day, the list led by Jordan Bardella of the National Rally won about 31 per cent of the vote, a result of a kind the French far right had not reached at national level in living memory. The presidential coalition, Besoin d'Europe, came a distant second on roughly 15 per cent. That gap — a sixteen-point lead for the right, and a score nearly nine points above the party's own result in 2019 — was the whole reason for the address. A European vote is usually a protest ballot, and Macron read the protest as aimed at him personally. Rather than wait three more years for a parliament he already struggled to control, he chose to turn the defeat into a campaign.
+
+The gamble is not subtle. Under Article 12 of the constitution the president may dissolve the assembly at will, but the power has been used only a handful of times in the Fifth Republic, because the outcome runs both ways. A president who calls a snap election and loses it is exposed: there is no buffer between his own defeat and the ballot box, and the remaining years of the term become a lame-duck presidency facing a hostile majority. Macron's bloc had no working majority after 2022 in any case, and much of his term has been spent negotiating with one opposition party or another to pass a budget or a pension law. The dissolution bets that, faced with a straight choice between the far right and the republic, voters will rally to the centre.
+
+That is the optimistic reading. The less comfortable reading is that the far right, having won the European vote outright, is now the favourite to win the parliamentary one, and that a contest fought in the shadow of a result they already won hands them the momentum. Bardella, thirty years old and the standard-bearer of a movement that has spent years cleaning up its image, welcomed the call within the hour and said he was ready to govern. On the left, the parties that barely co-operated during the European campaign began, the same night, to talk about a united front so as not to split the vote that would otherwise defeat the right.
+
+France now has three weeks of campaigning before a first round on 30 June that could, for the first time, put a far-right bloc within reach of an absolute majority. Macron has not merely responded to a defeat; he has wagered the rest of his term on reversing it at the polls. Whether that reads as courage or as desperation is a question the commentators can argue, but the answer will not come from them. It will come from the voters, on 7 July, when the second round closes the book on this strange and sudden campaign.

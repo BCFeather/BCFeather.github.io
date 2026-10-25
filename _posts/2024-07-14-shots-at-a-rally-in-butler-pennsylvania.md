@@ -1,0 +1,17 @@
+---
+title: "Shots at a rally in Butler, Pennsylvania"
+date: 2024-07-14 09:18:00 +0800
+tags: [usa, trump, rally, security]
+categories: [news]
+description: "On 13 July a gunman opened fire on a Donald Trump rally in Butler, Pennsylvania, wounding the former president on the ear, killing one spectator and wounding two others before he was shot dead by a Secret Service counter-sniper."
+---
+
+On 13 July, at an open-air campaign rally on the Butler Farm Show grounds in Butler, Pennsylvania, a gunman opened fire on the stage where Donald Trump, the former president and the presumptive Republican nominee, was speaking. The shots came from the roof of a building a few hundred yards away, and within seconds the scene on the platform turned into chaos. Mr Trump, midway through a speech, was grazed on the right ear by a bullet; blood showed on the side of his face as a ring of Secret Service agents closed around him and pushed him down onto the stage. He was taken to a local hospital, treated, and later described as safe.
+
+The gunman was identified by authorities as Thomas Matthew Crooks, twenty years old, from Bethel Park, a suburb of Pittsburgh. According to the later account of the House task force that investigated the episode, he had fired eight rounds from a rifle positioned on the roof of an industrial building near the rally site. He was shot and killed by a Secret Service counter-sniper stationed on an adjacent roof before he could fire again, and no further shots came from his position after he fell. He had arrived at the rally site earlier in the day and climbed to the roof, which overlooked the stage across an open field.
+
+The crowd below was not as fortunate. One man in the front rows, Corey Comperatore, a volunteer firefighter from the Butler area, was killed; the state's governor, Josh Shapiro, said at a news conference the next day that Mr Comperatore had thrown himself over his family to shield them when the firing began. Two other spectators, David Dutch and James Copenhaver, were wounded and were reported in a critical condition in the hours after the shooting. The governor confirmed the casualty figures and praised the first responders who moved through the crowd once the gunfire stopped.
+
+Video footage taken by people in the crowd shows the sequence of events. Mr Trump, in the middle of a sentence, suddenly drops his head and reaches up to his ear. The agents around him turn as one and force him down, and for several minutes the platform is a tangle of bodies, drawn hands and shouting, while the speakers that had been carrying the speech carry instead the noise of a frightened crowd. When Mr Trump was at last helped to his feet, blood on the side of his face, he raised a fist; the image of that moment circulated within the hour.
+
+The episode is under investigation by the Secret Service, the Federal Bureau of Investigation and the House task force, and the central question of that work is how a lone gunman was able to position himself within rifle range of a candidate on an open stage. This account records only what is established: the place and the time, the man who fired, the people he struck, and the fact that he was stopped by a single return shot from a counter-sniper. The rally was suspended, the rest of the campaign schedule was reviewed, and the town of Butler spent the following Sunday coming to terms with what had happened on its show grounds in broad daylight.

@@ -1,0 +1,17 @@
+---
+title: "Spain's fourth European title"
+date: 2024-07-15 03:52:00 +0800
+tags: [football, euro-2024, spain, england]
+categories: [news]
+description: "On 14 July Spain beat England 2-1 in the Berlin final of Euro 2024, with goals from Nico Williams and a late Mikel Oyarzabal finish, to win a record fourth European Championship, as Rodri was named player of the tournament and Lamine Yamal, seventeen, was its youngest finalist."
+---
+
+On the evening of 14 July, at the Olympiastadion in Berlin, Spain beat England by two goals to one in the final of the European Championship and won the competition for a record fourth time. The game turned on a goal early in the second half, an equaliser just after the hour, and a late finish in the closing minutes, and it closed a tournament in which Spain had, for weeks, looked like the best team on the pitch. They had won every match they played in Germany, a level of consistency no side had shown in the competition for years.
+
+Spain went ahead five minutes into the second half. A move down the left ended with a ball pulled back across the face of goal for Nico Williams to slot in from close range, and the Spanish support in the stadium rose as one. England equalised shortly after the hour, when Cole Palmer collected the ball outside the penalty area and drove a low shot past the Spanish goalkeeper into the corner. For the last twenty minutes the game see-sawed, both sides committing men forward, and it was Spain who settled it: with four minutes left on the clock, Mikel Oyarzabal, a substitute, turned in the box and shot low past the keeper, and that was the goal that decided the final. It was Spain's fourth European title, taking them clear as the most successful country in the history of the competition. England, by contrast, had now lost two European Championship finals in a row.
+
+The name that will be remembered from the night is not the scorer but the seventeen-year-old who laid on the first goal. Lamine Yamal was born on 13 July 2007, so he turned seventeen the day before the final, and in Berlin he became the youngest player ever to appear in the final of a European Championship or a World Cup. It was his pass, curled in from the right wing, that set up Nico Williams's opening goal; he was, at seventeen, also the youngest player to provide an assist in a European Championship final. Across the tournament he scored once and assisted four times, was named the competition's best young player, and won his first senior trophy.
+
+The player of the tournament, however, was his teammate Rodri, the defensive midfielder whose passing anchored Spain through seven matches and who controlled the middle of the pitch in the final itself. Spain's front line of Williams and Yamal, both still in their teens, gave the team a pace England could not answer for long, and by the closing minutes the English defence was retreating rather than pressing.
+
+For England it was another near miss, a second final defeat in as many tournaments and a generation of players still waiting for a first trophy since 1966. For Spain, the win closes a circle on a side that was already the most decorated in the event's history and has now put that record out of reach. The trophy was lifted on a Berlin night in mid-July, and the names on it for the fourth time are the names of the same country that has dominated this competition for half a century.
