@@ -3,7 +3,7 @@ title: "The Lima meeting and the careful resumption of the two capitals' dialogu
 date: 2024-11-16 09:14:00 +0800
 tags: [china, us, diplomacy, news]
 categories: [news]
-description: "On the sidelines of the APEC summit in Lima, the Chinese and American presidents met for their third face-to-face conversation in two years, two days after the American election that neither side could ignore. The meeting was conducted with the care of two powers that disagree on everything and must talk about all of it."
+description: "On the sidelines of the APEC summit in Lima, the Chinese and American presidents met for their third face-to-face conversation in two years, eleven days after the American election that neither side could ignore. The meeting was conducted with the care of two powers that disagree on everything and must talk about all of it."
 ---
 
 The two presidents met in Lima on November 16, on the margins of the APEC summit that had brought the Pacific economies to Peru, and the meeting was the third of its kind since the two men took their offices. The setting was chosen for its routine: the leaders' room at the conference centre, the delegations ranged along the tables, the interpreters in place, the cameras admitted for the opening minutes. The substance, as the readouts of both sides described it, was the list that the two capitals always carry into these conversations, and the list is long: Taiwan, the South China Sea, technology and export controls, fentanyl and the trade in chemicals, military communication and the channels that keep the two militaries from colliding, the war in Ukraine and the American support that Beijing watches, the year ahead and the new administration that neither government can predict.
