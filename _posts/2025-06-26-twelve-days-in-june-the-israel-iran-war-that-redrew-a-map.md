@@ -1,7 +1,8 @@
 ---
 title: "Twelve days in June: the Israel-Iran war that redrew a map"
 date: 2025-06-26 19:50:00 +0800
-tags: [israel, iran, middle-east, war, commentary]
+tags: [israel, iran, middle-east, war]
+categories: [geopolitics]
 description: "A fortnight of open war between Israel and Iran ended with a ceasefire and a changed region. The shooting stopped; the consequences did not."
 ---
 
