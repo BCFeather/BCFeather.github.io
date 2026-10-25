@@ -1,6 +1,6 @@
 ---
 title: "The admission letter from Sichuan"
-date: 2026-08-15 12:47:00 +0800
+date: 2026-08-19 12:47:00 +0800
 tags: [essay, gaokao, university, china]
 categories: [essay]
 description: "In mid-August the letter came: the College of Life Sciences at Sichuan University, in Chengdu, twelve hundred kilometres from my home city of Chizhou. A short essay on what an admission letter carries when it crosses half the country."
