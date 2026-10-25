@@ -1,0 +1,21 @@
+---
+title: "The admission letters of July"
+date: 2025-07-15 22:05:00 +0800
+tags: [essay, gaokao, summer, china]
+categories: [essay]
+description: "In July the exam results are old news and the admission letters begin to arrive, one household at a time. A short essay on how a small town reads those envelopes, and what a university place means when it is a whole family's business."
+---
+
+July in my hometown has a second calendar running underneath the weather. The temperature rises, the paddies green, and the village phone groups start carrying news that spreads faster than the heat: whose child has been admitted, to which university, by which of the batch notifications. The exam itself happened weeks ago and is already old news. July is the month of the envelopes, and in a small town the arrival of an admission letter is not a private event. It is a family matter, a neighbourhood matter, and sometimes a village matter.
+
+The first letter I remember seeing arrived at my cousin's house on a weekday afternoon. The courier's motorbike was a signal in itself, and by the time the door opened half the lane had gathered, because in a place where everyone knows everyone, the envelope is news before it is opened. The family read the school name aloud and passed the paper around. The mother cried a little and said the same thing several times, that the money had been worth it, the tutoring, the books, the rented room near the school. Nobody mentioned that the child had done the work. In that moment, the letter belonged to everyone.
+
+That is the part that outsiders tend to misread. There is a lot of talk about the pressure Chinese students are under, and it is all true, but it misses a layer: the pressure is shared. In my family and most of the families I know, the exam was not one child's project. It was the household's, with the grandparents adjusting their habits, the parents economising without discussing it, the child simply the one who had to sit in the room and write. So the letter, when it comes, is read as the household's report, and that is why the reaction is communal. The family has a stake that no essay about academic pressure quite captures.
+
+July also brings the other arithmetic, the one people do quietly. This year, as every year, the names of universities get sorted in the conversations into tiers, and the tiers are repeated with a gravity that makes them sound like natural facts. I dislike the sorting, but I understand where it comes from. In a place where a university place still functions as a visible proof that a family's patience paid off, the name on the letter is shorthand for a decade of choices. It is an unfair shorthand, and it is also, for most of the families on my lane, the only shorthand they have been offered.
+
+The letters also expose a difference that July makes unavoidable. Some families receive theirs and immediately start making calls about the first semester's fees, the train ticket, the things the dorm will not provide. Others receive the same kind of letter and the conversation moves to which laptop, which city, which study-abroad programme later. The gap between those two phone calls is the real curriculum of the season. It has nothing to do with the grades that got the letters written, and everything to do with the starting lines they conceal.
+
+I try to keep a fair view of my own place in this. The letter I hope for is the same shape as everyone else's, a piece of paper saying I have been given a seat. I know the seat will not equalise what happened before it, that the boy from the rented room and the girl from the tutoring centre will begin their terms carrying different weights. The exam was the same for everyone in the room on the day, and it was not the same anywhere else. That is the contradiction of the season, and I would rather hold it than resolve it with slogans.
+
+The letters will keep arriving through the month, one household at a time, each envelope carrying the same news and a different story. The courier's motorbike will be heard again on my lane, and a family will gather, and the child will read the school's name aloud. July is the month when a town measures itself in envelopes, and whatever I think of the measuring, I am part of the town. I will watch for the motorbike like everyone else, and I will be glad when it comes.
