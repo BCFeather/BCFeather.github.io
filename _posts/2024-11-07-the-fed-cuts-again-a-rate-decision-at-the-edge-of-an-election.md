@@ -1,0 +1,19 @@
+---
+title: "The Fed cuts again: a rate decision at the edge of an election"
+date: 2024-11-07 16:23:00 +0800
+tags: [economy, markets, news]
+categories: [news]
+description: "Two days after the election, the Federal Reserve lowered rates by a quarter point to between four and a half and four and three quarters per cent, its second cut of the autumn. The decision was the easy part; the harder part is the year ahead, when a new administration's policies meet a central bank that has been careful with its independence."
+---
+
+The Federal Reserve lowered its target range by a quarter point on November 7, the second cut of the autumn, and the timing was the story: the decision landed two days after the presidential election, in the middle of the transition that the country is conducting. The target range now sits between four and a half and four and three quarters per cent, matching the market's expectation almost exactly, and the statement carried the language of balance, progress on inflation and softening in the labour market. The cut was, by any measure, the least surprising part of the week.
+
+The economy's signals justify the easing. The October jobs report, released the week before, had shown employers adding only twelve thousand positions, a number distorted by strikes and weather but weak enough to confirm the cooling that the committee has been reading; inflation has continued to drift toward the target, and the committee judged that the balance of risks has shifted far enough to keep recalibrating. The decision was unanimous in effect, with the committee's members agreeing that the further easing would support the economy while the disinflation continued.
+
+The interesting part of the decision is what it did not say. The Fed has kept its eye on the election's outcome without mentioning it, and the statement's neutrality is itself a statement: the central bank does not comment on politics, and it will not be seen to time its decisions for political effect. The chair has said, in the weeks around the cut, that the institution's independence is settled, that presidents have criticised it before and will again, and that the policy path will follow the data. The data, for now, points to more easing; the question is what the next year's data will say.
+
+The markets took the decision in their stride, which is the quiet confirmation that the cut was priced and expected. The bond yields moved little, the equities held their post-election gains, and the conversations in the financial world turned to the year ahead: the tariffs that the incoming administration has promised, the tax cuts, the pressure that presidents have always applied to central banks, and the inflation that the combination might produce. The Fed's projections still show a gradual path downward, and the path is the one that the committee will defend.
+
+The deeper question, as the year closes, is whether the central bank's careful balance can hold. The economy has avoided the hard landing that the pessimists forecast, inflation has come down without the recession that the hawks feared, and the easing cycle has begun at a pace that the markets have accepted; the next year will test whether the committee can keep that balance while the politics around it changes. The Fed will be under pressure, the pressure will be public, and the institution's answer will be the same one it gave this week: watch the data, ignore the noise, and cut when the numbers say cut.
+
+The Fed cut again on the Thursday after the election, and the cut was the central bank's way of saying that the economy, not the politics, sets the course. The second easing of the autumn is done, the path for the winter is pencilled in, and the institution that the new administration will test has just shown how it intends to answer. The rates are lower, the message is patient, and the independence, for now, is intact.
