@@ -2,6 +2,7 @@
 title: "The United States seizes Venezuela's president"
 date: 2026-01-04 11:20:00 +0800
 tags: [venezuela, maduro, us-foreign-policy, geopolitics]
+categories: [geopolitics]
 description: In the early hours of 3 January 2026, US forces raided Caracas and flew President Nicolás Maduro and his wife to the United States. The arrest of a sitting head of state has no modern precedent.
 ---
 
