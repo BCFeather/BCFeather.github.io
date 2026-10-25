@@ -1,0 +1,16 @@
+---
+title: "COP29 in Baku: a deal on money, and a fight about how much it is worth"
+date: 2024-11-24 17:05:00 +0800
+tags: [climate, cop29, finance, negotiations, commentary]
+description: "The Baku summit ended with a pledge to raise climate finance to three hundred billion dollars a year. The agreement was real; so were the doubts about whether it answers the need."
+---
+
+When the climate summit in Baku ended in the early hours of 24 November 2024, it did so with an agreement that the conference's own officials were at pains to present as historic. Nearly two weeks of fractious negotiation had produced a number: developed countries pledged to increase their provision of climate finance to developing countries to three hundred billion dollars a year by 2035. A target to reach one point three trillion dollars annually by the same date, drawn from all sources including the private sector, was also adopted, and a long-stalled rulebook for international carbon trading was finally completed.
+
+The deal was a genuine achievement of multilateralism, in the narrow sense that a document emerged from a room that had seemed ready to walk away empty-handed. Developing countries arrived demanding far more, with many insisting on sums in the trillions, and the final figure fell short of what they had asked for. The richer nations, for their part, resisted the idea that the burden should fall only on them, and the text reflects that tension. The compromise was a number large enough to keep the process alive and small enough to avoid an outright collapse.
+
+Whether it answers the need is another question. Three hundred billion a year is real money, but it is a fraction of what is required to meet the pledges the same countries have already made, and the gap between the number on the page and the money actually moving is where the cynicism settles. The agreement also relies heavily on the assumption that private capital will provide much of the one point three trillion, and private capital has been slower and more selective than the design assumes. The small island states most exposed to rising seas were among the most openly disappointed, and India went as far as to reject the final text.
+
+The persistent weakness of these conferences is not that they produce no agreement but that the agreements are built on moving targets and promises that are hard to verify. Every summit restates an ambition and defers the accounting. The carbon-trading rules, the completion of which was the summit's quieter success, may yet do more for the trajectory of emissions than the finance headline, precisely because they give countries a practical mechanism rather than another number to be argued about.
+
+The honest verdict on Baku is that the process survived and the planet did not get what it needs. Negotiations of this kind are judged not by whether the document is beautiful but by whether the money arrives and the emissions fall, and on both counts the evidence is thinner than the celebratory statements suggested. That is not an argument for abandoning the process; it is an argument for reading its results with the same scepticism that the negotiators themselves reserve for one another's promises. The summit kept the door open. The walk through it has not yet begun in earnest.
