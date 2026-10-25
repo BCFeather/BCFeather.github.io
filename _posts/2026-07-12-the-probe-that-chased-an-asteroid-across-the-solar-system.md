@@ -1,0 +1,19 @@
+---
+title: "The probe that chased an asteroid across the solar system"
+date: 2026-07-12 09:52:00 +0800
+tags: [space, science, china, asteroids]
+categories: [space]
+description: "Tianwen-2 has reached the asteroid 2016 HO3 after 400 days and about a billion kilometres of travel, taking up position twenty kilometres away and beginning its survey. It is China's first asteroid sample-return mission, and the approach has already paid off in one quiet way: its navigation data has shrunk the uncertainty in the asteroid's orbit by orders of magnitude."
+---
+
+A Chinese spacecraft has reached the object it left Earth to find. Tianwen-2, launched from Xichang in May 2025, has completed its rendezvous with the near-Earth asteroid 2016 HO3 after roughly 400 days and a billion kilometres of travel, and is now holding position about twenty kilometres from the rock, beginning its scientific survey. The mission is China's first attempt to return samples from an asteroid, and the encounter itself, the hardest part of any small-body mission, has gone to plan.
+
+The approach was deliberately patient. After launch, the probe performed a deep-space manoeuvre and a series of corrections, then spent June closing in through staged waypoints: first acquisition of the asteroid on the 6th, the capture burn at thirty thousand kilometres on the 7th, a coast to two thousand kilometres on the 19th, and finally the push to the twenty-kilometre survey distance. Each stage checked the navigation against the asteroid's actual position, and the closing sequence doubled as an experiment in how accurately a spacecraft can be guided to a body that was, until recently, not very well known at all.
+
+The navigation result is one of the quiet achievements of the mission so far. Before the encounter, 2016 HO3's position, known only from ground-based observations, carried an uncertainty of a hundred kilometres or more. Using the probe's optical navigation as it approached, the team has cut that uncertainty to the kilometre scale, which is the difference between landing blind and landing with a map. The improved ephemeris has been published through China's lunar and planetary data system, a small but real contribution to the community that tracks these objects.
+
+The scientific questions are the usual ones for a small body, which is to say they are all unanswered. What is the shape of 2016 HO3? Is its surface hard rock or a loose pile of rubble? What is it made of? The answers matter because they determine both how the mission samples the asteroid and what the samples will mean. Tianwen-2 carries eleven science instruments to map the terrain, the interior and the composition, and its designers have built in a strategy they call 'survey, approach, decide': the probe keeps its options open, gathering data first and choosing its sampling technique later.
+
+That flexibility is a response to ignorance. No one knows yet whether the surface will tolerate a touchdown, a brief hover-and-grab, or only a gentle brushing contact, so the spacecraft carries three sampling modes, touch, hover and attach, and will pick among them based on what the instruments see. The same logic explains the mission's broader arc: after collecting samples, Tianwen-2 will head to the main-belt comet 311P, a body that behaves like an asteroid but can outgas like a comet, extending a sample-return mission into a two-target odyssey.
+
+The comparison that frames this mission is with the earlier generation of asteroid sample return, which brought materials back from Bennu and Ryugu, and the two great lessons from those flights were that asteroids look nothing like the predictions and that every gram of sample is worth its weight in laboratory time. Tianwen-2 is built to those lessons. The rendezvous is complete, the survey has begun, and the sampling decision will come later this year, made by a probe that has spent four hundred days learning what its target is actually like.
