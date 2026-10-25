@@ -1,7 +1,8 @@
 ---
 title: "Spain's summer: the World Cup that crowned a continental power"
 date: 2026-07-22 23:20:00 +0800
-tags: [football, world-cup-2026, spain, sport, commentary]
+tags: [football, world-cup-2026, spain, sport]
+categories: [sport]
 description: "A Spanish side that outplayed Europe's finest for a month won the first forty-eight-team World Cup in a final that went to extra time. The expansion, and the spectacle, drew the eyes of the world."
 ---
 
