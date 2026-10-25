@@ -1,6 +1,6 @@
 ---
 title: "The red line Takaichi crossed: a year of fallout from her Taiwan remarks"
-date: 2026-10-25 09:47:00 +0800
+date: 2026-10-19 09:47:00 +0800
 tags: [japan, taiwan, china-japan-relations, politics]
 categories: [politics]
 description: In November 2025 the Japanese prime minister tied a possible Taiwan contingency to Japan's 'survival-threatening situation' trigger and floated military intervention in the strait. A year on, the damage to Sino-Japanese relations is still accumulating.
