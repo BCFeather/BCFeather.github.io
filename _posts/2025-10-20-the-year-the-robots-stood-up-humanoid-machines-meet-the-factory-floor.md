@@ -1,7 +1,8 @@
 ---
 title: "The year the robots stood up: humanoid machines meet the factory floor"
 date: 2025-10-20 15:40:00 +0800
-tags: [robotics, humanoids, ai, technology, commentary]
+tags: [robotics, humanoids, ai, technology]
+categories: [technology]
 description: "2025 was the year humanoid robots stopped being demo pieces and started working alongside people. The hardware arrived; the questions about what it means did not go away."
 ---
 
