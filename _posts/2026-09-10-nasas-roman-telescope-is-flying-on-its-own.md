@@ -3,7 +3,7 @@ title: "NASA's Roman telescope is flying on its own"
 date: 2026-09-10 17:53:00 +0800
 tags: [nasa, space, astronomy, telescopes]
 categories: [space]
-description: The Nancy Grace Roman Space Telescope separated from its Falcon Heavy upper stage on 30 August and is now cruising toward the Sun-Earth L2 point, having unfolded its solar panels and sunshield. It carries a promise that is different from James Webb's: not deeper looks at single objects, but a hundred times the sky in one go.
+description: "The Nancy Grace Roman Space Telescope separated from its Falcon Heavy upper stage on 30 August and is now cruising toward the Sun-Earth L2 point, having unfolded its solar panels and sunshield. It carries a promise that is different from James Webb's: not deeper looks at single objects, but a hundred times the sky in one go."
 ---
 
 The Nancy Grace Roman Space Telescope is on its own. On 30 August, about an hour after launching from Cape Canaveral on a Falcon Heavy, the spacecraft separated from the rocket's upper stage and began its solo flight toward the Sun-Earth L2 point, roughly a million miles beyond Earth. Within minutes of separation it established contact with the ground through NASA's TDRS relay satellites, and over the following half hour it unfolded its solar panels and sunshield, the shield doing double duty as a power source and a heat protector for the instruments behind it. The launch itself was routine by the standards of Falcon Heavy; the parts that matter are the ones that come after, because Roman is not a telescope that does its job in a day.
