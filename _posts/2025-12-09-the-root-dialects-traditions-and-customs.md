@@ -34,7 +34,7 @@ China's strength was never uniformity. It is its vastness, its capacity to hold 
 
 Consider the students from underdeveloped places, the ones waiting for opportunities. Their value isn't just their potential to become standardized cogs in the national economy. A student who grew up listening to Huaiguo opera in the north has a different sense of rhythm and narrative than a student raised on classical poetry in Hefei. The student who helped harvest tea leaves in the misty mountains of Huangshan understands patience and the relationship between labour and reward in a way no textbook can replicate.
 
-Discussions about 'education reform' or 'bridging the gap' often focus on giving these students the same textbooks, the same exams, the same chances to become 'standard.' But what if the goal shouldn't be standardization? What if the real opportunity is to bring these non-standard experiences into the centre of the conversation?
+Discussions about 'education reform' or 'bridging the gap' often focus on giving these students the same textbooks, the same exams, the same chances to become 'standard'. But what if the goal shouldn't be standardization? What if the real opportunity is to bring these non-standard experiences into the centre of the conversation?
 
 In natural language processing, one of the biggest challenges is context, sarcasm, cultural nuance. A machine can translate 'It's raining cats and dogs' literally and miss the point. It can read a Chinese poem about missing home and fail to grasp the visceral homesickness that hits a migrant worker from Anhui when he hears his village dialect over a crackly phone line. These systems have something to learn from a background rooted in dialect and custom.
 
@@ -42,6 +42,6 @@ So yes, let's promote Mandarin. Let's build high-speed rails and 5G networks. Le
 
 But we have to leave room for the sounds that don't fit the broadcast standard.
 
-*Sometimes the most important things are not said in perfect Mandarin.* They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer reads the weather from the shape of a cloud, in the way a community repairs a bridge after a storm. These habits are what have kept civilizations alive through famine, war, and revolution.
+Sometimes the most important things are not said in perfect Mandarin. They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer reads the weather from the shape of a cloud, in the way a community repairs a bridge after a storm. These habits are what have kept civilizations alive through famine, war, and revolution.
 
 Let the dialects live, and let the customs breathe. The 'embarrassed provinces' have something to say.
