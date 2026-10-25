@@ -1,7 +1,8 @@
 ---
 title: "Cortina to Milan: a Winter Games that tested a dispersed model"
 date: 2026-02-25 21:15:00 +0800
-tags: [winter-olympics, milan-cortina-2026, sport, italy, commentary]
+tags: [winter-olympics, milan-cortina-2026, sport, italy]
+categories: [sport]
 description: "The 2026 Winter Games ended with Norway's dominance, Italy's best haul in three decades, and the unfinished business of a model stretched across two cities and three regions."
 ---
 
