@@ -1,5 +1,5 @@
 ---
-title: "Google's Willow chip: a step toward quantum machines that matter"
+title: "Google's Willow chip: a step towards quantum machines that matter"
 date: 2024-12-11 11:20:00 +0800
 tags: [quantum-computing, google, willow, technology, commentary]
 description: "The Willow chip is a real milestone in error-corrected quantum computing, and worth reading carefully. A look at what it did and what it did not."
