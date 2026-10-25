@@ -1,0 +1,19 @@
+---
+title: "The Fed's December cut and the caution that came with it"
+date: 2024-12-18 17:42:00 +0800
+tags: [economy, markets, news]
+categories: [news]
+description: "The Federal Reserve lowered its target range by a quarter point on December 18, the third cut of the autumn, but the forecasts that accompanied the decision pointed to a slower path in 2025. The cut was the easy part of the announcement; the caution was the message, and the markets read the caution as the louder one."
+---
+
+The Federal Reserve did on December 18 what the markets expected it to do, and then said something the markets did not want to hear. The Federal Open Market Committee lowered the target range for the federal funds rate by a quarter point, to between four and a quarter and four and a half per cent, the third cut in a row since September, and the move itself was close to a formality. The surprise was in the projections: the committee's median forecast now showed only two more cuts in 2025, half of what the autumn's projections had suggested, and the statement and the press conference were written in the language of patience. Stocks fell sharply in the session that followed, and the decline was the market's way of registering that the easy phase of the cycle is over.
+
+The cut's logic was the familiar one. Inflation has been cooling toward the target while the labour market has been softening, and the committee judged that the balance of risks has shifted enough to keep easing; the quarter point matched the cut of early November, and the decision was nearly unanimous, with one dissent from a regional president who would have preferred to hold. The economy, in the committee's own words, has been growing at a solid pace, but the policy now has to look ahead, and looking ahead is where the caution begins.
+
+The caution is the substance of the announcement. The projections show the committee expecting inflation to remain above the target through the next year, and expecting the economy to tolerate a policy rate well above the levels of recent decades; the two cuts pencilled in for 2025 are a path of restraint, not of relief. The chair's comments reinforced the reading, describing further cuts as dependent on the data, and the phrase was heard as a door left open but guarded.
+
+The market's reaction was the other half of the story. The rate-sensitive corners of the market sold off, the equity indices finished the day lower, and the yield curve moved in the way that a slower path implies; the sell-off was not a panic, it was a repricing, and the repricing was the market's acknowledgement that the cheap money of the year's early months is not coming back on the schedule that had been hoped. The dollar firmed, the futures adjusted, and the conversations among investors shifted from when the cuts would come to how many would come at all.
+
+The politics of the year's end sits behind the economics. The incoming administration has promised tariffs, tax cuts and pressure on the central bank, and the committee's projections, completed before those policies have taken shape, carry an unusual degree of uncertainty; the members' forecasts for 2025 are, by their own account, provisional in a way that the next year's data will have to resolve. The independence question, the tariff arithmetic, the inflation risk, all of it is the context that the cautious path is navigating.
+
+The Fed's December cut was the third of the year, and the caution that came with it was the message that will matter in 2025. The easing is real, but it is slowing, and the slowing is the committee's judgment that the last stretch of the fight against inflation is the hardest. The markets will spend the winter adjusting to that judgment, and the adjustment is the real story of the announcement: a central bank that cut rates, and then spent the same afternoon explaining why it would not cut them often.

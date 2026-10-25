@@ -1,0 +1,19 @@
+---
+title: "The impeachment that followed: Seoul's parliament suspends its president"
+date: 2024-12-14 19:58:00 +0800
+tags: [korea, politics, news]
+categories: [news]
+description: "Eleven days after the martial law declaration that failed within six hours, South Korea's National Assembly voted two hundred and four to impeach President Yoon Suk-yeol, suspending him from office while the Constitutional Court decides his fate. The vote was the democracy's institutional answer, and the answer was delivered in the language the constitution provides."
+---
+
+Eleven days after the night that shook the country, the National Assembly delivered the answer that the constitution had prepared. On December 14, the assembly voted two hundred and four in favour of the impeachment motion against President Yoon Suk-yeol, past the two hundred votes required, with eighty-five against, three abstentions and eight invalid ballots. The president was suspended from office at once, his powers passing to the prime minister in the acting role, and the Constitutional Court now holds the question that the country has been asking since the declaration of martial law on December 3.
+
+The vote was the second attempt, and the first attempt explains why the second mattered. On December 7 the ruling party had walked out of the chamber, leaving the count short of the quorum that the constitution demands, and the motion had failed on a technicality. The public reaction was immediate and unforgiving; the surveys showed the president's approval collapsing further, the rallies in the capital grew, and the ruling party's own members began to break ranks. By the second vote, at least twelve deputies from the president's own party voted for the impeachment, and the two hundred and four votes carried a weight that the first attempt had lacked.
+
+The articles of impeachment rest on the declaration itself. The opposition charges that the martial law order amounted to an insurrection, that the president used the armed forces against the state's own institutions, and that the attempt to block the assembly's proceedings breached the constitutional order that he had sworn to uphold. The charges are grave, and the court that will hear them is the same court that has decided the country's two previous presidential impeachments, one of which ended in dismissal and one in reinstatement.
+
+The country's mood, after the vote, is the mood of a democracy that has taken a difficult but orderly step. The crowds outside the assembly celebrated the vote as a vindication of the institutions; the president, in his address after the result, said he would step aside without giving up, and the phrasing left the country to interpret what a fight from outside the office would look like. The acting prime minister has promised continuity and stability, and the markets, after the initial shock of the month, have been reading the constitutional process as the mechanism that the crisis was always meant to reach.
+
+The question now passes to the Constitutional Court, and the court's calendar will set the country's pace. The justices must decide whether the impeachment stands, and the decision will take months, during which the president remains suspended and the acting arrangements remain in force. The country has done this before, and the memory of the previous trial, which removed a president and produced a snap election, is the context in which the court will now work.
+
+Seoul's parliament suspended its president by two hundred and four votes, and the suspension is the constitution's own machinery running as designed. The night of martial law failed within six hours, and the failure has now been converted into the formal process that the charter provides. The court will decide the rest, and the country, having answered with its institutions, will wait for the institutions to finish the answer.

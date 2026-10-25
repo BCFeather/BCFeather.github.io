@@ -1,0 +1,19 @@
+---
+title: "Berlin's coalition falls and the early election takes its date"
+date: 2024-12-16 22:14:00 +0800
+tags: [germany, politics, news]
+categories: [news]
+description: "The Bundestag voted on December 16 to deny Chancellor Olaf Scholz the confidence he requested, clearing the path to early elections on February 23. The vote was the formal end of the traffic-light coalition's project, and the campaign that begins now will decide what replaces it."
+---
+
+The German Bundestag did on December 16 what the country's constitution is designed to let it do when a government can no longer govern: it voted no. The confidence motion that Chancellor Olaf Scholz had requested went down by a decisive margin, with two hundred and seven deputies voting confidence, three hundred and ninety-four against and one hundred and sixteen abstaining, short of the three hundred and sixty-seven votes the chancellor would have needed to survive. The result was the formal conclusion of the traffic-light coalition, the alliance of Social Democrats, Greens and Liberals that took office in 2021 and fell apart in November, and it set the country on the course to new elections on February 23.
+
+The collapse had been announced in advance, which is the unusual part of the German procedure. Scholz asked for the vote precisely because he knew he would lose it; under the basic law, a chancellor who loses a confidence vote clears the way for the president to dissolve the Bundestag and call elections. The government will remain in office as a minority administration, the Social Democrats and the Greens continuing as a caretaker, but the campaign is already under way, and the campaign's question is the one that the coalition failed to answer.
+
+The coalition's failure was fiscal before it was political. The agreement that held the three parties together broke in November over the budget, when the chancellor dismissed the finance minister, a Liberal, after months of argument about how to reconcile the coalition's spending commitments with the constitutional debt brake. The dismissal ended the alliance, the minority government began, and the confidence vote was the constitutionally tidy way of converting the breakdown into an election date.
+
+The campaign that follows will be the shortest in the republic's recent history, and the poll that opens it shows the country's politics in motion. The centre-right union leads the surveys with the chancellor's party trailing well behind, the Greens are placed in the middle, the far-right party is polling at record levels, and the new left-populist party, born out of a split in the chancellor's own ranks, is competing for the votes that the established parties have lost. The arithmetic of February will be harder than the arithmetic of the last election, and the coalitions that the parties will have to build afterwards will be harder still.
+
+The winter will be the country's campaign season, and the campaign will be fought against a difficult backdrop: an economy that has contracted, an industrial base under pressure from energy prices and competition, a debate about migration that the last weeks of the year have made sharper, and a security question that the war to the east has made unavoidable. The election will be about the country's direction, and the direction is the thing that the coalition years could not settle.
+
+Berlin's coalition fell in a vote that the chancellor had asked for, and the fall is the democracy working through its own rules rather than breaking them. Germany does not do dramatic collapses; it does procedural ones, and the procedure has now produced a date. February 23 will be the test, and the test's outcome will determine whether the country's next government can do what the last one could not: govern with a majority that lasts.

@@ -1,0 +1,19 @@
+---
+title: "Paris loses its government in a vote that took an afternoon"
+date: 2024-12-05 14:27:00 +0800
+tags: [france, politics, news]
+categories: [news]
+description: "On the evening of December 4, the National Assembly voted three hundred and thirty-one to bring down the government of Michel Barnier, the first no-confidence dismissal since 1962 and the shortest-lived government of the Fifth Republic. The vote was a budget argument conducted as a constitutional event, and the country is left with the winter's hardest arithmetic."
+---
+
+The French government fell on the evening of December 4, and it fell in the way that the Fifth Republic had managed to avoid for sixty-two years. The National Assembly voted three hundred and thirty-one deputies in favour of a no-confidence motion against Prime Minister Michel Barnier, comfortably past the absolute majority of two hundred and eighty-eight that the constitution requires to force a government out. The left's motion, carried also by the votes of the far right, produced the second dismissal of a government in the republic's history, the first having happened under Georges Pompidou in 1962, and it made Barnier's administration, at roughly three months, the shortest-lived in the republic's record.
+
+The immediate cause was the budget, and the budget explains almost everything about the vote. Barnier, leading a minority government that depended on tolerance from both flanks, had forced the social security financing bill through by invoking the constitutional article that lets a prime minister pass legislation without a vote; the gesture is legal, but it is precisely the gesture that the opposition treats as a declaration of war. The no-confidence motion was the reply, and the reply had the numbers because the left and the far right, who agree on little else, agreed that the government should go.
+
+The consequences arrived with the vote itself. Barnier was left to submit his resignation, and President Emmanuel Macron was left to accept it and to name a successor, a task complicated by the same arithmetic that brought the government down; no party commands a majority in the assembly elected in the summer's snap election, and no coalition has yet been assembled that could survive a confidence vote. The winter's budget, the one whose passage the autumn was supposed to settle, remains unsigned, and the machinery of the state's finances runs on provisional arrangements while the politics catch up.
+
+The vote was a constitutional event with an economic engine, and the distinction matters. The deputies were not overturning a regime, as in 1962; they were punishing a government for a budget they would not accept. The republic itself is not at risk, the institutions held their forms, and the dismissal followed the rules that the constitution sets. What the vote exposed is the deeper condition: a country whose assembly is divided into three blocs of roughly equal weight, none able to govern alone, and all of them able to bring down any government that tries.
+
+The weeks ahead will test what the republic does with that condition. A new prime minister will be named, a new budget will be drafted, and the same assembly will be asked to support the same arithmetic under a different name; the likelihood of a quick settlement is low, and the cost of a long one, in borrowing and in confidence, is the price that the markets have already begun to quote.
+
+Paris lost its government in an afternoon, and the loss was the budget's doing as much as the politics'. The vote was historic by the calendar, but it was ordinary by the arithmetic, and the arithmetic is the thing that the republic now has to solve. The government fell because the assembly could not be persuaded, and the assembly's next task is to find the majority that the persuasion failed to produce.
