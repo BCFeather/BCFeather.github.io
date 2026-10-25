@@ -1,0 +1,17 @@
+---
+title: "A year of record heat: the climate bill arrives in instalments"
+date: 2026-01-01 08:23:00 +0800
+tags: [climate, weather, science, news]
+categories: [news]
+description: "The climate agencies closed 2025 as the hottest year on record, the third such title in a row, and the numbers have stopped surprising anyone. The surprise has moved elsewhere, into the bills arriving in instalments: insurance, food, water and the quiet rearrangement of where people can live."
+---
+
+The climate agencies closed 2025 as the hottest year on record, the third consecutive year to claim the title, and the announcement landed with the dullness of something expected. That dullness is itself the story. A decade ago a record year was a shock, a reason for front pages and emergency summits; now it is a paragraph in the business pages, absorbed and priced in. The atmosphere is no longer asking for attention. It is sending invoices, and the interesting question is not whether the climate is changing but who is receiving the bills and in what order.
+
+The first instalment is insurance, and it has already arrived. Premiums for property in the coastal and wildfire-prone parts of the United States, southern Europe and eastern Australia have risen so steeply over two years that the word 'uninsurable' has moved from the vocabulary of activists into the language of actuarial tables. The people who cannot get cover are not the rich; they are the owners of ordinary houses on the edges of the risk maps, and the retreat of the insurance market is redistributing the cost of the warming world faster than any government policy has managed to do.
+
+The second instalment is food, and it is arriving through the price shelf rather than the weather report. A bad harvest in one breadbasket was once a regional event; with a third of the world's wheat, rice and maize grown in places that are now routinely exceeding their historical temperature windows, a bad harvest anywhere becomes a price signal everywhere. The months after the northern summer of 2025 showed this in real time, as grain prices moved on soil-moisture maps rather than on political news, and the poorest importers, which have no domestic cushion, paid the same global price with a far larger share of their income.
+
+The third instalment is water, and it is the one I find hardest to watch, because it is the most irreversible. The aquifers under the world's breadbaskets are falling; the glaciers that feed the great rivers of Asia are in permanent retreat; and the response, so far, has been to pump faster and dig deeper, which is the equivalent of paying a credit card bill with another credit card. The climate projections are uncertain in their details and unambiguous in their direction, and the direction of the water story is not toward compromise.
+
+The framing of all this matters more than the numbers, and the framing is finally catching up. The argument that the transition costs too much is being overtaken by the discovery that the no-transition budget is larger, and it arrives whether anyone chooses it or not. What the consecutive records have done is to convert the climate from a moral question, where action could be postponed indefinitely, into an accounting question, where the entries are already in red. That is an uncomfortable way to make progress, and it is still progress of a kind. The planet is not asking for our belief; it is asking for payment, in instalments, and the only choice left is who carries the arrears.

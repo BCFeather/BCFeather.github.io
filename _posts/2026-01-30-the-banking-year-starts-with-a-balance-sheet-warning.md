@@ -1,0 +1,17 @@
+---
+title: "The banking year starts with a balance sheet warning"
+date: 2026-01-30 14:12:00 +0800
+tags: [economy, banks, finance, news]
+categories: [news]
+description: "The first major bank earnings of the year were published this week, and while the headline numbers cleared expectations, the balance sheets behind them carried a message the press releases left out: the interest-rate tail of the last cycle has not finished wagging. Commercial real estate is the name of the problem; the regulators are watching the same floor."
+---
+
+The first major bank earnings of the year were published this week, and they cleared expectations in the way that earnings usually do, with the net interest margins holding up, the buybacks announced, and the executives describing the year ahead in the careful language of confidence. The press releases were fine. The balance sheets behind them carried a message the press releases left out, and the message is that the interest-rate tail of the last cycle has not finished wagging.
+
+The problem, as it has been for several years now, is commercial real estate. The offices, the hotels, the retail centres that were financed at rates that no longer exist, are still sitting on the books of the banks, and the accounting that keeps them at book value is doing more work than it should. This earnings season showed two things that the market had not fully priced: first, that the banks are extending the maturities of the loans rather than forcing the losses, which pushes the problem down the road; and second, that the provisions being set aside for the office portfolio are growing at a rate that suggests the road is shorter than the extension implies.
+
+The regulators are watching the same floor as the banks, which is the unusual part of this cycle. In the previous crisis the supervisors were learning about the problem from the banks' own disclosures; this time the stress tests are being run in public, the scenarios are getting harsher, and the language from the supervisory agencies has shifted from reassurance to surveillance. The result is a strange equilibrium in which everyone knows where the bodies are buried and nobody wants to be the first to dig. The equilibrium can last a long time, which is what makes it dangerous.
+
+I want to be careful not to overstate the picture. The banking system's capital is much stronger than it was in the last crisis, the deposit base is stickier, and the largest institutions are not concentrated in the most distressed corners of the office market. The scenario that keeps the supervisors up at night is not a repeat of 2008; it is a slow bleed, in which the losses arrive quarter by quarter, the dividends get cut quietly, and the whole sector absorbs a decade of mediocrity while the problem unwinds. That is a survivable outcome and a painful one, and the earnings season just provided the first good look at which banks are prepared to live through it and which are hoping not to have to.
+
+The banking story this year will be told in provisions rather than in profits. The headline numbers will keep clearing, the buybacks will keep being announced, and the balance sheets will keep doing their quiet work. The investors who look past the press releases will be watching the allowance for credit losses, the weighted risk on the office book, and the tone of the regulator's next stress test. The banking year has started with a warning, and the warning, like most warnings, is most useful to the people who take it seriously before they have to.
