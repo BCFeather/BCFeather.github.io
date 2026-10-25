@@ -1,7 +1,8 @@
 ---
 title: "One model, one router: what GPT-5's unification says about the frontier"
 date: 2025-08-08 19:15:00 +0800
-tags: [ai, openai, gpt-5, technology, commentary]
+tags: [ai, openai, gpt-5, technology]
+categories: [technology]
 description: "OpenAI replaced the fragmented product line with a single model that reasons, draws and browses as needed. The move matters beyond the benchmarks."
 ---
 
