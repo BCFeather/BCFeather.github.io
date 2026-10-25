@@ -1,7 +1,8 @@
 ---
 title: "Liberation Day tariffs: a trade war that taxed the world and its own author"
 date: 2025-04-11 21:30:00 +0800
-tags: [trade, tariffs, us-economy, globalization, commentary]
+tags: [trade, tariffs, us-economy, globalization]
+categories: [economics]
 description: "The sweeping 'reciprocal' tariffs of April 2025 were announced as an act of national liberation. A month on, the consequences for markets, allies and the policy itself are coming into view."
 ---
 
