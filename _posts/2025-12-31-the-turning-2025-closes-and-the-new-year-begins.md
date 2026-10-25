@@ -1,0 +1,19 @@
+---
+title: "2025 closes and the new year begins"
+date: 2025-12-31 23:58:00 +0800
+tags: [culture, essay, new-year]
+categories: [culture]
+description: "The year turned in the final minutes of the last day, and the turning carried the record that 2025 has produced into the new year that the calendar will open: the conflicts and the settlements, the decisions and the deferrals, the records and the rituals that the seasons have assembled. The turning is the year's final act, and the final act's keeping is the new year's first ceremony."
+---
+
+The year turned in the final minutes of the last day, and the turning carried the record that 2025 has produced into the new year that the calendar will open. The conflicts and the settlements, the decisions and the deferrals, the records and the rituals that the seasons have assembled, all of it was held in the turning that the midnight marked; the turning is the year's final act, and the final act's keeping is the new year's first ceremony. The year was closed with the particular combination of the reflection and the expectation that the turnings always carry, and the closing is the calendar's oldest ritual.
+
+The year's record, held in the turning, is the record that the seasons have assembled: the tariff era's conflicts and the agreements that followed, the war's ceasefire and its fragile course, the elections and the transitions, the summits and the verdicts, the science and the rituals that the year held. The record is the year's own, and the record's carrying into the new year is the turning's work; the year's events will be the new year's context, and the context is the agenda that the new year will conduct.
+
+The year's quieter record, held in the same turning, is the one that the headlines could not carry: the households that kept their courses, the rituals that were observed, the seasons that turned through the year's events, and the ordinary work that the institutions and the people performed. The quieter record is the year's continuity, and the continuity's carrying into the new year is the turning's quieter promise; the year that closes was not only the year of the conflicts and the decisions but the year of the lives that were lived through them, and the lives are the record's deepest column.
+
+The turning's ceremonies, held in the cities and the households, were the season's final rituals: the gatherings that the traditions have fixed, the countdowns and the toasts and the particular observances that the cultures have built around the midnight, all of it was conducted with the regularity that the calendar commands. The ceremonies are the turning's human form, and the form's persistence is the demonstration of the continuity that the years provide; the rituals were kept, and the keeping is the turning's content.
+
+The new year's beginning, as the calendar turns, will be the beginning that the year's record has set up: the negotiations that the follow-ups will continue, the implementations that the settlements require, and the calendars that the institutions have fixed. The beginning will be conducted with the record that the year has produced, and the conduct will be the new year's chapter; the agenda is set, and the setting is the turning's promise.
+
+The year turned in the final minutes of the last day with the record held and the ceremonies kept, and the turning is the calendar's oldest act; the year's conflicts and settlements, decisions and rituals have been carried into the new year, and the new year will begin with the agenda that the year has set and the ceremonies that the turning has kept. 2025 has closed, and the new year has opened with the particular combination of the record and the promise that the turnings always carry; the record is the year's legacy, and the promise is the new year's gift, which is the way that the years have always turned and the way that they will always begin.
