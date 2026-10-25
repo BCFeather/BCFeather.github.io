@@ -1,0 +1,29 @@
+---
+layout: page
+# Archive of the posts of a single year.
+# The page front matter must provide `year` (e.g. `year: 2024`) and a permalink
+# such as /archives/2024/. Lists all posts whose date falls in that year.
+---
+{% include lang.html %}
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+<div id="archives" class="pl-xl-3">
+  <div class="mb-3">
+    <a class="small text-muted" href="{{ '/archives/' | relative_url }}">Back to all archives</a>
+  </div>
+  <ul class="list-unstyled">
+    {% for post in site.posts %}
+      {% assign post_year = post.date | date: '%Y' %}
+      {% if post_year == page.year %}
+        <li>
+          {% assign ts = post.date | date: '%s' %}
+          <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+            {{ post.date | date: df_strftime_m }}
+          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
