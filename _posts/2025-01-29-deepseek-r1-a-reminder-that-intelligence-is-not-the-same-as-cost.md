@@ -1,6 +1,22 @@
 ---
 title: "DeepSeek R1: a reminder that intelligence is not the same as cost"
 date: 2025-01-29 20:35:00 +0800
+tags: [ai, deepseek, china, technology]
+categories: [technology]
+description: "A low-cost reasoning model from a Hangzhou startup triggered a global rout in AI stocks and a sobering realisation. What the R1 moment says about the industry."
+---
+
+At the end of January 2025, a relatively unknown Chinese startup called DeepSeek released a reasoning model, R1, and within days it had done something few AI releases have done: it moved markets. Its cost was a fraction of its American rivals, its open-weights publication let anyone run it locally, and its performance on benchmark reasoning tasks drew comparisons to the leading closed models. The immediate consequence was a rout in technology stocks, with the chip maker Nvidia alone losing hundreds of billions of dollars in market value in a single session as investors recalibrated what the hardware boom was worth.
+
+The shock was partly a question of cost. DeepSeek reported training its flagship model for a small fraction of the sums that American labs have described spending, and it achieved this with commodity hardware and an efficiency-first approach. The exact figures were debated, but the direction was not in doubt: it was no longer obvious that frontier-class reasoning required frontier-class capital. That single fact upended the assumption, baked into a year of stock-market enthusiasm, that the leading AI firms were protected by an unassailable moat of compute spending.
+
+There is also a geopolitical layer that the coverage could not avoid. An open model from China that matched Western rivals, at a fraction of the price, arrived in the middle of an escalating competition over chips and export controls. The export restrictions had been designed, in part, to slow Chinese AI; the DeepSeek result suggested the field had found ways to do more with less. The episode was quickly framed, in parts of the American press and Congress alike, as a wake-up call about whether the controls had worked as intended.
+
+The deeper point is the one the market reactions obscured. DeepSeek did not suddenly make intelligence cheap; it made a particular approach to intelligence cheaper, and it proved that the frontier is wider and more contested than any single company's roadmap. The open-weights decision, in particular, deserves attention. A leading model that anyone can download shifts the balance of power in AI away from a handful of gatekeepers and toward researchers and countries that would otherwise be locked out. That is a development with consequences for safety, for concentration, and for who gets to shape the technology, none of which is settled by a stock chart.
+
+The R1 moment will be remembered less for the benchmark scores than for the questions it forced into the open. Whether the industry's valuation assumptions survive, whether export controls can hold against efficient open models, and whether the centre of gravity in AI research is shifting eastward are all now live questions. None of them has a clean answer yet. What DeepSeek proved is that the era of assuming the frontier belongs to whoever spends the most is over, and the scramble to adjust to that fact is only beginning.---
+title: "DeepSeek R1: a reminder that intelligence is not the same as cost"
+date: 2025-01-29 20:35:00 +0800
 tags: [ai, deepseek, china, technology, commentary]
 description: "A low-cost reasoning model from a Hangzhou startup triggered a global rout in AI stocks and a sobering realisation. What the R1 moment says about the industry."
 ---
