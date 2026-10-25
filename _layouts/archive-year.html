@@ -2,7 +2,8 @@
 layout: page
 # Archive of the posts of a single year.
 # The page front matter must provide `year` (e.g. `year: 2024`) and a permalink
-# such as /archives/2024/. Lists all posts whose date falls in that year.
+# such as /archives/2024/. Lists all posts whose date falls in that year;
+# shows the first 10 and reveals 10 more on each 'Load more' click.
 ---
 {% include lang.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
@@ -11,7 +12,7 @@ layout: page
   <div class="mb-3">
     <a class="small text-muted" href="{{ '/archives/' | relative_url }}">Back to all archives</a>
   </div>
-  <ul class="list-unstyled">
+  <ul class="list-unstyled" id="year-archive-list">
     {% for post in site.posts %}
       {% assign post_year = post.date | date: '%Y' %}
       {% if post_year == page.year | append: '' %}
@@ -26,4 +27,35 @@ layout: page
       {% endif %}
     {% endfor %}
   </ul>
+  <div class="mt-4 text-center">
+    <button type="button" class="btn btn-outline-primary" id="load-more-btn">Load more</button>
+  </div>
 </div>
+<script>
+  (function () {
+    var list = document.getElementById('year-archive-list');
+    if (!list) { return; }
+    var btn = document.getElementById('load-more-btn');
+    if (!btn) { return; }
+    var items = list.querySelectorAll('li');
+    var step = 10;
+    var shown = Math.min(step, items.length);
+    if (items.length <= shown) {
+      btn.classList.add('d-none');
+      return;
+    }
+    for (var i = shown; i < items.length; i++) {
+      items[i].classList.add('d-none');
+    }
+    btn.addEventListener('click', function () {
+      var next = Math.min(shown + step, items.length);
+      for (var i = shown; i < next; i++) {
+        items[i].classList.remove('d-none');
+      }
+      shown = next;
+      if (shown >= items.length) {
+        btn.classList.add('d-none');
+      }
+    });
+  })();
+</script>
