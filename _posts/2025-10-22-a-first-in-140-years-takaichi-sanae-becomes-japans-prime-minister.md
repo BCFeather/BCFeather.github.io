@@ -1,7 +1,8 @@
 ---
 title: "A first in 140 years: Takaichi Sanae becomes Japan's prime minister"
 date: 2025-10-22 09:15:00 +0800
-tags: [japan, politics, women-in-politics, commentary]
+tags: [japan, politics, women-in-politics]
+categories: [politics]
 description: On 21 October 2025 Takaichi Sanae was elected Japan's 104th prime minister, the first woman to hold the office in the country's 140-year cabinet system. What her victory means, and what it does not.
 ---
 
