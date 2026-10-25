@@ -34,7 +34,7 @@ Change doesn't start with a government policy or a new curriculum. It starts wit
 
 I don't need sympathy. I don't want pity. I want a chair at the table. I want to prove that the smartest kids in the country aren't all in Beijing or Shanghai. They're in the places you forgot to look: in the internet cafés, in the fields, in the back rows of underfunded classrooms, waiting for someone to just throw them the ball.
 
-*Education in China is calling. We are answering.*
+Education in China is calling. We are answering.
 
 I bring my whole self. My exhaustion, which is another word for determination. My refusal to disappear into the statistical noise. One day the 'embarrassed provinces' will be known for what we built.
 
