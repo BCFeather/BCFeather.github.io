@@ -30,7 +30,7 @@ That brings us to artificial intelligence. We live in an era obsessed with optim
 
 If we are not careful, AI becomes a tool of homogenization. It will speak perfect Mandarin, but it will never grasp why a Chizhou native hesitates before saying 'I love you' directly, preferring to show affection through a bowl of soup.
 
-China's strength was never uniformity. It is its vastness, its capacity to hold contradictions and local truths inside one civilisation. Demanding one kind of 'correct' language everywhere would erase most of the country's internal variety. Protecting dialects does not hold back progress. It makes sure that when we reach the future, we still remember where we came from.
+China's strength was never uniformity. It is its vastness, its capacity to hold contradictions and local truths inside one civilization. Demanding one kind of 'correct' language everywhere would erase most of the country's internal variety. Protecting dialects does not hold back progress. It makes sure that when we reach the future, we still remember where we came from.
 
 Consider the students from underdeveloped places, the ones waiting for opportunities. Their value isn't just their potential to become standardized cogs in the national economy. A student who grew up listening to Huaiguo opera in the north has a different sense of rhythm and narrative than a student raised on classical poetry in Hefei. The student who helped harvest tea leaves in the misty mountains of Huangshan understands patience and the relationship between labour and reward in a way no textbook can replicate.
 
@@ -42,6 +42,6 @@ So yes, let's promote Mandarin. Let's build high-speed rails and 5G networks. Le
 
 But we have to leave room for the sounds that don't fit the broadcast standard.
 
-*Sometimes the most important things are not said in perfect Mandarin.* They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer reads the weather from the shape of a cloud, in the way a community repairs a bridge after a storm. These habits are what have kept civilisations alive through famine, war, and revolution.
+*Sometimes the most important things are not said in perfect Mandarin.* They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer reads the weather from the shape of a cloud, in the way a community repairs a bridge after a storm. These habits are what have kept civilizations alive through famine, war, and revolution.
 
 Let the dialects live, and let the customs breathe. The 'embarrassed provinces' have something to say.
