@@ -1,5 +1,5 @@
 ---
-title: "Southern Europe burns as wildfire season arrives early"
+title: "Southern Europe burns: wildfires come early and come hot"
 date: 2026-07-09 19:15:00 +0800
 tags: [wildfires, climate, france, spain]
 categories: [environment]
