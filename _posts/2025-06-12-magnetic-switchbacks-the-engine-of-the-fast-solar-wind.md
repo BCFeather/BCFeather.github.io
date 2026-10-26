@@ -1,0 +1,19 @@
+---
+title: "Magnetic Switchbacks: The Engine of the Fast Solar Wind"
+date: 2025-06-12 12:53:00 +0800
+tags: [space, solar, astrophysics]
+categories: [science]
+description: "A paper in Science on 29 August 2024 used two spacecraft at different distances to show that Alfvénic switchbacks deposit their energy to heat and accelerate the fast solar wind. A close reading of the in-situ measurement that settled a decades-old question."
+---
+
+The Sun throws off a constant wind of charged particles, and for sixty years nobody could say for sure what accelerates the fast component of that wind to several million degrees. The corona is mysteriously hotter than the surface below it, and the wind that streams outward from it needs an energy source that models had only guessed at. A paper published in Science on 29 August 2024 closes much of that gap with a direct measurement. 'In situ observations of large-amplitude Alfvén waves heating and accelerating the solar wind', by Yeimy Rivera and Samuel Badman at Harvard and the Smithsonian, led a team that exploited a rare alignment of two spacecraft watching the same stream of plasma from different distances.
+
+The experiment used NASA's Parker Solar Probe and ESA's Solar Orbiter. Parker dives close to the Sun, skimming the outer corona at the so-called Alfvén surface where the wind first outruns the waves that propagate back along it. Solar Orbiter orbits farther out, past the path of Venus. On a chosen encounter, the two spacecraft sat along the same magnetic field line, so that Parker measured a parcel of fast wind near the Sun and Solar Orbiter measured the same parcel after it had travelled outward. That is the crucial design: a single stream, sampled twice.
+
+What they found was a clean energy budget. Near the Sun, Parker recorded that roughly 10 percent of the wind's energy was locked in magnetic switchbacks, the large kinks in the field line that reverse its direction, like the zig-zags of a mountain road. Farther out, Solar Orbiter measured less than 1 percent of the energy left in those waves. Over the span between the two spacecraft, the Alfvén waves had lost energy, and the plasma had gained exactly the heat and bulk motion needed to account for it. The motion and thermal energy gained by the plasma matched the energy lost by the waves.
+
+That is the first definitive connection between switchbacks and the acceleration of the solar wind. Switchbacks had been seen since the early Parker missions and dramatically amplified since Parker Solar Probe arrived, but sightings alone could not show whether they were cause or symptom. The two-point measurement turns a correlation into a budget: the waves carry the energy out, and they spend it on the wind. The authors argue that these large-amplitude Alfvénic fluctuations are what power the heating and acceleration of the fast solar wind.
+
+The paper is careful about what it does not yet explain. The switchbacks are plentiful near the Sun but far less common at Earth's orbit, so the process by which the zig-zags relax and merge back into the ambient wind is still being worked out. The study addresses the fast wind from coronal holes; the slow, variable wind that dominates near the equator is a separate problem, and this measurement does not by itself solve it. The magnetic origins of the switchbacks, whether they form from reconnection at the surface or from turbulence aloft, remain an open question that the budget result constrains but does not settle.
+
+The elegance is in the method rather than a new instrument. Two old spacecraft, a shared field line, and a bookkeeping exercise on energy. For a problem that had been argued over since Eugene Parker first proposed a streaming wind in 1958, a direct accounting is worth more than another model. The fast solar wind, the data now say, is driven by the same magnetic waves that look like trouble close to the Sun. They are not trouble. They are the engine.

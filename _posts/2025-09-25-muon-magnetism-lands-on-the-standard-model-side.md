@@ -1,0 +1,19 @@
+---
+title: "Muon Magnetism Lands on the Standard Model Side"
+date: 2025-09-25 16:02:00 +0800
+tags: [physics, particle-physics, muon]
+categories: [science]
+description: "Fermilab's Muon g-2 collaboration released its final combined measurement on 3 June 2025, reaching 127 parts per billion precision. The number agrees with the updated Standard Model prediction. What a precision experiment does when the discrepancy it was chasing disappears."
+---
+
+For nearly a decade, the muon's magnetic moment has been particle physics's most tantalizing loose thread. The muon, a heavy cousin of the electron, wobbles in a magnetic field at a rate set by loops of virtual particles popping in and out of the vacuum. Measure that wobble precisely enough, and any disagreement with the Standard Model's prediction is a shadow cast by something the theory does not contain. On 3 June 2025, the Muon g-2 collaboration at Fermilab released its final combined measurement, and the shadow turned out to be fainter than hoped.
+
+The new result pins down the anomalous magnetic moment of the positive muon to a_mu = 116592070.5(14.8) times ten to the minus eleven, a precision of 127 parts per billion. That exceeds the experiment's original design goal of 140 parts per billion and represents more than a fourfold improvement over the Brookhaven measurement that started the controversy in 2006. The number combines all six years of Fermilab data taking, spinning beams of muons in a 14-metre storage ring and reading out the precession frequency with superconducting detectors.
+
+The twist is what the number is compared against. When the first Fermilab result landed in 2021, it disagreed with the 2020 Standard Model prediction by more than four standard deviations, the threshold the field uses to take an anomaly seriously. But the theoretical prediction was never settled. The largest uncertainty comes from hadronic vacuum polarization, the contribution of virtual quark-antiquark pairs that is hard to calculate from first principles. Over the past two years, lattice QCD calculations from several groups have converged on a higher value for this contribution, shifting the predicted muon moment upward. The 2025 Theory Initiative white paper adopts the lattice-influenced average, and the new experimental measurement sits comfortably on top of it.
+
+The experiment itself is a tour de force of precision metrology. The storage ring's magnetic field is mapped to a fraction of a part per million using proton NMR probes, and the muon precession frequency is extracted from the decay positron angular distribution with systematic uncertainties that have been hunted down year by year. The collaboration includes hundreds of physicists across dozens of institutions, and the data reduction pipeline is itself a subject of papers. What makes the 127 ppb result matter is not the number alone but the fact that it is the culmination of the entire dataset, with no further runs planned.
+
+The community's reaction has been measured. The discrepancy that dominated particle physics headlines for years has not vanished entirely, because the older data-driven prediction and the new lattice prediction still disagree with each other at a level that is not understood. The experimental result is now so precise that it has become a test bench for the theorists rather than a window onto new particles. If lattice QCD is right, the muon is behaving exactly as the Standard Model says it should. If the older data-driven approach is right, the discrepancy survives and the experiment has already squeezed most of the experimental uncertainty out of the comparison.
+
+What the final paper establishes is a benchmark, not a discovery. The muon's wobble is now known well enough that any future claim of new physics must clear a very high bar. The collaboration's work is done. The theorists now have to agree with each other.

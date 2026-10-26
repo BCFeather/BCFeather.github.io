@@ -1,0 +1,19 @@
+---
+title: "DESI's First Map Leaves the Cosmological Constant in Question"
+date: 2024-07-11 13:47:00 +0800
+tags: [physics, astronomy, cosmology]
+categories: [science]
+description: "The Dark Energy Spectroscopic Instrument released its first year of baryon-acoustic measurements in early 2024. Alone, the data agree with the cosmological constant; paired with the microwave sky and supernovae, they hint that dark energy is evolving."
+---
+
+The best current story of the Universe is also the most embarrassing one. Roughly seventy per cent of it is dark energy, a component that accelerates cosmic expansion, and the standard model simply writes it down as a constant with no explanation. On 31 January 2024 the Dark Energy Spectroscopic Instrument, DESI, posted its first-year cosmological results to arXiv, seven papers describing the sharpest three-dimensional map of the expanding Universe ever assembled. The question the map was built to answer is whether dark energy is really a constant, or whether it has changed over cosmic time.
+
+The instrument measures baryon acoustic oscillations, the frozen-in imprint of sound waves in the early plasma, which acts as a standard ruler. By measuring the apparent size of that ruler at different distances, DESI reads off the expansion history of the Universe. The released dataset covers more than six million extragalactic objects, from luminous red galaxies and emission-line galaxies to quasars and the Lyman-alpha forest, spread across seven redshift bins reaching from the nearby Universe out to redshift 4.2. The analysis was run blind: the team fit the cosmological model without looking at the most interesting parameter, the dark-energy equation of state, until the pipeline was locked.
+
+Taken alone, DESI's data are a clean bill of health for the standard model. The baryon-acoustic measurements are consistent with a flat Universe whose matter density is 0.295 plus or minus 0.015, and, paired with the cosmic-microwave-background sound scale and a big-bang-nucleosynthesis prior, they pin the Hubble constant at 68.52 plus or minus 0.62 kilometres per second per megaparsec. Extending the model with a constant dark-energy parameter w, the data alone return w equal to minus 0.99 plus or minus 0.13. Within their own errors, DESI's first year says nothing contradicts a cosmological constant.
+
+The crack appears in combination. When DESI is joined to Planck's microwave background and, separately, to samples of type Ia supernovae, the extended model prefers a dark energy whose equation of state drifts with time: w0 greater than minus one and wa less than zero. For DESI plus the microwave background alone, that preference sits at 2.6 sigma; adding supernova data raises it to between 3.5 and 3.9 sigma. Physicists require five sigma to call a discovery, and the hint is sensitive to which datasets are paired, but the direction is consistent, and it is the direction that would mean dark energy is not a constant vacuum.
+
+That is the honest reading of the release, and the consortium's own director framed it that way in April. The measurements themselves are the achievement: a Stage-IV survey, finished blind, agreeing with the standard model at the same time as every combination that includes external data pulls gently against it. Whether the preference grows with the next year of data or evaporates as errors shrink is exactly the open question. A hint at 3.9 sigma from combined data is not a discovery, but it is the kind of hint that only a few years ago the field could not produce at all.
+
+For a decade, dark energy has been a constant because no experiment could resolve enough of its history to tell. DESI's first year cannot yet say otherwise, but it has for the first time put the constant under a resolution where drift is visible if it is there. The next data release is the test, and the cosmological constant now has something to answer to.

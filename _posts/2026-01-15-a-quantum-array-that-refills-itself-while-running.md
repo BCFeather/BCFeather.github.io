@@ -1,0 +1,19 @@
+---
+title: "A Quantum Array That Refills Itself While Running"
+date: 2026-01-15 09:23:00 +0800
+tags: [quantum, neutral-atoms, physics]
+categories: [science]
+description: "Harvard's Lukin group demonstrated continuous operation of a 3,000-qubit neutral-atom system on 25 June 2025, reloading atoms at 300,000 per second without disturbing stored quantum states. The architecture breaks the pulsed mode that has limited atom arrays and points toward fault-tolerant quantum computing."
+---
+
+Neutral atom arrays have grown to thousands of qubits on paper, but they have always run in fits and starts. Atoms fall out of optical tweezers at random intervals, and once an atom is lost the array must pause, reload from a cold reservoir, rearrange the remaining qubits, and resume. That pulsed mode caps how long a quantum computation can run, because every cycle of loss and reload introduces gaps and coherence overhead. The paper posted to arXiv on 25 June 2025 by a team at Harvard, led by Markus Greiner, Vladan Vuletic and Mikhail Lukin, removes the pause entirely. The array runs continuously, reloading fresh qubits while the stored ones hold their quantum states.
+
+The architecture is built around two optical lattice conveyor belts that feed atom reservoirs into the science region. Atoms are drawn from the reservoir into optical tweezers at a rate of roughly 300,000 per second, generating over 30,000 initialized qubits every second. The team maintains an array of more than 3,000 atoms for more than two hours, continuously replacing lost qubits with fresh ones in either a spin-polarized state or a coherent superposition. The critical engineering achievement is that the refilling process does not disturb the coherence of the qubits already sitting in the array. New atoms are loaded at a distance, shuttled in, and merged into the arrangement without exposing the existing qubits to the light fields used for loading.
+
+Why does continuous operation matter? For quantum simulation, it extends the time over which a many-body state can evolve, which is the quantity that determines whether interesting dynamics can be observed. For quantum computing, it is the precondition for fault tolerance. A quantum error correction cycle replaces lost or errored qubits faster than they accumulate, and that requires a steady supply of fresh, initialized atoms available on demand. A pulsed system that stops every few minutes to reload cannot run the deep circuits that error correction demands. A continuously refilled array can.
+
+The demonstration is on neutral atoms trapped in optical tweezers, the modality that has scaled to the largest qubit counts so far because atoms can be arranged in arbitrary two-dimensional and three-dimensional geometries. The Harvard team's earlier work showed defect-free rearrangement of arrays at the hundreds-of-atoms scale. The new result pushes both the scale and the operational mode: over 3,000 atoms held for hours, with mid-circuit replacement that preserves entanglement. The paper is explicit that the system is not yet a fault-tolerant quantum computer, but it removes one of the structural objections to the neutral-atom route.
+
+The remaining gaps are familiar. Gate fidelities in neutral atom systems, while improving, still trail those of superconducting and trapped-ion qubits, and the readout and reset overhead of continuous operation has to be measured against the error budget of a real algorithm. The team also notes that the qubit preparation time can be shortened with optimized readout and artificial-intelligence-driven rearrangement, which is the next wave.
+
+What the paper delivers is an existence proof. A large coherent quantum array can run like a machine, not like a physics experiment. That shift from pulsed to continuous is the kind of infrastructure breakthrough that does not make headlines on its own but enables everything that comes after.
