@@ -1,0 +1,19 @@
+---
+title: "Two launches open China's space year"
+date: 2026-01-14 09:20:00 +0800
+tags: [space, rockets, china]
+categories: [news]
+description: "On the evening of 13 January, two Chinese rockets lifted off within about an hour of each other, one from Taiyuan carrying the Yaogan-50-01 remote-sensing satellite on the Long March 6A, the other from Hainan carrying the 18th group of low-orbit internet satellites on the Long March 8A. The new space year had opened with a double beat."
+---
+
+The Chinese space programme opened its 2026 calendar with an unusually busy hour. On the evening of 13 January, two rockets lifted off from two launch sites nearly a thousand kilometres apart within about an hour of each other. From Taiyuan, a Long March 6A carried the Yaogan-50-01 satellite, the programme's first remote-sensing launch of the year, intended for land surveys, crop estimation and disaster monitoring. From the commercial spaceport in Hainan, a Long March 8A carried the eighteenth group of satellites for the country's low-orbit internet constellation. One night, two sites, two quite different kinds of launch, and a statement about how the programme intends to pace itself in 2026.
+
+The Taiyuan launch was, by the numbers, a routine remote-sensing mission. Yaogan satellites are the workhorses of Chinese Earth observation, a long series of spacecraft that feed imagery into land management, agriculture and emergency response. The 6A rocket, with its strap-on boosters, has become a standard vehicle for such payloads. Its significance was mostly calendrical: it was the first launch of the year, and it went clean, giving the manifest a smooth start.
+
+The Hainan launch was the more telling one. The Long March 8A is one of the rockets built with commercial launch in mind, and the Hainan commercial spaceport exists specifically to make high-cadence launches possible. Carrying a group of low-orbit internet satellites, it is part of the build-out of a broadband constellation designed to provide connectivity from space, a programme that requires exactly the kind of frequent, reliable launches that a dedicated commercial pad is meant to provide. A single group of satellites is unremarkable; the architecture around it, pad, rocket and cadence, is the story.
+
+Two launches in one evening from different sites are also a practical demonstration of something logistics-heavy space programmes learn slowly: the capacity to launch from multiple places on short notice. Weather, payload requirements and orbital inclinations all favour having options, and the Chinese programme has spent years building launch infrastructure in the interior, on the coast and on Hainan island, with the commercial spaceport added in the last few years. Running two campaigns at once, at sites a thousand kilometres apart, is the kind of operational flexibility that a programme aiming at high launch rates has to show rather than just claim.
+
+The new year's opening double beat does not guarantee the pace for the next eleven months, but it sets expectations. A manifest that begins with a remote-sensing mission and an internet-constellation group, from two sites in one hour, is a manifest being executed at a tempo that was unthinkable a decade ago. The launches themselves were routine in the best sense: they worked, they were over quickly, and they left the calendar open for the missions still to come.
+
+For the observer, the evening offered a compact illustration of how Chinese spaceflight has diversified. The remote-sensing series speaks for the civilian and institutional users of Earth observation; the internet constellation speaks for the commercial ambitions that now share the same rockets; and the two pads, one inland and one on the coast, speak for the logistics that make both kinds of mission possible at once. The hour contained the whole shape of the year ahead.
