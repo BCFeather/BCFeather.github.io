@@ -1,12 +1,12 @@
 ---
-title: "Lego-like crystals add light control to silicon chips"
+title: "LEGO-like crystals add light control to silicon chips"
 date: 2026-10-23 09:52:00 +0800
 tags: [photonics, materials, chips]
 categories: [science]
 description: "A WashU team writing in *Nature* in October transfers ultrathin single-crystal membranes of barium titanate, cobalt ferrite and compound semiconductors onto pre-made silicon photonic circuits, adding modulation, isolation and light detection that silicon alone cannot do. A modular approach to photonic chips."
 ---
 
-Photonic chips are held back less by the idea than by the materials. Silicon photonics is a mature, well-funded platform, and it is excellent at guiding light. But silicon cannot do everything a light-based chip needs: it modulates light only weakly, it cannot easily make a non-reciprocal isolator, and it does not detect light well at the wavelengths that matter. For years the answer has been to grow better materials directly on silicon, an integration problem that fights the chemistry of the two substrates. A paper in *Nature* in October, by Yuan Meng, Wenbo Mao and colleagues at Washington University in St. Louis, led by Sang-Hoon Bae and Lan Yang, proposes the opposite: grow the crystals separately, then transfer them on like Lego bricks.
+Photonic chips are held back less by the idea than by the materials. Silicon photonics is a mature, well-funded platform, and it is excellent at guiding light. But silicon cannot do everything a light-based chip needs: it modulates light only weakly, it cannot easily make a non-reciprocal isolator, and it does not detect light well at the wavelengths that matter. For years the answer has been to grow better materials directly on silicon, an integration problem that fights the chemistry of the two substrates. A paper in *Nature* in October, by Yuan Meng, Wenbo Mao and colleagues at Washington University in St. Louis, led by Sang-Hoon Bae and Lan Yang, proposes the opposite: grow the crystals separately, then transfer them on like LEGO bricks.
 
 The framework is heterogeneous integration of single-crystalline nanomembranes. The team frees ultrathin, freestanding films of the crystals they want and places them onto prefabricated silicon and silicon-nitride photonic circuits, wherever a specific function is needed. Because the crystals are grown on their own ideal substrates first, they avoid the defects that come from forcing them to grow on silicon. Because they are then placed where they are wanted, the designer is free to pick a material for each job rather than compromise on one.
 
@@ -16,4 +16,4 @@ The significance is modularity. Photonic integrated circuits are being chased ha
 
 The honest limits are the usual integration challenges. Transfer printing ultrathin crystals onto patterned wafers at scale is not the same as doing it in a research lab, and the interfaces between membrane and waveguide still have to be made low-loss and reliable. This is a demonstration of a materials framework and a set of devices, not a manufacturing line. But the principle is what matters: by separating growth from integration, the team has decoupled the choice of material from the constraint of the substrate.
 
-For a field that has spent a decade trying to make silicon do jobs it was never good at, the Lego metaphor is liberating. The chip becomes a platform on which the right crystal can be dropped for each function, whether that function is modulating, isolating or detecting light. If the transfer process scales, the photonic chip of the future will not be made of silicon alone. It will be a stack of carefully chosen crystals, each one doing what it does best.
+For a field that has spent a decade trying to make silicon do jobs it was never good at, the LEGO metaphor is liberating. The chip becomes a platform on which the right crystal can be dropped for each function, whether that function is modulating, isolating or detecting light. If the transfer process scales, the photonic chip of the future will not be made of silicon alone. It will be a stack of carefully chosen crystals, each one doing what it does best.
