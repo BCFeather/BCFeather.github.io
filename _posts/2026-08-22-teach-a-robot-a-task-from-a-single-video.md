@@ -1,0 +1,21 @@
+---
+title: "Teach a robot a task from a single video"
+date: 2026-08-22 15:21:00 +0800
+tags: [robotics, imitation-learning, manipulation]
+categories: [technology]
+description: "A framework called HOST lets a robot pick up a new manipulation skill in about half a minute from a single video of a human doing the task, while keeping the skills it already knows. The result rethinks how much demonstration data a robot actually needs."
+---
+
+Teaching a robot a new skill has, until now, been a data-hungry business. A human teleoperates the arm dozens of times, a policy is trained on the resulting clips, and the cost adds up quickly. Worse, adding a new skill often erodes the old ones, because retraining muddies what the robot had already learned. A paper posted to *arXiv* on 22 July 2026, by Guangyan Chen, Meiling Wang, Te Cui and colleagues, attacks both problems at once with a system named HOST, for human-to-robot one-shot skill acquisition. A robot watches a single video of a human performing a task and, in an average of 29 seconds, acquires the skill while keeping everything it knew before.
+
+The hard part is that the human in the video has two hands, a different body and a camera mounted where the robot has none. Copying the motions directly is useless. HOST resolves the gap through a cascade of self-grounded prediction. First it estimates how far the robot has progressed inside the demonstrated task. Then it translates the next expected step in the human's progress into the robot's own future observations, as a sequence of frames the arm expects to see. Finally it derives actions from those predicted observations. The robot is not imitating the video; it is using the video as a schedule of progress and filling in the rest.
+
+Training targets are built by mapping the robot's own trajectories and the human video onto a shared manifold of task progress, so that each moment in the demonstration is paired with the moment in the robot's reach that it corresponds to. Because the robot is following a progress schedule rather than a fixed motion, it can adapt the procedure to its own embodiment, a gripper layout different from human fingers included. The method runs at inference time: once the model is trained, a new skill costs no further robot demonstrations.
+
+The numbers are the headline. Across a spread of manipulation tasks, HOST acquires each new skill in an average of 29 seconds and reaches a 62 per cent average success rate. That beats a zero-shot baseline by 45 percentage points. More strikingly, it exceeds a baseline that was fine-tuned on fifty robot demonstrations per task, while requiring fifty times fewer demonstrations and acquiring each skill 507 times faster. And crucially, after learning the new task the robot still performs the skills it had already mastered, with no forgetting.
+
+That last point deserves emphasis. Catastrophic forgetting is the quiet tax of continual robot learning. The usual fix is interleaved replay, where old tasks are retangled with new ones, which multiplies data yet again. HOST avoids the retraining loop altogether, because the new skill is bolted on at inference rather than folded into the weights. The policy does not change between tasks, which is why the old skills survive.
+
+The honest caveats are familiar. A 62 per cent success rate is a long way from a factory floor, and the tasks are still tabletop pick-and-place style manipulations rather than the unstructured mess of a kitchen. The approach leans on a pretrained visual backbone and on the progress-manifold machinery, so it is not a return to learning from scratch. And the human video has to show a task the robot's sensors and grippers can plausibly address; a graceful dance move stays out of reach.
+
+Still, the direction is clear. Robotics has been stuck in a trade between expensive demonstration data and slow real-world trial. HOST suggests a third route: treat a human demonstration as a progress chart, let the robot imagine its way through, and do it in seconds rather than after a morning of teleoperation. If the numbers hold up on messier tasks, the bottleneck for giving a robot a new skill may stop being data and start being whether anyone has filmed it.

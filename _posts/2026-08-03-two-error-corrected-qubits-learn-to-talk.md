@@ -1,0 +1,21 @@
+---
+title: "Two error-corrected qubits learn to talk"
+date: 2026-08-03 10:25:00 +0800
+tags: [quantum-computing, error-correction, superconductors]
+categories: [science]
+description: "A superconducting-qubit team has made a pair of distance-three surface-code logical qubits talk to each other, preparing a logical Bell state and running Deutsch-Jozsa inside the error-corrected box. Lattice surgery, not bigger chips, is becoming the practical route to logical computation."
+---
+
+Fault-tolerant quantum computing has spent years trying to clear a single hurdle: making one logical qubit reliable enough that, when the code is enlarged, its error rate falls rather than climbs. A string of experiments, from Google's surface-code results to the cat-code memory work out of Pasadena, has shown that below the error-correction threshold the numbers can move the right way. Yet a logical qubit sitting alone in a fridge is a curiosity. Computing requires two of them to interact, and entangling two error-protected qubits without losing the protection along the way is a separate, harder problem. A paper posted to *arXiv* on 4 June 2026, from a team of superconducting-qubit experimentalists including Yanzhe Wang, Fanhao Shen, Pengfei Zhang, H. Wang and Ying Li, takes on exactly that step.
+
+The processor holds a pair of distance-three rotated surface-code logical qubits on a planar superconducting chip. Each logical qubit is stitched from many noisy physical qubits, and repeated syndrome extraction measures where errors have landed without disturbing the quantum state. After the team rejected leakage events, the two logical qubits ran at per-cycle error rates of 0.0365 and 0.0282, low enough that the code is behaving as it should. The point of the paper, though, is not the qubits themselves but what they do together.
+
+The mechanism is lattice surgery. Rather than build a fragile long-range entangling gate between two distant codes, the teams merge the codes physically for a short window and then split them apart. Joint initialization followed by lattice splitting deterministically prepares a logical Bell state, and the error-corrected fidelity of that state crosses the threshold for genuine two-way entanglement. That is the first milestone: two protected qubits, entangled inside protection.
+
+From there the work escalates. The team runs a two-qubit Deutsch-Jozsa algorithm at the logical level, demonstrating that a small computation can survive inside the corrected box. For universal computation they need more than Clifford gates, so they implement magic-state injection and gate teleportation to drive non-Clifford rotations about the logical X axis. The logical Rx of pi over four gate reaches a fidelity of 0.943, conditioned on the absence of detected errors. It is not a high-enough number to ship, but it is the right kind of number to build on.
+
+The significance is a shift in how the field plans to scale. The tempting route is to pack more physical qubits onto a wafer and hope everything holds at once. This experiment argues instead that the near-term path is architectural: keep codes modest in distance, and spend the engineering budget on making logical operations composable. Lattice surgery turns entanglement into a local, temporary merge rather than a global gate, which is why it can be demonstrated on a planar chip with no fancy wiring.
+
+The honest limits are visible in the numbers. Distance three is the smallest nontrivial code, the per-cycle error is still around three per cent, and the non-Clifford gate is the weakest link, at 0.943. Scaling to distance five and seven will require physical gate errors lower than what today's chips routinely deliver, and the magic-state distillation that universal computation needs will multiply overhead. None of that is surprising; it is the expected shape of the road from a demonstration to a machine.
+
+What the paper establishes is that the building blocks of a fault-tolerant computer now include two-qubit logical operations, not just one. Logical entanglement, a logical algorithm and a logical non-Clifford gate are all on the table, running on the same corrected pair. The era of the single logical qubit, as a showcase, is over. The era of stitching many of them together has quietly begun.
