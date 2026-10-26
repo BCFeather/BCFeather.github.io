@@ -1,0 +1,19 @@
+---
+title: "Chang'e-6 heads for the far side of the Moon"
+date: 2024-05-04 14:27:00 +0800
+tags: [china, space, moon, science]
+categories: [news]
+description: "On 3 May, China launched its Chang'e-6 probe on a Long March 5 rocket from Wenchang, opening the world's first sample-return mission to the far side of the Moon, with a target landing zone in the South Pole-Aitken Basin."
+---
+
+On 3 May, at 17:27 Beijing time, a Long March 5 rocket lifted off from the Wenchang spaceport on Hainan's coast carrying Chang'e-6, and China quietly began the most complicated lunar mission anyone has yet attempted. The probe is heading for the far side of the Moon, the hemisphere that never faces the Earth, to collect samples and bring them home. No country has ever done this before, and the mission's quiet ambition is easy to underestimate.
+
+The landing target is the South Pole-Aitken Basin, the oldest and largest impact crater on the Moon, a basin roughly 2,500 kilometres across whose floor contains material that may predate the basin itself. The far side is scientifically the more interesting side: its crust is thicker, its history different, and the samples Chang'e-6 returns could constrain when the great basin-forming impacts happened. But the far side is also, by definition, radio-silent towards the Earth, so the mission depends on Queqiao-2, a relay satellite placed in lunar orbit earlier this year, to pass every command and every telemetry stream across the gap.
+
+The engineering is a study in careful repetition and careful subtraction. Chang'e-6 closely follows the architecture of Chang'e-5, which brought back 1.7 kilograms of near-side samples in 2020, but the new probe adds a small ascent vehicle designed to launch itself from the far side's rougher terrain, and it carries a heavier scientific payload. Four international instruments ride along: a French radon detector, a European negative-ion analyser, an Italian laser retroreflector and a Pakistani cubesat, a reminder that lunar exploration is becoming a crowded field where even sample-return missions double as diplomatic gestures.
+
+The risks are real. Every step after launch has to work: the braking burn into lunar orbit, the descent onto a surface no lander has ever touched, the drilling and the scooping, the ascent from the far side, the rendezvous with the return craft, and the re-entry through the atmosphere with a capsule that must survive temperatures in the thousands of degrees. A failure at any point ends the mission, and the whole sequence takes about fifty-three days. There is no margin for a second attempt on the far side in the near term, because the timing of the whole operation is tied to the lunar lighting and to the relay satellite's orbit.
+
+It is worth noting, without excessive flag-waving, what this mission says about the state of spaceflight. A decade ago, a far-side sample return was the kind of thing national space agencies listed as a future aspiration; now it is a routine launch from a commercial-grade pad, with the probe's name announced alongside a schedule. China's lunar programme has moved from proof of concept to a steady rhythm of flights, and the far side, once a blank on every map, is becoming a place where countries queue for a landing slot. That is the larger meaning of a rocket that few people outside China watched live: the Moon is returning to the centre of the world's ambitions, and the side of it that faces away from us is no longer out of reach.
+
+The samples, if they come home, will tell us something about the early solar system that no amount of telescoping can. Until then, the mission is a long wait of about seven weeks, watched by the engineers at the ground stations and, in a smaller way, by anyone who finds the Moon's hidden hemisphere worth the journey.

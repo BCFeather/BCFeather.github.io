@@ -1,0 +1,19 @@
+---
+title: "Moscow and Beijing put their partnership on paper"
+date: 2024-05-17 16:38:00 +0800
+tags: [russia, china, diplomacy, geopolitics]
+categories: [news]
+description: "From 16 to 17 May, Vladimir Putin made a state visit to Beijing, where he and Xi Jinping signed a joint statement marking 75 years of diplomatic relations, before the Russian president travelled on to Harbin for the China-Russia Expo."
+---
+
+Vladimir Putin arrived in Beijing on 16 May for a two-day state visit, and by the time he left, the two countries had done what they do best: signed a document. The joint statement, issued on the seventy-fifth anniversary of diplomatic relations between China and Russia, restates the 'comprehensive strategic partnership of coordination for a new era' and reads, to a sceptical eye, like a standing agreement to agree. The interesting parts are not in what the two leaders said in front of cameras, but in the length of the guest list and the tone of the language.
+
+The visit itself was choreographed with care. Xi Jinping and Putin met at the Great Hall of the People, watched the opening of the China-Russia Years of Culture, and witnessed the signing of cooperation documents spanning trade, natural protection, inspection and quarantine, and media. Putin then flew to Harbin, in the northeast, to open the eighth China-Russia Expo, a journey that carried a deliberate message about the depth of the relationship beyond the capital. For a president under Western sanctions, the itinerary reads as a full schedule of normalcy: parades, ceremonies, concerts, handshakes with regional governors.
+
+The joint statement deserves a closer read than it usually gets. On Ukraine, it repeats the familiar formulations about resolving disputes through dialogue and political settlement, and about rejecting bloc confrontation; on the UN and on security, it criticises unilateral sanctions and 'illegal' measures, a phrase aimed squarely at the West. What is absent is often more telling: no public endorsement of Russia's war aims, no language that would force Beijing to choose a side it has spent two years carefully not choosing. The partnership is real, but it is a partnership of parallel interests rather than of merged ones, and both capitals seem comfortable keeping it that way.
+
+It is worth remembering that this visit came at a particular moment. Western officials had spent the spring warning that Chinese support was cushioning the Russian economy against sanctions, and the United States had just announced new tariffs and export restrictions in the weeks before. Putin's trip to Beijing, in that context, was also a message to Washington: that the diplomatic and economic space between Moscow and Beijing remains open, whatever the West does. Whether that makes the relationship stronger or merely more visible is harder to say.
+
+For observers in China, the visit is also a study in how the country manages competing pressures. Beijing wants the economic benefits of Russian energy and the geopolitical weight of standing with Moscow against the Western order it dislikes, while being careful not to hand the West a pretext for treating China as a co-belligerent. The balancing act is visible in every paragraph of the statement, which is precisely why the statement is so long: every sentence is a calibrated position, negotiated in advance.
+
+The partnership, in other words, is less a marriage than a shared apartment, comfortable, pragmatic, and carefully furnished with documents. The seventy-fifth anniversary provides the occasion, the expo provides the business, and the statement provides the reassurance each side needs to tell its own audience that the other side remains reliable. Whether the arrangement survives the next shock to the international system is a question for the future, but for now, the two countries have once again written down what they want the world to believe about them.
