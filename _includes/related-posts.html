@@ -1,0 +1,112 @@
+<!-- Recommend 8 posts according to the tags and categories of the current post,
+     shown as a horizontally scrollable row of cards. Overrides the theme default. -->
+<!-- The total size of related posts -->
+{% assign TOTAL_SIZE = 8 %}
+<!-- An random integer that bigger than 0 -->
+{% assign TAG_SCORE = 1 %}
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy} -->
+{% assign CATEGORY_SCORE = 0.5 %}
+{% assign SEPARATOR = ':' %}
+{% assign match_posts = '' | split: '' %}
+{% for category in page.categories %}
+  {% assign match_posts = match_posts | push: site.categories[category] | uniq %}
+{% endfor %}
+{% for tag in page.tags %}
+  {% assign match_posts = match_posts | push: site.tags[tag] | uniq %}
+{% endfor %}
+{% assign match_posts = match_posts | reverse %}
+{% assign last_index = match_posts.size | minus: 1 %}
+{% assign score_list = '' | split: '' %}
+{% for i in (0..last_index) %}
+  {% assign post = match_posts[i] %}
+  {% if post.url == page.url %}
+    {% continue %}
+  {% endif %}
+  {% assign score = 0 %}
+  {% for tag in post.tags %}
+    {% if page.tags contains tag %}
+      {% assign score = score | plus: TAG_SCORE %}
+    {% endif %}
+  {% endfor %}
+  {% for category in post.categories %}
+    {% if page.categories contains category %}
+      {% assign score = score | plus: CATEGORY_SCORE %}
+    {% endif %}
+  {% endfor %}
+  {% if score > 0 %}
+    {% capture score_item %}{{ score }}{{ SEPARATOR }}{{ i }}{% endcapture %}
+    {% assign score_list = score_list | push: score_item %}
+  {% endif %}
+{% endfor %}
+{% assign index_list = '' | split: '' %}
+{% if score_list.size > 0 %}
+  {% assign score_list = score_list | sort | reverse %}
+  {% for entry in score_list limit: TOTAL_SIZE %}
+    {% assign index = entry | split: SEPARATOR | last %}
+    {% assign index_list = index_list | push: index %}
+  {% endfor %}
+{% endif %}
+{% assign relate_posts = '' | split: '' %}
+{% for index in index_list %}
+  {% assign i = index | to_integer %}
+  {% assign relate_posts = relate_posts | push: match_posts[i] %}
+{% endfor %}
+<!-- Fill up to TOTAL_SIZE with the most recent posts when there are not enough matches. -->
+{% if relate_posts.size < TOTAL_SIZE %}
+  {% for post in site.posts %}
+    {% if relate_posts.size >= TOTAL_SIZE %}
+      {% break %}
+    {% endif %}
+    {% if post.url == page.url %}
+      {% continue %}
+    {% endif %}
+    {% unless relate_posts contains post %}
+      {% assign relate_posts = relate_posts | push: post %}
+    {% endunless %}
+  {% endfor %}
+{% endif %}
+{% if relate_posts.size > 0 %}
+  <aside id="related-posts" aria-labelledby="related-label">
+    <h3 class="mb-4" id="related-label">
+      {{- site.data.locales[include.lang].post.relate_posts -}}
+    </h3>
+    <nav
+      class="related-scroll d-flex flex-nowrap gap-3 overflow-x-auto mb-4 pb-2"
+      aria-label="Related Posts"
+    >
+      {% for post in relate_posts %}
+        <article class="related-card">
+          <a href="{{ post.url | relative_url }}" class="post-preview card h-100">
+            <div class="card-body">
+              {% include datetime.html date=post.date lang=include.lang %}
+              <h4 class="pt-0 my-2">{{ post.title }}</h4>
+              <div class="text-muted">
+                <p>{% include post-summary.html %}</p>
+              </div>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </nav>
+  </aside>
+  <style>
+    .related-scroll {
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    .related-scroll::-webkit-scrollbar {
+      display: none;
+    }
+    .related-scroll .related-card {
+      flex: 0 0 300px;
+      scroll-snap-align: start;
+    }
+    @media (max-width: 576px) {
+      .related-scroll .related-card {
+        flex-basis: 84%;
+      }
+    }
+  </style>
+  <!-- #related-posts -->
+{% endif %}
