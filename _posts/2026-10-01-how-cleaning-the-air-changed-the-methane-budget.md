@@ -3,10 +3,10 @@ title: "How cleaning the air changed the methane budget"
 date: 2026-10-01 12:31:00 +0800
 tags: [climate, methane, atmosphere]
 categories: [science]
-description: "A Nature paper from May 2025 shows that air pollution has been quietly modulating the global methane sink for two decades, partly buffering the gas's rise. Why cleaning up soot and carbon monoxide turns out to have complicated climate side effects."
+description: "A *Nature* paper from May 2025 shows that air pollution has been quietly modulating the global methane sink for two decades, partly buffering the gas's rise. Why cleaning up soot and carbon monoxide turns out to have complicated climate side effects."
 ---
 
-Methane is the greenhouse gas everyone is suddenly serious about. It warms the atmosphere far faster than carbon dioxide over a twenty-year horizon, and its concentration has climbed irregularly for two decades without a fully agreed explanation. Emissions get most of the attention, but a paper published in Nature on 28 May 2025 argues that the other side of the ledger, the sink that removes methane from the air, has been moving too, and that the movement is driven by air pollution.
+Methane is the greenhouse gas everyone is suddenly serious about. It warms the atmosphere far faster than carbon dioxide over a twenty-year horizon, and its concentration has climbed irregularly for two decades without a fully agreed explanation. Emissions get most of the attention, but a paper published in *Nature* on 28 May 2025 argues that the other side of the ledger, the sink that removes methane from the air, has been moving too, and that the movement is driven by air pollution.
 
 The lead author is Bo Zheng of Tsinghua Shenzhen International Graduate School, working with a French and German international team. Their analysis covers 2005 to 2021, a period when China and others aggressively cut sulfur dioxide, carbon monoxide and particulate pollution. The standard expectation was that cleaner air would help. What the modelling shows is that cleaner air also changed the chemistry that scrubs methane out of the atmosphere.
 
