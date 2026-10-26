@@ -1,0 +1,17 @@
+---
+title: "National day, and the week that follows"
+date: 2025-10-01 20:40:00 +0800
+tags: [october, national-day, reflection]
+categories: [essay]
+description: "On 1 October the country marks the anniversary of its founding, the National Day that opens the year's longest holiday, and the day carries a double character: a formal anniversary of the state, and the informal beginning of a week of family, travel and rest. A short essay on the two holidays in one, and what the week reveals about the country."
+---
+
+On 1 October the country marks the anniversary of its founding, and the day is, in effect, two holidays in one. The first is formal: the National Day of the People's Republic, the anniversary of the proclamation that created the state in 1949, observed with the flags, the ceremonies, the anniversary statements and the quiet sense, in every generation, of belonging to a history that is still being written. The second is informal and more intimate: the first day of the year's longest holiday, the opening of the week in which the country pauses, travels, gathers and rests. The two characters sit in the same date, and together they make the day what it is.
+
+The formal half of the day is an exercise in national memory. Seventy-six years is a short span by the measure of civilisations and a long one by the measure of living memory, and the anniversary is read differently by different generations: as living history by the oldest, as the founding fact of the world they were born into by the middle, as a date in the calendar by the youngest. The ceremonies of the day hold those readings together, and the flags on the buildings give the anniversary a visible presence in the ordinary street.
+
+The informal half of the day is the one that occupies the country's attention. The National Day opens the Golden Week, and the first of October is when the great movement begins: the trains fill, the highways load, the families set out for home or for the places they have chosen to see. The holiday's logistics, the millions of tickets and the packed platforms, are themselves a form of national celebration, a demonstration, undertaken without anyone announcing it, of the country's scale and its capacity to move itself.
+
+The two halves are not as separate as they seem. The anniversary is the reason the week exists; the week is the reason the anniversary is felt. A state that can give its citizens a week of rest and movement, on the day that marks its own beginning, has made the formal and the informal reinforce each other, and the country's sense of its own history is refreshed, every year, in the queues and the family dinners as much as in the ceremonies.
+
+The day ends, as it always does, with the flags still flying and the week just begun. The anniversary has been observed, and the holiday is opening, and the country, for a week, will be in motion, visiting its own history in the literal sense, seeing its own land. The coincidence of the two halves is not an accident of the calendar but its design: the founders who chose the date for the proclamation also, whether they intended it or not, gave the people a week, and the week has become, over the decades, as much a part of the day's meaning as the anniversary itself. On the first of October, the state and the family share the date, the formal and the informal, the flag and the packed train, and the double holiday is, year after year, the country's most characteristic day.

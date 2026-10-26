@@ -1,0 +1,17 @@
+---
+title: "Autumn equinox, and the year's balance"
+date: 2025-09-23 20:40:00 +0800
+tags: [seasons, solar-terms, autumn]
+categories: [essay]
+description: "On 23 September the sun crosses the celestial equator, day and night are briefly equal, and the autumn equinox arrives, the old calendar's station of balance between the year's growth and its decline. A short essay on the day the year levels out, the harvest it crowns, and what the equinox asks of the people who notice it."
+---
+
+On 23 September the sun crosses the celestial equator on its way south, and for one day the day and the night are, in the phrase that belongs to this day alone, equal. The autumn equinox is the year's point of balance, the moment between the long days of summer and the long nights of winter, and the old calendar gave it the weight that balance deserves: the station where the year's growth, the harvests and the warmth, meets the year's decline, and the two are briefly level. The equinox is the oldest and most universal of the year's markers, observed by cultures on every continent, because it requires no instruments to notice, only a sky and a little attention.
+
+The astronomy of the day is a matter of geometry. The Earth's axis, tilted through the year's journey, stands sideways to the sun at the equinox, and the sun is directly over the equator, so that the globe's day and night are equal everywhere at once. The word itself says it: equinox, equal night. The event passes quickly, a moment rather than a day, but the calendar expands it into a station, and the station has held its place in the human year since the first agricultural civilisations.
+
+In the Chinese calendar the equinox divides the autumn, and its character is measured: the sixteenth term, the midpoint of the season, the point after which the nights gain decisively on the days. The practices of the term are harvest practices in the broadest sense, the gathering of what the year has made, the balance of the account before the winter closes the books. The season's festivals cluster around it, and the term's mood is one of completion, the year's work drawn to a close and counted.
+
+The equinox also invites a particular kind of reflection, which is why it has always attracted essayists. A day of balance in a season of decline is an image the year offers freely: the equilibrium that is achieved precisely at the turning, the brief equality that precedes the long imbalance of winter. The old texts mined the image for its lessons, and the lessons have not gone stale, because the pattern they describe, the balance at the hinge, the equal light and dark before the descent, is one the year performs reliably and that the human year, in its smaller ways, performs too. The day belongs, in this sense, to the tradition of the year's thresholds: like the solstices and the equinoxes that surround it, it is a moment the calendar has always agreed to treat as significant, a hinge that the seasons themselves observe.
+
+The day will pass, the balance will tilt, and the nights will begin their long winning streak, as they do every year. But the equinox has done its work: it has marked the point of balance, given the year a moment of equilibrium, and reminded anyone who noticed that the decline it begins is the decline the harvest prepared for. On an evening when the daylight and the dark are even, the year turns its corner, and the balance, for a day, is perfect, which is, the season teaches, all that balance ever is.
