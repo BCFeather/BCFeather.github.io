@@ -1,5 +1,5 @@
 ---
-title: "Transcribing Speech on an Analogue Chip"
+title: "Transcribing speech on an analogue chip"
 date: 2024-04-30 16:51:00 +0800
 tags: [chip, hardware, analog]
 categories: [technology]

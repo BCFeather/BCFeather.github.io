@@ -1,5 +1,5 @@
 ---
-title: "Donanemab Slows Dementia: A Modest But Real Gain"
+title: "Donanemab slows dementia: a modest but real gain"
 date: 2025-02-27 17:09:00 +0800
 tags: [medicine, alzheimers, clinical-trial]
 categories: [science]

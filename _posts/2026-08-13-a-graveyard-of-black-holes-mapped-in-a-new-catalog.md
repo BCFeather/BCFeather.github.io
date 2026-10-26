@@ -1,5 +1,5 @@
 ---
-title: "A Graveyard of Black Holes, Mapped in a New Catalog"
+title: "A graveyard of black holes, mapped in a new catalog"
 date: 2026-08-13 20:47:00 +0800
 tags: [physics, gravitational-waves, astronomy]
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-title: "A Ductile Interface Keeps Solid Batteries From Cracking"
+title: "A ductile interface keeps solid batteries from cracking"
 date: 2025-12-11 13:15:00 +0800
 tags: [materials, batteries, energy]
 categories: [science]

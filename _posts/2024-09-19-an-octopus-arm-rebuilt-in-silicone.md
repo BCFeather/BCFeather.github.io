@@ -1,5 +1,5 @@
 ---
-title: "An Octopus Arm, Rebuilt in Silicone"
+title: "An octopus arm, rebuilt in silicone"
 date: 2024-09-19 18:05:00 +0800
 tags: [robotics, soft-robotics, biomimicry]
 categories: [technology]

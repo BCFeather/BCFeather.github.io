@@ -1,5 +1,5 @@
 ---
-title: "A Quantum Array That Refills Itself While Running"
+title: "A quantum array that refills itself while running"
 date: 2026-01-15 09:23:00 +0800
 tags: [quantum, neutral-atoms, physics]
 categories: [science]

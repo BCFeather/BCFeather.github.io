@@ -1,5 +1,5 @@
 ---
-title: "DESI's First Map Leaves the Cosmological Constant in Question"
+title: "DESI's first map leaves the cosmological constant in question"
 date: 2024-07-11 13:47:00 +0800
 tags: [physics, astronomy, cosmology]
 categories: [science]

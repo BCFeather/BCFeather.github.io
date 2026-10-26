@@ -1,5 +1,5 @@
 ---
-title: "When Logical Qubits Beat the Physical Error Floor"
+title: "When logical qubits beat the physical error floor"
 date: 2025-04-03 08:44:00 +0800
 tags: [quantum, error-correction, trapped-ion]
 categories: [science]

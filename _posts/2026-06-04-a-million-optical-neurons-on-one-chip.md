@@ -1,5 +1,5 @@
 ---
-title: "A Million Optical Neurons on One Chip"
+title: "A million optical neurons on one chip"
 date: 2026-06-04 16:35:00 +0800
 tags: [photonic, computing, chip]
 categories: [technology]

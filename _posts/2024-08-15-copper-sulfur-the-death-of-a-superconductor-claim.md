@@ -1,5 +1,5 @@
 ---
-title: "Copper Sulfur: The Death of a Superconductor Claim"
+title: "Copper sulfur: the death of a superconductor claim"
 date: 2024-08-15 07:32:00 +0800
 tags: [materials, superconductivity, chemistry]
 categories: [science]

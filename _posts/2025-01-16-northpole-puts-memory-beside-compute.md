@@ -1,5 +1,5 @@
 ---
-title: "NorthPole Puts Memory Beside Compute"
+title: "NorthPole puts memory beside compute"
 date: 2025-01-16 09:36:00 +0800
 tags: [hardware, chips, neuromorphic]
 categories: [technology]

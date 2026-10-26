@@ -1,5 +1,5 @@
 ---
-title: "A Record-Hot Ocean, Year After Year"
+title: "A record-hot ocean, year after year"
 date: 2025-05-08 15:28:00 +0800
 tags: [climate, ocean, warming]
 categories: [science]

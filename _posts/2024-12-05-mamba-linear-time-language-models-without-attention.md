@@ -1,5 +1,5 @@
 ---
-title: "Mamba: Linear-Time Language Models Without Attention"
+title: "Mamba: linear-time language models without attention"
 date: 2024-12-05 14:22:00 +0800
 tags: [ai, llm, architecture]
 categories: [technology]

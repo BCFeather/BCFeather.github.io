@@ -1,5 +1,5 @@
 ---
-title: "Ignition on the Record: Peer Review Catches Up with a Historic Shot"
+title: "Ignition on the record: Peer review catches up with a historic shot"
 date: 2024-02-22 15:43:00 +0800
 tags: [physics, fusion, energy]
 categories: [science]

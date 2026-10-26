@@ -1,5 +1,5 @@
 ---
-title: "A Drug Built in Six Months for One Baby"
+title: "A drug built in six months for one baby"
 date: 2026-07-09 11:19:00 +0800
 tags: [biology, gene-editing, medicine]
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-title: "Engineered Bacteria That Degrade Five Pollutants at Once"
+title: "Engineered bacteria that degrade five pollutants at once"
 date: 2025-07-17 19:11:00 +0800
 tags: [biology, synthetic-biology, bioremediation]
 categories: [science]

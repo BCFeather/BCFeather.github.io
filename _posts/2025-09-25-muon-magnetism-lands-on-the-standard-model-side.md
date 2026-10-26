@@ -1,5 +1,5 @@
 ---
-title: "Muon Magnetism Lands on the Standard Model Side"
+title: "Muon magnetism lands on the Standard Model side"
 date: 2025-09-25 16:02:00 +0800
 tags: [physics, particle-physics, muon]
 categories: [science]

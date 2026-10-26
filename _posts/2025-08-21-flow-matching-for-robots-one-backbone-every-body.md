@@ -1,5 +1,5 @@
 ---
-title: "Flow Matching for Robots: One Backbone, Every Body"
+title: "Flow matching for robots: one backbone, every body"
 date: 2025-08-21 06:37:00 +0800
 tags: [robotics, ai, embodied-ai, vlm]
 categories: [technology]

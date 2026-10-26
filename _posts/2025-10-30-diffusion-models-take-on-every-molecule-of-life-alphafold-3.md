@@ -1,5 +1,5 @@
 ---
-title: "Diffusion Models Take on Every Molecule of Life: AlphaFold 3"
+title: "Diffusion models take on every molecule of life: AlphaFold 3"
 date: 2025-10-30 10:49:00 +0800
 tags: [biology, protein, structure, ai]
 categories: [science]

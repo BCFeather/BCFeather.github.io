@@ -1,5 +1,5 @@
 ---
-title: "Oceans Absorb Another Record Year of Heat"
+title: "Oceans absorb another record year of heat"
 date: 2026-02-19 18:56:00 +0800
 tags: [ocean, climate, environment]
 categories: [science]

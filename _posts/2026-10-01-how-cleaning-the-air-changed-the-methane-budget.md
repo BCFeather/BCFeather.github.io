@@ -1,5 +1,5 @@
 ---
-title: "How Cleaning the Air Changed the Methane Budget"
+title: "How cleaning the air changed the methane budget"
 date: 2026-10-01 12:31:00 +0800
 tags: [climate, methane, atmosphere]
 categories: [science]

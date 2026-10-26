@@ -1,5 +1,5 @@
 ---
-title: "A Language Model That Reads and Writes Genomes: Evo 2"
+title: "A language model that reads and writes genomes: Evo 2"
 date: 2026-09-17 08:58:00 +0800
 tags: [biology, synthetic-biology, genomics]
 categories: [science]

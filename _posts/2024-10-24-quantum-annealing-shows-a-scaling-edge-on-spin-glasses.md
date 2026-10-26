@@ -1,5 +1,5 @@
 ---
-title: "Quantum Annealing Shows a Scaling Edge on Spin Glasses"
+title: "Quantum annealing shows a scaling edge on spin glasses"
 date: 2024-10-24 11:58:00 +0800
 tags: [quantum, quantum-computing, algorithms]
 categories: [technology]

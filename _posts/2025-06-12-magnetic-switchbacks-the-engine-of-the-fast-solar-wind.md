@@ -1,5 +1,5 @@
 ---
-title: "Magnetic Switchbacks: The Engine of the Fast Solar Wind"
+title: "Magnetic switchbacks: the engine of the fast solar wind"
 date: 2025-06-12 12:53:00 +0800
 tags: [space, solar, astrophysics]
 categories: [science]

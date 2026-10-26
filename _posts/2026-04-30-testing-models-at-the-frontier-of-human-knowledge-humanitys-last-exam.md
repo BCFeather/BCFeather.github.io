@@ -1,5 +1,5 @@
 ---
-title: "Testing Models at the Frontier of Human Knowledge: Humanity's Last Exam"
+title: "Testing models at the frontier of human knowledge: Humanity's Last Exam"
 date: 2026-04-30 14:08:00 +0800
 tags: [ai, llm, benchmark]
 categories: [technology]

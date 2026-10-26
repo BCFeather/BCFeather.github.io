@@ -1,5 +1,5 @@
 ---
-title: "A Human Pangenome, Drafted from Forty-Seven Genomes"
+title: "A human pangenome, drafted from forty-seven genomes"
 date: 2024-06-06 09:14:00 +0800
 tags: [biology, genomics, dna]
 categories: [science]

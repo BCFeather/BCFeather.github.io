@@ -1,5 +1,5 @@
 ---
-title: "Teaching a Model to Grade Its Own Homework"
+title: "Teaching a model to grade its own homework"
 date: 2024-03-27 10:26:00 +0800
 tags: [ai, llm, alignment]
 categories: [technology]

@@ -1,5 +1,5 @@
 ---
-title: "Preference Learning Without the Reward Model"
+title: "Preference learning without the reward model"
 date: 2024-01-15 08:17:00 +0800
 tags: [ai, llm, machine-learning]
 categories: [technology]

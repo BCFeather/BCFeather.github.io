@@ -1,5 +1,5 @@
 ---
-title: "Teaching a Robot by Correcting It, Not by Reward"
+title: "Teaching a robot by correcting it, not by reward"
 date: 2026-10-22 17:44:00 +0800
 tags: [robotics, machine-learning, manipulation]
 categories: [technology]

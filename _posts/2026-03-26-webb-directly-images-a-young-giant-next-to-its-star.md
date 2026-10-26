@@ -1,5 +1,5 @@
 ---
-title: "Webb Directly Images a Young Giant Next to Its Star"
+title: "Webb directly images a young giant next to its star"
 date: 2026-03-26 07:41:00 +0800
 tags: [astronomy, exoplanets, jwst]
 categories: [science]
