@@ -1,0 +1,17 @@
+---
+title: "A commercial rocket's first flight, a new road to orbit"
+date: 2026-03-31 09:20:00 +0800
+tags: [space, rockets, commercial]
+categories: [news]
+description: "On the evening of 30 March, the Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites and a prototype of the Qingzhou spacecraft into orbit. The launch is a step toward a new mode of space logistics, with a reusable vehicle and a cargo ship designed for future stations."
+---
+
+On the evening of 30 March, a rocket that has never flown before lifted off from a launch site that did not exist a few years ago, and the combination of the two is the real story. The Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites, Xinzheng-01, Xinzheng-02 and Tianshi-01, along with a prototype of the Qingzhou spacecraft, into their intended orbits. For the country's commercial space sector, it was the first flight of a launch vehicle designed around a new ambition: routine, frequent, logistics-style access to orbit, with hardware built to be flown again.
+
+The rocket itself is the first part of the story. Lijian-2 is the successor to Lijian-1, the solid-fuelled workhorse that established its maker as a commercial launch provider, and it is built on a different basis, designed for the payloads and the reusability that the coming generation of missions will need. A first flight is always a test as much as a demonstration, and the success of the mission, with all payloads reaching orbit, clears the vehicle for the flight campaign ahead.
+
+The passenger list is the second part. The three satellites are routine in the best sense, commercial and scientific payloads of the kind that the launch market now carries as standard. The Qingzhou prototype is not routine at all. Qingzhou is a spacecraft concept aimed at space logistics, a vehicle for carrying cargo to and from future space stations, and flying its prototype on the inaugural Lijian-2 mission ties the rocket's first flight to the broader architecture that the designers intend: a reusable launcher and a cargo spacecraft, two halves of a system for moving goods to orbit on a schedule.
+
+The launch site is the third part. The Dongfeng commercial testing zone is part of the country's build-out of dedicated commercial space infrastructure, pads built for cadence rather than for occasional flagship missions, and the choice of that site for a first flight is deliberate: the rocket, the spacecraft and the pad are being tested together, as a system meant to be used often. The ecosystem of commercial space, launchers, spacecraft, pads and the regulatory framework around them, advances one flight at a time, and this flight advances all four.
+
+There will be more tests, and the road from a successful first flight to a regular logistics service is long: reusability must be demonstrated by actually re-flying hardware, the Qingzhou vehicle must prove itself across the full sequence of missions, and the market must materialise at the scale the architecture assumes. None of that is guaranteed, and the commercial sector's history is full of first flights that did not become second ones. But the direction is clear. A rocket built to be reused, a spacecraft built to carry cargo, and a pad built for frequency all lifted off together on a single evening in March, and the road to orbit just gained a lane.

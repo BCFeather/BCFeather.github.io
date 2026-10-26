@@ -1,0 +1,17 @@
+---
+title: "Spring's drowsy month"
+date: 2026-03-07 20:40:00 +0800
+tags: [seasons, sleep, health]
+categories: [essay]
+description: "Every year, when the days lengthen and the temperature edges upward, a familiar lethargy settles over the population, and the jokes about spring drowsiness begin. A short essay on the biology behind the March yawn, and what it reveals about the gap between our schedules and the seasons."
+---
+
+There is a moment in early March when the year's first real warmth arrives, and with it a peculiar, collective sleepiness. The hours of daylight lengthen noticeably, the air softens, and yet people yawn more, drag themselves out of bed later, and stare at screens with a drowsiness that no amount of coffee seems to touch. The condition has a folk name in several languages, spring fatigue or the spring drowsiness, and it is usually treated as a joke, a seasonal quirk to be laughed off. The biology behind it, however, is real, and it is a small but telling illustration of how our bodies are still run by seasons we have largely abolished.
+
+The mechanism is a collision of clocks. Sleep is regulated by a pair of systems: the internal circadian clock, which runs on its own roughly day-long cycle, and the external cues, principally light, that keep that clock aligned with the world. Through the winter, short days and long nights set one rhythm; when spring arrives, the light changes faster than the clock can follow. The body's melatonin production, tuned to darkness, lags behind the new dawn, and the result is a phase where the schedule says morning and the chemistry says otherwise. Add the temperature rise, which the body registers as a signal to relax, and the March yawn has a respectable physiological explanation.
+
+The phenomenon is minor, and this essay will not pretend it is a crisis. The drowsiness passes, most people adapt within weeks, and the remedies, morning light, regular hours, movement, are as familiar as the symptom. But the reason the drowsiness deserves more than a joke is what it says about the modern relationship to the seasons. We have built environments in which the year hardly matters: the lighting is constant, the heating and cooling are constant, the work schedule is constant. The seasons have been pushed to the margins of experience, and spring fatigue is one of the few places where they still push back.
+
+The mismatch runs deeper than light. In a world of constant temperature and artificial day, the body's seasonal cues have been reduced to vestiges, and the vestiges misfire: the body notices the lengthening day and the warming air, but the life it is asked to live, the commute, the meetings, the fixed lunch break, has not changed at all. The drowsiness is the sensation of a body trying to follow the year while a schedule refuses to. It is a small, harmless rebellion, and the fact that we joke about it rather than notice it says something about how thoroughly we have normalised the separation.
+
+The remedies, tellingly, all point in the same direction: get outside, see the actual light, let the body rejoin the season. The March drowsiness is, in this reading, an invitation rather than a complaint, a reminder that the body was built for a world with weather and seasons, and that the world it now inhabits has done its best to remove them. The yawn will pass, as it does every year, but the question it raises, about how much of our daily rhythm is truly ours and how much is the season's, does not. Spring has a way of asking it, gently and repeatedly, every year.
