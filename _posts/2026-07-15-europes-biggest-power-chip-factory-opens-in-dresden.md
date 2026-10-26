@@ -1,0 +1,19 @@
+---
+title: "Europe's biggest power-chip factory opens in Dresden"
+date: 2026-07-15 13:13:00 +0800
+tags: [technology, semiconductors, germany, industry]
+categories: [news]
+description: "Infineon opened its new Smart Power Fab in Dresden on 3 July, a 5 billion euro plant that the company calls its largest ever single investment. It will double Infineon's Dresden capacity for power semiconductors, with 1,000 new jobs and a plant built without natural gas."
+---
+
+On 3 July, in a hall in Dresden full of engineers in dark jackets and a stage set beside a silicon wafer held up like a trophy, Infineon opened its new Smart Power Fab. The 5 billion euro plant is the largest single investment in the German chipmaker's history, and the company says it will be the largest factory in the world for intelligent power semiconductors. It opened months ahead of schedule, and the timing is not accidental: the demand for the power chips that convert, switch and manage electricity has never been higher.
+
+The case for the plant is straightforward. Power semiconductors are the quiet workhorses of the energy transition. Every electric vehicle needs several dozen of them, every fast charger a rack, every wind turbine and solar inverter a stack of silicon chips that turn direct current into alternating current and back. Data centres, which Infineon's management names explicitly, eat power semiconductors at a rate that has surprised even the suppliers. The Dresden fab will roughly double Infineon's existing capacity on the site, add about 1,000 direct jobs, and produce chips for automotive, industrial and renewable-energy customers.
+
+What makes the plant more than a routine expansion is how it is being built. Infineon says the new fab runs without natural gas, using modern process heat sources instead, and uses closed-loop water systems. The company talks about recovering up to 45 per cent of the energy consumed in production. A digital twin was used to plan the line, and algorithmic scheduling is meant to keep the fab running at high utilization. For a semiconductor plant, which is usually among the most energy-hungry buildings a city hosts, that is a deliberate pitch: power chips for the energy transition, built in a factory that does its own transition in parallel.
+
+The politics were on display as well. Chancellor Friedrich Merz attended and framed the plant as evidence that Germany and Europe remain industrial powers. The factory has drawn about 920 million euros from the EU's Chips Act, and it is one of the first large fab projects funded under that programme to actually open rather than merely break ground. Europe currently makes around a tenth of the world's semiconductors, and the bloc has set itself a target of doubling that share by 2030. The Dresden fab is a concrete line on that graph.
+
+The trade-offs are worth keeping in view. A 5 billion euro fab is a bet on demand holding up, and power semiconductor cycles have a way of turning. The market for chips used in cars was oversupplied only two years ago, and the fact that it is tight now is partly why the fab is opening early. Subsidies on this scale also raise the question of what Europe is buying: sovereignty, jobs, or a capacity build that the market would eventually have funded anyway. The answer is probably all three, but not in equal measure.
+
+For Infineon, though, the opening is the payoff for a decade of positioning itself as the power-chip company. While the world's attention has been on leading-edge logic fabs in Taiwan and Arizona, the less glamorous power and analogue chip business has quietly become the bottleneck for electrification. A factory that can make more of those chips, on time, without natural gas, and a few months ahead of plan, is exactly the kind of infrastructure the energy transition was short of. The wafer on stage in Dresden is a symbol, but it is also a product line.

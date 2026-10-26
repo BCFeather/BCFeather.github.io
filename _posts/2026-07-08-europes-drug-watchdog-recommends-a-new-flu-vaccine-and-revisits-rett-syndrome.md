@@ -1,0 +1,21 @@
+---
+title: "Europe's drug watchdog recommends a new flu vaccine and revisits Rett syndrome"
+date: 2026-07-08 11:11:00 +0800
+tags: [health, drugs, ema, regulation]
+categories: [news]
+description: "At its June meeting the European Medicines Agency's committee recommended six new medicines for approval, including a cell-culture flu vaccine for over-50s, reversed an earlier refusal on a Rett syndrome drug, and moved to withdraw one already on the market. The decisions were published on 26 June."
+---
+
+Every four weeks, the Committee for Medicinal Products for Human Use, the scientific arm of the European Medicines Agency, meets in Amsterdam and emerges with a list of decisions that will shape what patients across the European Union can actually prescribe. The meeting that ran from 22 to 25 June, with results published on 26 June, was a busy one: six new medicines recommended for approval, three negative opinions, one withdrawal of an already-marketed drug, and a reversal of an earlier refusal on a treatment for a rare neurodevelopmental disorder.
+
+The headline for the coming winter is a new influenza vaccine. The committee recommended granting a marketing authorization for Aujemflu, an inactivated cell-culture flu vaccine made by Seqirus, for people aged 50 and older. Flu vaccination in older adults is one of the quiet successes of European public health, and a new adjuvanted option aimed squarely at the age group most at risk arrives ahead of the autumn campaign. The same meeting also recommended that the live nasal-spray flu vaccine Fluenz be allowed to be given by non-healthcare professionals under supervision, a small but practical change that should make school-based clinics easier to run.
+
+The more unusual decision was a re-examination. The committee had originally refused to recommend Daybu, Acadia's drug trofinetide, for the neurobehavioural symptoms of Rett syndrome, a rare genetic disorder that affects girls almost exclusively. After the company's appeal, the committee reversed itself and recommended authorization, but for a restricted indication: adults and children aged five and older, and only for the behavioural symptoms rather than the whole syndrome. It is a reminder that rare-disease decisions in drug regulation are not binary yes-or-no calls, but careful negotiations over what the evidence actually supports.
+
+The rest of the new approvals were a mixed pharmaceutical calendar. Hopledo, a levodopa-carbidopa combination from Zambon, was recommended for Parkinson's patients with motor fluctuations not controlled on oral therapy. Onswik, Eli Lilly's once-weekly basal insulin efsitora alfa, got a positive opinion for type 2 diabetes. Two biosimilars, denosumab and pegfilgrastim, were also cleared.
+
+The negative opinions are as telling as the positives. The committee refused three drugs: a cell therapy for advanced melanoma, a faecal-microbiota transplant for graft-versus-host disease, and narsoplimab for a rare complication of stem-cell transplant. Each refusal is a public statement that the evidence, as submitted, did not clear the bar. And in a separate conclusion, the committee recommended revoking the marketing authorization for avacopan, sold as Tavneos, after a review found the benefits no longer outweighed the risks, citing concerns about the data integrity of the main supporting study.
+
+The slower, less visible work of the meeting was equally dense. The committee recommended extending the indication of the mpox and smallpox vaccine Imvanex down to children aged two and older, a direct response to the ongoing multi-country outbreak. It limited the chikungunya vaccine Ixchiq to people aged 12 and over at high risk. It declined to add a cardiovascular-outcomes indication for tirzepatide, Mounjaro, though it agreed to include the trial data in the product information so prescribers could see it.
+
+What the list shows is how routine drug approval has become, and how much judgement remains inside it. Most months, most of these decisions happen without ceremony, and patients only notice them when a medicine they are waiting for appears or disappears. The June list, though, has three items worth pausing on: a new flu vaccine for the autumn, a Rett syndrome treatment rescued after an appeal, and a drug pulled from the market because the evidence behind it did not hold.
