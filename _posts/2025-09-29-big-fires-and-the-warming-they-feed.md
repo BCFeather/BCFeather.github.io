@@ -1,0 +1,17 @@
+---
+title: "Big fires, and the warming they feed"
+date: 2025-09-29 09:40:00 +0800
+tags: [climate, wildfires, environment]
+categories: [science]
+description: "In the 26 September issue of *Nature*, researchers report evidence that the growing scale of forest fires may itself be warming the surface, as the dark char left by large burns absorbs more sunlight than the forest that stood before. The finding adds a feedback loop to the fire climate equation: bigger fires beget more heat, and more heat begets bigger fires."
+---
+
+Forest fires have been growing larger and more frequent, and the explanation usually runs in one direction: a warming climate dries the vegetation, lengthens the fire season, and amplifies the burns, so that climate drives fire. A paper in the 26 September issue of *Nature* reports evidence that the relationship also runs the other way. The large fires of recent years may themselves be warming the surface, through the simplest of mechanisms: burned ground is darker than forest, dark char absorbs more sunlight than green canopy, and the ground that a big fire leaves behind soaks up heat that the standing forest would have reflected. The result is a feedback loop, and the paper gives the loop a quantitative shape.
+
+The mechanism is straightforward physics applied to a complex surface. The albedo of a landscape, its reflectivity, determines how much solar energy bounces back into space and how much is absorbed; a forest is relatively bright, a blackened burn scar is dramatically darker, and the difference is a real change in the energy budget of the surface. A fire that burns a large area does not only release carbon; it also repaints the ground, and the repainting has consequences that outlast the smoke. The study, the paper reports, shows the scale of that repainting being large enough to matter regionally.
+
+The interplay of the two effects, the fire's direct warming and its legacy of darker ground, is where the climate significance lies. The carbon released in the burn is a one-time pulse, eventually reabsorbed as vegetation regrows; the albedo change, however, persists as long as the scar does, years for fast-growing ecosystems, far longer for slow ones. The paper's contribution is to quantify the albedo term and to show that it is not negligible, that the dark scar left by the modern era's large fires is itself a climate force, adding warmth on top of the fire's other effects.
+
+The feedback is a classic example of the kind that climate science has learned to fear. If warmer conditions produce bigger fires, and bigger fires produce warmer surfaces, then the system contains a self-amplifying loop, one whose strength depends on how often fires recur before regrowth can restore the reflectivity. The paper does not claim that the feedback dominates the climate story of fire, only that it is real, measurable, and currently missing from most accounts. Missing terms, in climate, are the ones that produce surprises.
+
+The work belongs to a broader effort to take the full measure of fire. The atmosphere's account of a burn, its carbon, its smoke, is well studied; the land's account, the changed surface that outlasts the flames, is the quieter half of the ledger, and the paper is a step toward keeping it properly. The big fires of the coming seasons will be measured in area and in carbon, and, if this line of work holds, increasingly in the warmth their scars retain, the ground remembering, long after the flames, that a fire passed here.

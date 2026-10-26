@@ -1,0 +1,17 @@
+---
+title: "Frost's descent and the season's turn"
+date: 2025-10-26 20:40:00 +0800
+tags: [seasons, solar-terms, autumn]
+categories: [essay]
+description: "On 23 October the solar term of Frost's Descent arrived, the last term of autumn and the one that announces winter's approach: the point in the year when the cold stops threatening and begins to arrive. A short essay on the season's final station, the persimmons and the maple leaves it brings out, and the particular beauty of the year's last warm days."
+---
+
+On 23 October the solar term of Frost's Descent arrived, the eighteenth station of the old calendar and the last of autumn, the term whose name announces what the season has been preparing for: the point in the year when frost becomes a fact of the landscape rather than a threat of it. The name is slightly ahead of the weather in most of the country, where the first frosts are still gathering their strength, but the calendar has always named the turning, not the fact, and the turning here is unmistakable: from Frost's Descent onward, the year's business is winter.
+
+The term sits at the hinge between the two halves of autumn. The early autumn was the season of harvest and the pleasant cooling; the late autumn, which this term opens, is the season of the end, when the leaves reach their final colour, the fields are cleared, and the landscape begins its long exposure to the cold. The old calendar treated the descent of frost as the moment when the outdoor year closes, when the work moves indoors and the country's attention turns from the fields to the hearth, and there is still something of that rhythm in the season.
+
+The practices of the term are the season's farewells. The persimmon, the fruit of the late autumn, is the emblem of the days around Frost's Descent, dried and kept and eaten through the winter; the maple and the ginkgo put on their last and best colours; the season's foods turn decisively to the warming and the preserving. The culture of the term is a culture of storage and preparation, of putting the year's harvest and the year's warmth away against the cold, and the rituals have a satisfaction to them that the summer's abundance never quite had.
+
+There is a particular beauty in this last stretch of the outdoor year, and the essayist is not alone in finding it. The light of late October is low and golden; the colours of the leaves, in the years when the weather cooperates, are the most dramatic of the year; the air has the clarity that the first cold brings. The days of the late autumn are the year's best argument for paying attention, and the term marks them: the last weeks in which the outdoors is worth lingering in, before the frost makes it official. The season's photographers and walkers know this better than the calendar does, and the term, which exists to mark the turn, gives the season's admirers a date for what they have always felt.
+
+The descent into winter is, in the end, the calmest of the year's transitions, because it is the one the year has been preparing for since September. The cold does not arrive suddenly; it advances by terms, each one announced, each one accepted, and Frost's Descent is the one that drops the pretence. The dew turned cold at Cold Dew; now the frost is on its way down, the persimmons are on the windowsills, and the year, by its own old schedule, is closing the outdoor season and turning, with all its gathered warmth, toward home.

@@ -1,0 +1,17 @@
+---
+title: "Cold Dew and the deepening autumn"
+date: 2025-10-08 20:40:00 +0800
+tags: [seasons, solar-terms, autumn]
+categories: [essay]
+description: "On 8 October the solar term of Cold Dew arrives, the seventeenth station of the old calendar, and the autumn crosses the threshold from pleasant to cold: the dew that gathered in September now carries the weight of the season's end. A short essay on the term, the chrysanthemums it brings out, and the year's long turn toward winter."
+---
+
+The solar terms have a way of arriving exactly when the season changes its mood, and Cold Dew, which falls this year on 8 October, is one of the most accurate of them. The name marks the next step in the sequence that White Dew began a month earlier: the nights have grown cold enough that the morning dew feels genuinely cold to the touch, and the word carries the season's next grade of chill. The autumn that began in September as a pleasant relief from summer has crossed a line; from Cold Dew onward, the season's business is the approach of winter.
+
+The calendar's placement of the term is worth noting. Cold Dew follows the autumn equinox, whose promise of cooling has now been kept, and it precedes the descent into the deep autumn that ends with frost and the beginning of winter. The old calendar was precise about the year's graduations, and the term is its marker of the moment when the country's vast middle latitudes begin to turn seriously cool, when the evenings shorten, the mornings sharpen, and the clothes come out of the back of the wardrobe.
+
+The culture of the term is dominated, appropriately, by a flower that blooms into the cold. The chrysanthemum is the emblem of late autumn, and the festivals and plantings associated with the season gather around it: the flower that opens as the garden fades, that carries the year's last colour, and that the tradition treats as a lesson in resilience, blooming on purpose when everything else is closing down. The association of the chrysanthemum with Cold Dew is so strong that the flower and the term have become, in the popular imagination, a pair.
+
+The practices attached to the term are about adjustment, the same quiet theme that runs through all the terms of the year's decline. The advice shifts from the pleasantries of early autumn to the practicalities of cold: the warming foods, the extra layer, the attention to the joints and the chest that the tradition has always said the damp cold of late autumn attacks. The term is a nudge, repeated annually, to make peace with the shortening days and to organise the small defences against the cold before the cold organises itself.
+
+There is a particular value, in a society that has largely stopped consulting the sky, in the terms' continued presence in the language. The solar terms do not control anything anymore; no one plans the harvest by them, and no one's livelihood depends on them, and yet they survive in the calendar, in the idioms, in the dates that parents still mention when the weather turns. The survival is evidence that the terms named something durable about the year, a sequence of transitions that the climate still performs on schedule, whatever the forecasts and the apps may add. Cold Dew does not tell anyone anything they could not learn from a thermometer; but it tells them the way a calendar tells a story, with a name for each stage, and the story is the year's, told at the right time.

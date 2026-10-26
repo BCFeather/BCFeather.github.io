@@ -1,0 +1,17 @@
+---
+title: "White Dew and the first chill"
+date: 2025-09-07 20:40:00 +0800
+tags: [seasons, solar-terms, autumn]
+categories: [essay]
+description: "On 7 September the solar term of White Dew arrives, the first term of autumn to carry a promise of cold, and the season's most delicate hinge: the moment the heat begins, however reluctantly, to let go. A short essay on dew, the turning of the year, and the small signs the old calendar taught people to read."
+---
+
+The solar terms divide the year into twenty-four stations, and most of them arrive without the general population noticing; they are the private calendar of farmers, weather forecasters and the keepers of tradition. But a few have escaped into general awareness, and White Dew, which falls this year on 7 September, is one of them. The name is a promise: after the long assault of summer, the nights have finally grown cool enough that moisture condenses, and at dawn the grass is wet with dew that was not there a month ago. The term does not bring cold; it brings the first evidence that cold is possible, which is a different and subtler thing.
+
+The astronomy behind the term is a matter of small changes. The sun is retreating southward, the days are shortening, and the heat, though still present in the afternoon, no longer has the stamina to carry through the night. The dew is the visible signature of that loss of stamina: water vapour that the warm air could hold all night in July now settles, by September, onto the grass. The old calendar named the phenomenon with perfect economy, because it named the transition itself: summer ends not on a date of drama but at the moment when the night regains its coolness.
+
+The culture of the term is quiet, which fits its subject. The prescriptions attached to White Dew are mostly about care: the advice not to sleep without cover, the warnings about the first chill of the morning, the seasonal recipes that begin to shift from cold drinks toward warm ones. There is no festival to speak of, no meal that defines the day; there is instead a general, unassertive adjustment of habits, the whole society turning, in small ways, toward warmth. The term is a reminder that the year's big transitions are usually managed in the minor key.
+
+There is also something worth saving in the old attention to such days. The solar terms are, at bottom, a technology: a way of distributing the astronomical year into practical markers that an agricultural society could act on without instruments. White Dew told the farmer when to expect the first frosts, the gardener when to bring things in, the family when the season was turning. Modern life, with its air conditioning and its constant produce and its indifference to the sky, has grown out of the need for most of that advice, and the loss is real even if the need is gone. The dew is still there on September mornings; it is we who stopped reading it.
+
+The term passes, as the terms always do, and the autumn it announces deepens around it: the equinox will come, the leaves will turn, the chill will stop being a promise and become a fact. But White Dew is the hinge, the moment when the year, at last, begins to cool, and the grass in the morning, wet and fresh, is its small, annual proof. The old calendar gave the moment a name, and the name has lasted, because it described something true about the turning of the year, and about the patience with which the seasons make their changes.
