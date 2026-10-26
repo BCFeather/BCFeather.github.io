@@ -1,0 +1,21 @@
+---
+title: "Training plastic-eating bacteria with a runaway virus"
+date: 2026-06-05 09:23:00 +0800
+tags: [synthetic-biology, bacteria, directed-evolution]
+categories: [science]
+description: "A Singapore team writing in *Nature Microbiology* has built a directed-evolution platform that lets a reprogrammed virus mutate an entire gene pathway 160,000 times faster than its host, improving plastic digestion in five cycles."
+---
+
+Teaching a microbe to eat a new chemical is usually a slow negotiation with evolution. The standard tools either move carefully but at a crawl, or run continuously but lose control of what is changing. A paper published on 1 May 2026 in *Nature Microbiology*, from Julius Fredens and colleagues at the National University of Singapore, adds a third option: a directed-evolution platform that borrows a bacteriophage and lets the virus do the rushing while the researchers keep their hands on the brake.
+
+The system is called LySE, for lytic selection and evolution. Its host is *Escherichia coli*, and its workhorse is a reprogrammed T7 phage, the kind of virus that infects the bacterium and bursts it open within minutes. The team places the gene pathway they want to improve onto a small DNA ring called a phagemid, and lets a deliberately error-prone version of T7 DNA polymerase copy it. Where a normal polymerase copies DNA like a careful photocopier, this engineered variant makes about 160,000 times more copying errors than the bacterium's own machinery. That sloppiness is the point: each new phage particle carries a fresh set of mutations in the target genes.
+
+The paradox is that the high error rate is also what keeps the system safe. The same sloppy enzyme mutates the virus's own genome, so the phage becomes weak and cannot spread uncontrollably. The researchers toggle between a mutation phase, when the phage generates variants of the chosen genes, and a selection phase, when those variants are moved into fresh, unmutated bacteria and tested. Because the improvements stay confined to the target pathway and never touch the rest of the host's genome, the winning gene set can be lifted straight into a different organism.
+
+This matters because the hard problems in metabolic engineering are not single genes. Digesting a plastic or fixing carbon demands a whole factory line of enzymes working in concert, which means long stretches of DNA. Existing continuous-evolution methods such as phage-assisted continuous evolution are fast but can only handle roughly 8,000 DNA letters, too short for most pathways, and they are prone to cheaters that evolve around the test instead of improving the target. LySE works on stretches up to about 40,000 letters, five times that limit, and the fresh-host reset each round removes the cheater problem.
+
+The proof of concept is a five-gene pathway that lets *E. coli* live on ethylene glycol, a chemical used in making PET plastic. After five cycles, with glucose withheld each time, the best-performing strain produced 50.9 per cent more biomass using ethylene glycol as its sole food. A separate antibiotic-resistance test confirmed that the gains were built into the target cluster and survived transfer into a new host.
+
+The implications are larger than the demonstration. A platform that optimizes multi-gene pathways in weeks rather than years opens work on biosynthetic routes for medicines, on microbes that break down pollutants, and on synthetic carbon-fixation cycles that have never existed in nature. The team says its next target is to take computationally designed metabolic routes that work on paper and tune them until they run inside a cell. The kit needs only standard laboratory equipment, which lowers the barrier for labs without specialist phage expertise. A patent has been filed on the technology.
+
+None of this means plastic waste is about to be solved by a vial of bugs. Field deployment, containment and the economics of scaling all remain. But the old trade-off between controlled and rapid evolution has, for the first time, been genuinely broken. When the virus is the one moving fast and the researchers are the ones pausing, training biology stops being a choice between slow and careful and fast and blind.
