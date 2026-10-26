@@ -1,0 +1,17 @@
+---
+title: "Ancient DNA opens a window on Shimao"
+date: 2025-11-29 09:40:00 +0800
+tags: [archaeology, ancient-dna, china]
+categories: [science]
+description: "In the 27 November issue of *Nature*, researchers report on the people of Shimao, the 4,000-year-old walled city in northern China, using ancient DNA to trace their origins, social structure and cultural practices. One of the most enigmatic sites in early Chinese archaeology finally has a human story to go with its walls."
+---
+
+Shimao is one of the strangest archaeological sites in early China. On the Loess Plateau of Shaanxi, a city that flourished around four thousand years ago, its massive stone walls, its platform of rammed earth, and its human remains tell a story of a polity that modern archaeology is still learning to read. The site has been called a lost city, and it has raised more questions than it answered: who built it, where did they come from, how was such a place sustained, and why did it end? A paper in the 27 November issue of *Nature* brings a new kind of evidence to those questions, ancient DNA from the site's people, and with it a direct view of Shimao's population and its connections to the wider world.
+
+The genetic results anchor the city in its region. The Shimao individuals examined in the study show ancestry consistent with the populations of the surrounding area, but with patterns of variation that reveal movement and mixture: people buried at Shimao were not a closed, isolated community but a place where different lines came together. The finding matters because the city's material culture had already suggested a crossroads, with artefacts and practices that point in several directions at once. The DNA puts that suggestion on firmer ground, showing a population assembled from streams that met at the city.
+
+The social structure is the second story the data tell. Ancient DNA can be read not only for ancestry but for the organisation of the people who left it, and the study finds signals of hierarchy and patterned relationships at Shimao, consistent with the steep social order that the architecture already implied. The city's monumental construction, its jade objects, its elaborate burials, had all hinted at stratification; the genetics now speak to the human organisation underneath, to who was buried where and with whom, and to how the community arranged itself across generations.
+
+There is a grimmer dimension that the paper does not avoid. Shimao is notorious for the remains found in its walls and its rituals, evidence that the city's order may have been maintained at a human cost. The genetic analysis touches on these practices, and the researchers are careful to state what the data can and cannot say about them. The site's history is not a gentle one, and a study of its people has to hold both truths at once: a sophisticated polity, and one whose sophistication had a price.
+
+What the paper contributes, finally, is biography at the scale of a population. The walls of Shimao have been excavated for a decade and more; the people who built them have, until now, been visible only through their works. Ancient DNA turns them into a population with origins, connections and structure, a city's residents with a place in the wider map of Bronze Age China. Four millennia after the city fell, and centuries after its name was forgotten, its people have begun to speak, and the story they tell is the one the stones could not.

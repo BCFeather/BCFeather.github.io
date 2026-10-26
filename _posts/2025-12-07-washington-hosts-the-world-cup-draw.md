@@ -1,0 +1,17 @@
+---
+title: "Washington hosts the World Cup draw"
+date: 2025-12-07 09:20:00 +0800
+tags: [football, world-cup, sport]
+categories: [news]
+description: "On 5 December, the draw for the 2026 World Cup took place at the Kennedy Center in Washington, setting the groups for the first 48-team tournament, to be played across the United States, Canada and Mexico next summer. The ceremony closed months of speculation and opened the countdown to the biggest World Cup ever staged."
+---
+
+On the evening of 5 December, the 2026 World Cup took its concrete shape. At the Kennedy Center in Washington, the draw ceremony assigned the forty-eight qualified teams to their groups, ending months of speculation and setting the stage for a tournament that will be the largest ever staged: forty-eight teams, three host countries, and a summer of football spread across the United States, Canada and Mexico. The draw was a ceremony, a piece of television, an exercise in choreography, and beneath the spectacle it performed the tournament's most consequential administrative act, deciding who plays whom, where, and in what order.
+
+The format is new, and the draw was the first real test of how it works. Forty-eight teams mean twelve groups of four, with the top two from each group plus the best third-placed sides advancing to a knockout stage of thirty-two. The arithmetic changes the tournament's feel: more teams, more matches, more days, a World Cup that runs longer and reaches wider than any before. The draw's task was to translate that larger frame into twelve groups that balance the draw's own rules, separating the seeded teams, keeping the strongest apart, and spreading the hosts so that the three countries each anchor their own region of the bracket.
+
+The ceremony also performed the other function of every draw, which is to manufacture storylines. The group stage pairings produced the usual crop of talking points: the reunion of old rivals, the first meetings of teams from opposite corners of the world, the lucky groups and the groups of death. The analysis began immediately, in every time zone, and the volume of it was itself a measure of the tournament's weight. For the next six months, until the opening match in June, the groups will be re-examined, re-ranked and re-imagined in roughly equal measure.
+
+There is a logistics story underneath the spectacle that is worth noting. A three-nation tournament stretches the geography of the World Cup in ways previous editions never faced: matches in eleven cities, across three time zones and several climates, with travel demands that the draw had to respect by keeping groups reasonably compact. The scheduling is one of the quiet engineering challenges of 2026, and the draw's geography was its first visible expression. The months ahead will test how well the machinery holds, and the tournament's organisers are spending them on the details that no television camera will ever show.
+
+For the fans, the draw closes one chapter and opens another. The long qualification years are done; the tournament now has a shape, and the countdown to June has a calendar to hang on. The 2026 World Cup will be the largest, the most spread out, and in many ways the most Americanised edition in the competition's history, and on a December evening in Washington it finally began to look real. The groups are set, the cities are waiting, and the football, when it comes, will be played across a continent.

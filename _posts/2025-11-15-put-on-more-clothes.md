@@ -1,0 +1,17 @@
+---
+title: "Put on more clothes"
+date: 2025-11-15 20:40:00 +0800
+tags: [family, seasons, culture]
+categories: [essay]
+description: "As the first cold snap of the season arrives, so does the familiar refrain from parents and grandparents: put on more clothes. A short essay on the most universal instruction in the Chinese household, what it actually communicates, and why it never goes away."
+---
+
+Every year, when the temperature first drops, the same instruction is issued across the country, from a thousand thousand households, in almost identical words: put on more clothes. The speaker is usually a parent or a grandparent, the audience is usually someone who believes they are old enough to dress themselves, and the exchange follows a script as fixed as any folk ritual. The younger party leaves the house in what they consider adequate attire; the older party adds a layer, or a demand for a layer, that the younger party considers excessive. It is the most universal domestic dialogue in the Chinese household, and it recurs every autumn with the reliability of the cold front itself.
+
+The instruction is usually described as a joke about nagging, and it is funny, in the way that all scripted family rituals are funny, but the comedy is worth examining because the instruction is doing more work than it appears. On its surface it is about clothing; underneath it is about attention. The parent who says put on more clothes is not primarily delivering a weather report or a textile recommendation. They are saying: I am watching the weather for you, I am thinking about your comfort before you think about it, and I have a stake in your wellbeing that you, in your hurry, may not be carrying. The garment is the medium; the message is that someone is looking after you.
+
+The friction between generations on this point is also a small, reliable indicator of something real: the young and the old experience cold differently, and both are certain that their experience is the truth. The metabolic engine of a young body runs hotter, the thermostat of age runs lower, and the argument about a jacket is, in part, a genuine disagreement about physiology being conducted in the vocabulary of fashion. Neither side is wrong, which is why the argument never ends, and why both sides conduct it annually with such conviction.
+
+There is a geography to the instruction as well. It is issued most insistently in the places where the winters are real and where the memory of childhood illnesses and long school commutes in cold air is freshest. It is also issued across distance, in the phone calls that spike when the temperature drops, because the instruction is one of the few conversations in which distance does not dilute the message. A parent who cannot be in the same city can still issue the autumn instruction, and the child who rolls their eyes at it is, in the same moment, being reminded that they are watched, and wanted, and worried about.
+
+The day will come, for most people, when the roles reverse, when they are the ones issuing the instruction and receiving the eye-roll, and the discovery that they sound exactly like their parents is one of the quieter rites of adulthood. At that point the instruction is revealed for what it always was: not a lecture about the weather but a habit of care, passed down, slightly annoying, entirely sincere. Put on more clothes, said often enough, is one of the oldest ways the people who love you tell you so, without ever having to say it.
