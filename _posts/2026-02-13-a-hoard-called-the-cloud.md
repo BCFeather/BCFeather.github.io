@@ -1,0 +1,17 @@
+---
+title: "A hoard called the cloud"
+date: 2026-02-13 20:40:00 +0800
+tags: [technology, memory, society]
+categories: [essay]
+description: "A decade of cheap storage has made keeping everything the default and deleting nothing the norm. A short essay on digital hoarding, the courage it takes to delete, and what we lose when nothing is ever allowed to be forgotten."
+---
+
+Somewhere in a data centre, probably in more than one, there is a copy of every photograph anyone has ever taken of me, every document I have ever half-finished, every screenshot that once seemed worth keeping, and every version of every file I have ever renamed with the suffix final2. I did not organise this archive. I barely maintain it. It assembled itself, the way a pile of paper assembles itself on a desk, except that the digital pile costs almost nothing to grow and has no gravity, no dust, no smell, and therefore no visible reason to ever be cleared.
+
+The cloud was sold as liberation from the disk full of warnings, and it delivered: storage became so cheap that keeping became the path of least resistance, and the default action for every new file, photo and message was to save it, just in case. The result is that a whole generation now lives inside an attic of its own making, where the cost of storing everything is negligible and the cost of sorting it is enormous. The attics of the physical world enforced their own limits: boxes fill, houses move, paper rots, and the act of packing for a new flat forced decisions that the cloud has made unnecessary. The digital attic has no packing day.
+
+The odd thing is that deletion, which costs nothing and takes seconds, has become harder than it ever was. Partly this is cheap insurance: the world has actually punished people for deleting the wrong email and rewarded the hoarders who happened to need a five-year-old attachment. Partly it is sentiment, because a lifetime of photos really is a lifetime, and the delete key now feels like the door to a room that can never be re-entered. But mostly it is inertia. Nothing prompts a clean-out, nothing forces a choice, and so the default stands forever, which means that almost everyone is paying a small ongoing tax of attention to a store they will never revisit, most of which they will never miss.
+
+There is also a quiet cultural price. Memory technologies have always shaped what a society can think about itself, and a society that keeps everything is a society that has quietly given up on forgetting. Forgetting is not only a failure; it is a function. It is what lets a bad year recede, lets an argument end, lets a person change their mind without being confronted by their old one at every turn. When every draft of every opinion is stored and searchable, the space to have been wrong, to have experimented, to have been a different person, shrinks. The permanent archive is a wonderful resource for historians and a heavy coat for everyone else.
+
+The remedy is not a purge, which is its own kind of violence. It is the reintroduction of the ordinary rhythms that physical storage used to impose: the annual sort, the question of what this season is for, the small ceremony of letting the irrelevant go. The cloud does not need to be an attic; it can be a library, and libraries work because someone, at some point, decided what not to keep. Keeping everything is a way of trusting nothing, least of all one's own judgement about what was ever worth remembering.

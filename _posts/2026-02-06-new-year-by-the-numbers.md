@@ -1,0 +1,17 @@
+---
+title: "New year, by the numbers"
+date: 2026-02-06 21:30:00 +0800
+tags: [self-tracking, technology, society]
+categories: [essay]
+description: "Every January the wrist prompts, the rings close, the streaks begin. A short essay on what it means to live by the numbers on a screen, and what the numbers leave out."
+---
+
+There is a particular kind of New Year ritual that has little to do with fireworks. In the first weeks of the year, millions of people look down at their wrists and find the numbers waiting: steps taken, hours slept, minutes of deep focus, calories burned, screen time, heart rate variability. The resolutions have moved from the diary to the dashboard, and the dashboard, unlike the diary, does not forget, does not flatter, and does not care whether the person attached to it is having a bad week. It simply keeps score.
+
+The quantified self is an old impulse wearing new sensors. Keeping a record of what one does is as ancient as the ledger and the logbook, and there is genuine power in it. A number gives a baseline where there was only a hunch. A month of sleep data can show a pattern that no amount of vague feeling would reveal; a step count turns an intention to move more into something checkable, and checkable things get done. The tools are not trivial. They have turned vague worry into measured problems, and measured problems are the only kind medicine and habit change know how to solve.
+
+What is new is not measurement but the smoothness of it. The sensor never asks permission, the app never closes the loop, and the streak, once started, acquires a moral weight of its own. Closing the rings becomes the day's quiet obligation, and a broken streak feels less like a missed walk than like a lapse of character. At that point a strange inversion has taken place: the person who set the goal is now serving the instrument that tracks it, and the instrument, being an optimiser, rewards whatever it can measure, which is not the same as what matters. A perfect score on sleep quality does not tell you whether you spoke to anyone yesterday; a green circle for activity does not know why you were active; a flawless screen-time budget can coexist with a life that is empty in ways no app measures.
+
+The deeper cost is subtler than lost spontaneity. When a life is rendered as a set of numbers, the parts of it that resist quantification tend to fade from view, and what fades is often exactly what the numbers cannot see: the unplanned conversation, the afternoon without a purpose, the day that was good precisely because nothing on the dashboard changed. The dashboard is not wrong about what it tracks; it is wrong about the implication that everything worth tracking is on it. A person who optimises only what the app can score is a person slowly learning to value only what the app can score.
+
+None of this argues for throwing the devices away. The tools are useful precisely because they are honest about the narrow slice they measure, and the discipline they enforce is real discipline. The problem is one of hierarchy, not of hardware: the numbers should serve the person, not the reverse. The healthiest relationship with a self-tracking app may be the one in which the app is consulted like a weather report, useful for planning the day and not authoritative about the value of it. The rings close, the streaks grow, and the year quietly becomes more than the sum of its scores.
