@@ -51,3 +51,14 @@
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>
 </footer>
+
+<script>
+  (function () {
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      var swUrl = '{{ "/sw.js" | relative_url }}';
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register(swUrl, { updateViaCache: 'none' }).catch(function () {});
+      });
+    }
+  })();
+</script>
