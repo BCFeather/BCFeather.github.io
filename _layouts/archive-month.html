@@ -16,7 +16,7 @@ layout: page
   <ul class="list-unstyled" id="month-archive-list">
     {% for post in site.posts %}
       {% assign post_month = post.date | date: '%Y-%m' %}
-      {% if post_month == page.month | append: '' %}
+      {% if post_month == page.month %}
         <li>
           {% assign ts = post.date | date: '%s' %}
           <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
