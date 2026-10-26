@@ -71,7 +71,8 @@
       {{- site.data.locales[include.lang].post.relate_posts -}}
     </h3>
     <nav
-      class="related-scroll d-flex flex-nowrap gap-3 overflow-x-auto mb-4 pb-2"
+      class="related-scroll mb-4"
+      style="display: flex; flex-wrap: nowrap; gap: 1rem; overflow-x: auto; overflow-y: hidden; padding-bottom: 0.5rem;"
       aria-label="Related Posts"
     >
       {% for post in relate_posts %}
