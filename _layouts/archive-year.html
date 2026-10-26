@@ -1,61 +1,43 @@
 ---
 layout: page
-# Archive of the posts of a single year.
+# Archive of the posts of a single year, grouped by month.
 # The page front matter must provide `year` (e.g. `year: 2024`) and a permalink
-# such as /archives/2024/. Lists all posts whose date falls in that year;
-# shows the first 10 and reveals 10 more on each 'Load more' click.
+# such as /archives/2024/. For each month of that year: the month heading, the
+# post count, the five most recent posts, and a link to the full per-month page.
 ---
 {% include lang.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+{% assign year_posts = site.posts | where_exp: "post", "post.date | date: '%Y' == page.year" %}
 <div id="archives" class="pl-xl-3">
   <div class="mb-3">
     <a class="small text-muted" href="{{ '/archives/' | relative_url }}">Back to all archives</a>
   </div>
-  <ul class="list-unstyled" id="year-archive-list">
-    {% for post in site.posts %}
-      {% assign post_year = post.date | date: '%Y' %}
-      {% if post_year == page.year | append: '' %}
-        <li>
-          {% assign ts = post.date | date: '%s' %}
-          <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-            {{ post.date | date: df_strftime_m }}
-          </span>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  <div class="mt-4 text-center">
-    <button type="button" class="btn btn-outline-primary" id="load-more-btn">Load more</button>
-  </div>
+  {% assign posts_by_month = year_posts | group_by_exp: 'post', 'post.date | date: "%Y-%m"' %}
+  {% for month in posts_by_month %}
+    {% assign month_label = month.items.first.date | date: '%B %Y' %}
+    <section class="archive-summary-month mb-5">
+      <div class="border-bottom pb-2 mb-3" style="position: relative;">
+        <h2 class="year lead mb-0">
+          <a href="{{ '/archives/' | append: month.name | append: '/' | relative_url }}">{{ month_label }}</a>
+        </h2>
+        <span class="small text-muted" style="position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); font-size: 0.9375rem; white-space: nowrap;">{{ month.items | size }} posts</span>
+      </div>
+      <ul class="list-unstyled">
+        {% for post in month.items limit: 5 %}
+          <li>
+            {% assign ts = post.date | date: '%s' %}
+            <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
+            <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+              {{ post.date | date: df_strftime_m }}
+            </span>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <div class="mt-2">
+        <a class="small" href="{{ '/archives/' | append: month.name | append: '/' | relative_url }}">View all {{ month_label }} posts</a>
+      </div>
+    </section>
+  {% endfor %}
 </div>
-<script>
-  (function () {
-    var list = document.getElementById('year-archive-list');
-    if (!list) { return; }
-    var btn = document.getElementById('load-more-btn');
-    if (!btn) { return; }
-    var items = list.querySelectorAll('li');
-    var step = 10;
-    var shown = Math.min(step, items.length);
-    if (items.length <= shown) {
-      btn.classList.add('d-none');
-      return;
-    }
-    for (var i = shown; i < items.length; i++) {
-      items[i].classList.add('d-none');
-    }
-    btn.addEventListener('click', function () {
-      var next = Math.min(shown + step, items.length);
-      for (var i = shown; i < next; i++) {
-        items[i].classList.remove('d-none');
-      }
-      shown = next;
-      if (shown >= items.length) {
-        btn.classList.add('d-none');
-      }
-    });
-  })();
-</script>

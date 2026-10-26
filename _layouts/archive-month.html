@@ -1,0 +1,62 @@
+---
+layout: page
+# Archive of the posts of a single month.
+# The page front matter must provide `month` (e.g. `month: 2025-01`) and a
+# permalink such as /archives/2025-01/. Lists all posts whose date falls in
+# that month; shows the first 10 and reveals 10 more on each 'Load more' click.
+---
+{% include lang.html %}
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+{% assign m_year = page.month | slice: 0, 4 %}
+<div id="archives" class="pl-xl-3">
+  <div class="mb-3">
+    <a class="small text-muted" href="{{ '/archives/' | append: m_year | append: '/' | relative_url }}">Back to Archive {{ m_year }}</a>
+  </div>
+  <ul class="list-unstyled" id="month-archive-list">
+    {% for post in site.posts %}
+      {% assign post_month = post.date | date: '%Y-%m' %}
+      {% if post_month == page.month | append: '' %}
+        <li>
+          {% assign ts = post.date | date: '%s' %}
+          <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+            {{ post.date | date: df_strftime_m }}
+          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <div class="mt-4 text-center">
+    <button type="button" class="btn btn-outline-primary" id="load-more-btn">Load more</button>
+  </div>
+</div>
+<script>
+  (function () {
+    var list = document.getElementById('month-archive-list');
+    if (!list) { return; }
+    var btn = document.getElementById('load-more-btn');
+    if (!btn) { return; }
+    var items = list.querySelectorAll('li');
+    var step = 10;
+    var shown = Math.min(step, items.length);
+    if (items.length <= shown) {
+      btn.classList.add('d-none');
+      return;
+    }
+    for (var i = shown; i < items.length; i++) {
+      items[i].classList.add('d-none');
+    }
+    btn.addEventListener('click', function () {
+      var next = Math.min(shown + step, items.length);
+      for (var i = shown; i < next; i++) {
+        items[i].classList.remove('d-none');
+      }
+      shown = next;
+      if (shown >= items.length) {
+        btn.classList.add('d-none');
+      }
+    });
+  })();
+</script>
