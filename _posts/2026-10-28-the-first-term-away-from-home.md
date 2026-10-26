@@ -1,6 +1,6 @@
 ---
 title: "The first term away from home"
-date: 2026-10-20 17:36:00 +0800
+date: 2026-10-28 17:36:00 +0800
 tags: [essay, university, youth]
 categories: [essay]
 description: "Three months into my first term at Sichuan University in Chengdu, the novelty has worn off and the ordinary days have begun. A short essay on dormitories, dialects, and the slow realisation of what leaving Chizhou actually is."
