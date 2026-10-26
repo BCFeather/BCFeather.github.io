@@ -126,7 +126,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # The option for PWA feature (installable); disabled to suppress the theme's update-toast and SW logic (a custom network-first sw.js is registered from the footer instead)
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
