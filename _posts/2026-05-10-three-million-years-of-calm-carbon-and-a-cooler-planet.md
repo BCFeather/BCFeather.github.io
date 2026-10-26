@@ -1,0 +1,21 @@
+---
+title: "Three million years of calm carbon and a cooler planet"
+date: 2026-05-10 11:05:00 +0800
+tags: [climate, paleoclimate, carbon-dioxide, antarctica]
+categories: [science]
+description: "A shallow ice core from the Allan Hills blue ice has pushed direct greenhouse-gas measurements back three million years. Over that span, global cooling outpaced any change in CO2, a finding that complicates the simple story of carbon as the main long-term driver."
+---
+
+For as long as scientists have been measuring air trapped in Antarctic ice, the record has had a hard wall. The European EPICA core from Dome C, the longest continuous atmospheric archive in existence, reaches back 800,000 years, and older ice is destroyed by geothermal heat at the base of the sheet. A study published in *Nature* on 16 April, from Julia Marks-Peterson at Oregon State University and colleagues, punches a hole through that wall, and what it finds on the other side is awkward for a comfortable narrative about carbon dioxide.
+
+The trick is to drill where the ice is old but not deep. In the Allan Hills blue ice area of Victoria Land, wind and ice flow have pushed ice up from depth and exposed it at the surface, so a shallow core of only a hundred to two hundred metres can sample material that is millions of years old. The team, working through the ALHIC1901 core and dating layers with an atmospheric argon isotope, assembled discontinuous greenhouse-gas snapshots spanning 3.1 to 0.5 million years ago, covering two pivotal transitions: the shift into Northern Hemisphere glaciation around 2.6 million years ago, and the switch from weak 40,000-year ice-age cycles to strong 100,000-year cycles between 1.2 and 0.8 million years ago.
+
+The numbers are what give the paper its bite. Methane stayed close to five hundred parts per billion throughout the earlier transition. Carbon dioxide, meanwhile, fell by only about twenty parts per million between 2.9 and 1.2 million years ago, and then held within ten parts per million of that level. Yet the temperature record from the same core tells a different story: East Antarctica cooled by roughly 3.5 degrees over the Pliocene, and global ocean temperatures fell by about 2.5 degrees. Over millions of years, in other words, the planet cooled substantially while the atmospheric greenhouse gases that supposedly drove the cooling barely shifted.
+
+That is the finding that asks the awkward question. The intuitive account of long-term climate change is that greenhouse gases are the lever: CO2 rises and the world warms, CO2 falls and it cools. The Allan Hills record suggests that, on these geological timescales, something else was doing the work. The authors point to ocean circulation, to ice-sheet and vegetation changes that alter how much sunlight the planet reflects, and to slow shifts in geography, as the forces behind the cooling. Carbon dioxide, on this reading, was more passenger than driver over the three-million-year span.
+
+There is a second, quieter result. Over the whole period, atmospheric CO2 moved by less than the equivalent of 840 billion tonnes of carbon, which the authors read as evidence that the long-term carbon cycle held itself in extraordinary balance: natural volcanic sources balanced burial in organic matter and carbonate rock to within a fraction of a percent, across millions of years.
+
+The paper is not without its disputes. The ice is discontinuous, so the oldest samples may average several cycles together, smoothing away extremes. The reconstructed Pliocene CO2 level of around 250 parts per million sits well below the 350 to 400 parts per million that independent boron-isotope reconstructions suggest, a discrepancy the authors acknowledge and cannot fully close. That mismatch matters, and it should temper any rush to rewrite the textbook.
+
+Yet the core challenge stands. Natural climate variation over millions of years ran on a smaller carbon swing than many models assumed, which is both a reassurance and a warning. It says the system has stabilized carbon before, and it says nothing at all about the several hundred parts per million we have added in two centuries. The geological record shows a planet that was adept at balancing its own books. It does not show one that has ever had to balance them as fast as this.
