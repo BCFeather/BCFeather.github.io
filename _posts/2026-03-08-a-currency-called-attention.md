@@ -3,7 +3,7 @@ title: "A currency called attention"
 date: 2026-03-08 21:15:00 +0800
 tags: [attention, technology, society]
 categories: [essay]
-description: "Every hour of every day, attention is bought, sold, measured and optimised by systems that were built to be profitable before they were built to be good. A short essay on what it means when the scarcest resource in a connected society has a price tag."
+description: "Every hour of every day, attention is bought, sold, measured and optimized by systems that were built to be profitable before they were built to be good. A short essay on what it means when the scarcest resource in a connected society has a price tag."
 ---
 
 There is a sentence that appears, in one form or another, in the mission statements of almost every large technology company: we compete for your attention. It is not a metaphor anymore. Attention has a price, a market and a measurement apparatus. Every scroll, every pause, every half-second of dwell time is logged, weighted, auctioned and fed back into the design of the next screen, and the whole apparatus is so efficient that a person who spends an evening online has effectively performed several hours of unpaid work for the attention economy, with the product being their own state of mind.
