@@ -11,11 +11,11 @@ layout: page
   {% assign posts_by_year = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in posts_by_year %}
     <section class="archive-summary-year mb-5">
-      <div class="border-bottom pb-2 mb-3">
+      <div class="border-bottom pb-2 mb-3" style="position: relative;">
         <h2 class="year lead mb-0">
           <a href="{{ '/archives/' | append: year.name | append: '/' | relative_url }}">{{ year.name }}</a>
-          <span class="small text-muted" style="position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); font-size: 0.875rem; white-space: nowrap;">{{ year.items | size }} posts</span>
         </h2>
+        <span class="small text-muted" style="position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); font-size: 0.9375rem; white-space: nowrap;">{{ year.items | size }} posts</span>
       </div>
       <ul class="list-unstyled">
         {% for post in year.items limit: 5 %}
